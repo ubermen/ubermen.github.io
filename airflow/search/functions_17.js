@@ -6,6 +6,5 @@ var searchData=
   ['worker',['worker',['../namespaceairflow_1_1bin_1_1cli.html#afa246a63011b975f3cf57993c2d77a07',1,'airflow::bin::cli']]],
   ['wrapped_5fmarkdown',['wrapped_markdown',['../namespaceairflow_1_1www_1_1views.html#af04c46df7ac1bc01ed21696f414618b7',1,'airflow::www::views']]],
   ['write',['write',['../classairflow_1_1utils_1_1logging_1_1_s3_log.html#a14e9018986685eed3193a25197ec7a65',1,'airflow.utils.logging.S3Log.write()'],['../classairflow_1_1utils_1_1logging_1_1_g_c_s_log.html#a6c149b9d4fcc38b8752a9c706b0b4b5c',1,'airflow.utils.logging.GCSLog.write()']]],
-  ['write_5fobject_5fto_5ffile',['write_object_to_file',['../classairflow_1_1contrib_1_1hooks_1_1salesforce__hook_1_1_salesforce_hook.html#a225be2396f2d6f2e4dda7ff48e3318fb',1,'airflow::contrib::hooks::salesforce_hook::SalesforceHook']]],
-  ['write_5fversion',['write_version',['../namespacesetup.html#a4df94057d90ed094a144b6fd50876328',1,'setup']]]
+  ['write_5fobject_5fto_5ffile',['write_object_to_file',['../classairflow_1_1contrib_1_1hooks_1_1salesforce__hook_1_1_salesforce_hook.html#a225be2396f2d6f2e4dda7ff48e3318fb',1,'airflow::contrib::hooks::salesforce_hook::SalesforceHook']]]
 ];

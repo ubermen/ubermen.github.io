@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=9"/>
 <meta name="generator" content="Doxygen 1.8.13"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>airflow_analysis: airflow.jobs.LocalTaskJob Class Reference</title>
+<title>airflow_1.8.0: airflow.jobs.LocalTaskJob Class Reference</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -21,7 +21,7 @@
  <tbody>
  <tr style="height: 56px;">
   <td id="projectalign" style="padding-left: 0.5em;">
-   <div id="projectname">airflow_analysis
+   <div id="projectname">airflow_1.8.0
    </div>
   </td>
  </tr>
@@ -112,6 +112,8 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:a3adc8b3c91e4c1c1efdaf39da41c0a1e inherit pub_methods_classairflow_1_1jobs_1_1_base_job"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a00b97f5aeafee8147b438528968daa78 inherit pub_methods_classairflow_1_1jobs_1_1_base_job"><td class="memItemLeft" align="right" valign="top">def&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classairflow_1_1jobs_1_1_base_job.html#a00b97f5aeafee8147b438528968daa78">run</a> (self)</td></tr>
 <tr class="separator:a00b97f5aeafee8147b438528968daa78 inherit pub_methods_classairflow_1_1jobs_1_1_base_job"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a783222ea2eb84988ec0c269cc0698b71 inherit pub_methods_classairflow_1_1jobs_1_1_base_job"><td class="memItemLeft" align="right" valign="top">def&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classairflow_1_1jobs_1_1_base_job.html#a783222ea2eb84988ec0c269cc0698b71">reset_state_for_orphaned_tasks</a> (self, dag_run, session=None)</td></tr>
+<tr class="separator:a783222ea2eb84988ec0c269cc0698b71 inherit pub_methods_classairflow_1_1jobs_1_1_base_job"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="inherit_header pub_methods_classairflow_1_1utils_1_1logging_1_1_logging_mixin"><td colspan="2" onclick="javascript:toggleInherit('pub_methods_classairflow_1_1utils_1_1logging_1_1_logging_mixin')"><img src="closed.png" alt="-"/>&#160;Public Member Functions inherited from <a class="el" href="classairflow_1_1utils_1_1logging_1_1_logging_mixin.html">airflow.utils.logging.LoggingMixin</a></td></tr>
 <tr class="memitem:a234bce176cfdc02a4a2e2f2afd96a856 inherit pub_methods_classairflow_1_1utils_1_1logging_1_1_logging_mixin"><td class="memItemLeft" align="right" valign="top">def&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classairflow_1_1utils_1_1logging_1_1_logging_mixin.html#a234bce176cfdc02a4a2e2f2afd96a856">logger</a> (self)</td></tr>
 <tr class="separator:a234bce176cfdc02a4a2e2f2afd96a856 inherit pub_methods_classairflow_1_1utils_1_1logging_1_1_logging_mixin"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -172,7 +174,7 @@ Additional Inherited Members</h2></td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock">
-<p class="definition">Definition at line <a class="el" href="airflow_2jobs_8py_source.html#l02004">2004</a> of file <a class="el" href="airflow_2jobs_8py_source.html">jobs.py</a>.</p>
+<p class="definition">Definition at line <a class="el" href="jobs_8py_source.html#l02026">2026</a> of file <a class="el" href="jobs_8py_source.html">jobs.py</a>.</p>
 </div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
 <a id="a9ce2a5a22f37309892e67578ba23cd0e"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#a9ce2a5a22f37309892e67578ba23cd0e">&#9670;&nbsp;</a></span>__init__()</h2>
@@ -254,7 +256,7 @@ Additional Inherited Members</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="airflow_2jobs_8py_source.html#l02020">2020</a> of file <a class="el" href="airflow_2jobs_8py_source.html">jobs.py</a>.</p>
+<p class="definition">Definition at line <a class="el" href="jobs_8py_source.html#l02042">2042</a> of file <a class="el" href="jobs_8py_source.html">jobs.py</a>.</p>
 
 </div>
 </div>
@@ -285,7 +287,15 @@ Additional Inherited Members</h2></td></tr>
       </table>
 </div><div class="memdoc">
 <pre class="fragment">Self destruct task if state has been moved away from running externally</pre> 
-<p class="definition">Definition at line <a class="el" href="airflow_2jobs_8py_source.html#l02094">2094</a> of file <a class="el" href="airflow_2jobs_8py_source.html">jobs.py</a>.</p>
+<p class="definition">Definition at line <a class="el" href="jobs_8py_source.html#l02127">2127</a> of file <a class="el" href="jobs_8py_source.html">jobs.py</a>.</p>
+<div class="dynheader">
+Here is the call graph for this function:</div>
+<div class="dyncontent">
+<div class="center"><img src="classairflow_1_1jobs_1_1_local_task_job_a18cadd9ec0b5bcc78f66eb180733bbbb_cgraph.png" border="0" usemap="#classairflow_1_1jobs_1_1_local_task_job_a18cadd9ec0b5bcc78f66eb180733bbbb_cgraph" alt=""/></div>
+<map name="classairflow_1_1jobs_1_1_local_task_job_a18cadd9ec0b5bcc78f66eb180733bbbb_cgraph" id="classairflow_1_1jobs_1_1_local_task_job_a18cadd9ec0b5bcc78f66eb180733bbbb_cgraph">
+<area shape="rect" id="node2" href="classairflow_1_1jobs_1_1_local_task_job.html#a589deb8b0b4bd7ff8c5b223aba6786ed" title="airflow.jobs.LocalTaskJob.\l_is_descendant_process" alt="" coords="280,5,453,47"/>
+</map>
+</div>
 
 </div>
 </div>
@@ -305,7 +315,7 @@ Additional Inherited Members</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="airflow_2jobs_8py_source.html#l02089">2089</a> of file <a class="el" href="airflow_2jobs_8py_source.html">jobs.py</a>.</p>
+<p class="definition">Definition at line <a class="el" href="jobs_8py_source.html#l02110">2110</a> of file <a class="el" href="jobs_8py_source.html">jobs.py</a>.</p>
 
 </div>
 </div>
@@ -322,7 +332,7 @@ Additional Inherited Members</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="airflow_2jobs_8py_source.html#l02022">2022</a> of file <a class="el" href="airflow_2jobs_8py_source.html">jobs.py</a>.</p>
+<p class="definition">Definition at line <a class="el" href="jobs_8py_source.html#l02044">2044</a> of file <a class="el" href="jobs_8py_source.html">jobs.py</a>.</p>
 
 </div>
 </div>
@@ -338,7 +348,7 @@ Additional Inherited Members</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="airflow_2jobs_8py_source.html#l02023">2023</a> of file <a class="el" href="airflow_2jobs_8py_source.html">jobs.py</a>.</p>
+<p class="definition">Definition at line <a class="el" href="jobs_8py_source.html#l02045">2045</a> of file <a class="el" href="jobs_8py_source.html">jobs.py</a>.</p>
 
 </div>
 </div>
@@ -354,7 +364,7 @@ Additional Inherited Members</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="airflow_2jobs_8py_source.html#l02024">2024</a> of file <a class="el" href="airflow_2jobs_8py_source.html">jobs.py</a>.</p>
+<p class="definition">Definition at line <a class="el" href="jobs_8py_source.html#l02046">2046</a> of file <a class="el" href="jobs_8py_source.html">jobs.py</a>.</p>
 
 </div>
 </div>
@@ -370,7 +380,7 @@ Additional Inherited Members</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="airflow_2jobs_8py_source.html#l02025">2025</a> of file <a class="el" href="airflow_2jobs_8py_source.html">jobs.py</a>.</p>
+<p class="definition">Definition at line <a class="el" href="jobs_8py_source.html#l02047">2047</a> of file <a class="el" href="jobs_8py_source.html">jobs.py</a>.</p>
 
 </div>
 </div>
@@ -386,7 +396,7 @@ Additional Inherited Members</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="airflow_2jobs_8py_source.html#l02028">2028</a> of file <a class="el" href="airflow_2jobs_8py_source.html">jobs.py</a>.</p>
+<p class="definition">Definition at line <a class="el" href="jobs_8py_source.html#l02050">2050</a> of file <a class="el" href="jobs_8py_source.html">jobs.py</a>.</p>
 
 </div>
 </div>
@@ -402,7 +412,7 @@ Additional Inherited Members</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="airflow_2jobs_8py_source.html#l02027">2027</a> of file <a class="el" href="airflow_2jobs_8py_source.html">jobs.py</a>.</p>
+<p class="definition">Definition at line <a class="el" href="jobs_8py_source.html#l02049">2049</a> of file <a class="el" href="jobs_8py_source.html">jobs.py</a>.</p>
 
 </div>
 </div>
@@ -418,7 +428,7 @@ Additional Inherited Members</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="airflow_2jobs_8py_source.html#l02026">2026</a> of file <a class="el" href="airflow_2jobs_8py_source.html">jobs.py</a>.</p>
+<p class="definition">Definition at line <a class="el" href="jobs_8py_source.html#l02048">2048</a> of file <a class="el" href="jobs_8py_source.html">jobs.py</a>.</p>
 
 </div>
 </div>
@@ -434,7 +444,7 @@ Additional Inherited Members</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="airflow_2jobs_8py_source.html#l02021">2021</a> of file <a class="el" href="airflow_2jobs_8py_source.html">jobs.py</a>.</p>
+<p class="definition">Definition at line <a class="el" href="jobs_8py_source.html#l02043">2043</a> of file <a class="el" href="jobs_8py_source.html">jobs.py</a>.</p>
 
 </div>
 </div>
@@ -450,7 +460,7 @@ Additional Inherited Members</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="airflow_2jobs_8py_source.html#l02041">2041</a> of file <a class="el" href="airflow_2jobs_8py_source.html">jobs.py</a>.</p>
+<p class="definition">Definition at line <a class="el" href="jobs_8py_source.html#l02063">2063</a> of file <a class="el" href="jobs_8py_source.html">jobs.py</a>.</p>
 
 </div>
 </div>
@@ -466,7 +476,7 @@ Additional Inherited Members</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="airflow_2jobs_8py_source.html#l02032">2032</a> of file <a class="el" href="airflow_2jobs_8py_source.html">jobs.py</a>.</p>
+<p class="definition">Definition at line <a class="el" href="jobs_8py_source.html#l02054">2054</a> of file <a class="el" href="jobs_8py_source.html">jobs.py</a>.</p>
 
 </div>
 </div>
@@ -482,12 +492,12 @@ Additional Inherited Members</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="airflow_2jobs_8py_source.html#l02036">2036</a> of file <a class="el" href="airflow_2jobs_8py_source.html">jobs.py</a>.</p>
+<p class="definition">Definition at line <a class="el" href="jobs_8py_source.html#l02058">2058</a> of file <a class="el" href="jobs_8py_source.html">jobs.py</a>.</p>
 
 </div>
 </div>
 <hr/>The documentation for this class was generated from the following file:<ul>
-<li>E:/00_Code/incubator-airflow-master/airflow/<a class="el" href="airflow_2jobs_8py_source.html">jobs.py</a></li>
+<li>E:/airflow/<a class="el" href="jobs_8py_source.html">jobs.py</a></li>
 </ul>
 </div><!-- contents -->
 <!-- start footer part -->

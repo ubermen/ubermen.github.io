@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=9"/>
 <meta name="generator" content="Doxygen 1.8.13"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>airflow_analysis: airflow.hooks.mysql_hook.MySqlHook Class Reference</title>
+<title>airflow_1.8.0: airflow.hooks.mysql_hook.MySqlHook Class Reference</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -21,7 +21,7 @@
  <tbody>
  <tr style="height: 56px;">
   <td id="projectalign" style="padding-left: 0.5em;">
-   <div id="projectname">airflow_analysis
+   <div id="projectname">airflow_1.8.0
    </div>
   </td>
  </tr>
@@ -64,7 +64,6 @@ $(function() {
 <div class="header">
   <div class="summary">
 <a href="#pub-methods">Public Member Functions</a> &#124;
-<a href="#pub-attribs">Public Attributes</a> &#124;
 <a href="#pub-static-attribs">Static Public Attributes</a> &#124;
 <a href="classairflow_1_1hooks_1_1mysql__hook_1_1_my_sql_hook-members.html">List of all members</a>  </div>
   <div class="headertitle">
@@ -92,8 +91,6 @@ Collaboration diagram for airflow.hooks.mysql_hook.MySqlHook:</div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:aef2f89416b09b93abcce9c5495b28def"><td class="memItemLeft" align="right" valign="top">def&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classairflow_1_1hooks_1_1mysql__hook_1_1_my_sql_hook.html#aef2f89416b09b93abcce9c5495b28def">__init__</a> (self, args, kwargs)</td></tr>
-<tr class="separator:aef2f89416b09b93abcce9c5495b28def"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ac01052fe24546988399e52fee9a0efae"><td class="memItemLeft" align="right" valign="top">def&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classairflow_1_1hooks_1_1mysql__hook_1_1_my_sql_hook.html#ac01052fe24546988399e52fee9a0efae">get_conn</a> (self)</td></tr>
 <tr class="separator:ac01052fe24546988399e52fee9a0efae"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ac5d5133d80efe66c75fdb2912d30dc43"><td class="memItemLeft" align="right" valign="top">def&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classairflow_1_1hooks_1_1mysql__hook_1_1_my_sql_hook.html#ac5d5133d80efe66c75fdb2912d30dc43">bulk_load</a> (self, table, tmp_file)</td></tr>
@@ -143,11 +140,6 @@ Public Member Functions</h2></td></tr>
 <tr class="memitem:a873eb8b812ad5d40a0b5996107588281 inherit pub_methods_classairflow_1_1hooks_1_1base__hook_1_1_base_hook"><td class="memItemLeft" align="right" valign="top">def&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classairflow_1_1hooks_1_1base__hook_1_1_base_hook.html#a873eb8b812ad5d40a0b5996107588281">run</a> (self, sql)</td></tr>
 <tr class="separator:a873eb8b812ad5d40a0b5996107588281 inherit pub_methods_classairflow_1_1hooks_1_1base__hook_1_1_base_hook"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-attribs"></a>
-Public Attributes</h2></td></tr>
-<tr class="memitem:ac1c8b386e5ff8d7ad1286eaba8364b8c"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classairflow_1_1hooks_1_1mysql__hook_1_1_my_sql_hook.html#ac1c8b386e5ff8d7ad1286eaba8364b8c">schema</a></td></tr>
-<tr class="separator:ac1c8b386e5ff8d7ad1286eaba8364b8c"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-static-attribs"></a>
 Static Public Attributes</h2></td></tr>
 <tr class="memitem:ae5addc83a3dd1e18e5c6de0529516d7f"><td class="memItemLeft" align="right" valign="top">string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classairflow_1_1hooks_1_1mysql__hook_1_1_my_sql_hook.html#ae5addc83a3dd1e18e5c6de0529516d7f">conn_name_attr</a> = 'mysql_conn_id'</td></tr>
@@ -174,44 +166,7 @@ as ``{"charset": "utf8"}``. Also you can choose cursor as
 ``{"cursor": "SSCursor"}``. Refer to the MySQLdb.cursors for more details.
 </pre> 
 <p class="definition">Definition at line <a class="el" href="mysql__hook_8py_source.html#l00021">21</a> of file <a class="el" href="mysql__hook_8py_source.html">mysql_hook.py</a>.</p>
-</div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
-<a id="aef2f89416b09b93abcce9c5495b28def"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aef2f89416b09b93abcce9c5495b28def">&#9670;&nbsp;</a></span>__init__()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">def airflow.hooks.mysql_hook.MySqlHook.__init__ </td>
-          <td>(</td>
-          <td class="paramtype">&#160;</td>
-          <td class="paramname"><em>self</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">&#160;</td>
-          <td class="paramname"><em>args</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">&#160;</td>
-          <td class="paramname"><em>kwargs</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p class="definition">Definition at line <a class="el" href="mysql__hook_8py_source.html#l00034">34</a> of file <a class="el" href="mysql__hook_8py_source.html">mysql_hook.py</a>.</p>
-
-</div>
-</div>
-<h2 class="groupheader">Member Function Documentation</h2>
+</div><h2 class="groupheader">Member Function Documentation</h2>
 <a id="ac5d5133d80efe66c75fdb2912d30dc43"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#ac5d5133d80efe66c75fdb2912d30dc43">&#9670;&nbsp;</a></span>bulk_load()</h2>
 
@@ -245,7 +200,7 @@ as ``{"charset": "utf8"}``. Also you can choose cursor as
 </div><div class="memdoc">
 <pre class="fragment">Loads a tab-delimited file into a database table
 </pre> 
-<p class="definition">Definition at line <a class="el" href="mysql__hook_8py_source.html#l00075">75</a> of file <a class="el" href="mysql__hook_8py_source.html">mysql_hook.py</a>.</p>
+<p class="definition">Definition at line <a class="el" href="mysql__hook_8py_source.html#l00072">72</a> of file <a class="el" href="mysql__hook_8py_source.html">mysql_hook.py</a>.</p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
@@ -297,7 +252,7 @@ Here is the call graph for this function:</div>
 </div><div class="memdoc">
 <pre class="fragment">Returns a mysql connection object
 </pre> 
-<p class="definition">Definition at line <a class="el" href="mysql__hook_8py_source.html#l00038">38</a> of file <a class="el" href="mysql__hook_8py_source.html">mysql_hook.py</a>.</p>
+<p class="definition">Definition at line <a class="el" href="mysql__hook_8py_source.html#l00034">34</a> of file <a class="el" href="mysql__hook_8py_source.html">mysql_hook.py</a>.</p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
@@ -305,14 +260,6 @@ Here is the call graph for this function:</div>
 <map name="classairflow_1_1hooks_1_1mysql__hook_1_1_my_sql_hook_ac01052fe24546988399e52fee9a0efae_cgraph" id="classairflow_1_1hooks_1_1mysql__hook_1_1_my_sql_hook_ac01052fe24546988399e52fee9a0efae_cgraph">
 <area shape="rect" id="node2" href="classairflow_1_1hooks_1_1base__hook_1_1_base_hook.html#a20273edecfc1966c898809529e9e5249" title="airflow.hooks.base\l_hook.BaseHook.get_connection" alt="" coords="239,5,452,47"/>
 <area shape="rect" id="node3" href="classairflow_1_1hooks_1_1base__hook_1_1_base_hook.html#a29767c5109b1b1ca614e5857145dd97c" title="airflow.hooks.base\l_hook.BaseHook.get_connections" alt="" coords="500,5,720,47"/>
-</map>
-</div>
-<div class="dynheader">
-Here is the caller graph for this function:</div>
-<div class="dyncontent">
-<div class="center"><img src="classairflow_1_1hooks_1_1mysql__hook_1_1_my_sql_hook_ac01052fe24546988399e52fee9a0efae_icgraph.png" border="0" usemap="#classairflow_1_1hooks_1_1mysql__hook_1_1_my_sql_hook_ac01052fe24546988399e52fee9a0efae_icgraph" alt=""/></div>
-<map name="classairflow_1_1hooks_1_1mysql__hook_1_1_my_sql_hook_ac01052fe24546988399e52fee9a0efae_icgraph" id="classairflow_1_1hooks_1_1mysql__hook_1_1_my_sql_hook_ac01052fe24546988399e52fee9a0efae_icgraph">
-<area shape="rect" id="node2" href="classairflow_1_1hooks_1_1zendesk__hook_1_1_zendesk_hook.html#a6d87dfd9f1fdf18db9f665a59d93843a" title="airflow.hooks.zendesk\l_hook.ZendeskHook.call" alt="" coords="239,5,403,47"/>
 </map>
 </div>
 
@@ -367,22 +314,6 @@ Here is the caller graph for this function:</div>
 
 </div>
 </div>
-<a id="ac1c8b386e5ff8d7ad1286eaba8364b8c"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ac1c8b386e5ff8d7ad1286eaba8364b8c">&#9670;&nbsp;</a></span>schema</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">airflow.hooks.mysql_hook.MySqlHook.schema</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p class="definition">Definition at line <a class="el" href="mysql__hook_8py_source.html#l00036">36</a> of file <a class="el" href="mysql__hook_8py_source.html">mysql_hook.py</a>.</p>
-
-</div>
-</div>
 <a id="a10d3db4175424caa0b4ecdade725006c"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#a10d3db4175424caa0b4ecdade725006c">&#9670;&nbsp;</a></span>supports_autocommit</h2>
 
@@ -408,7 +339,7 @@ Here is the caller graph for this function:</div>
 </div>
 </div>
 <hr/>The documentation for this class was generated from the following file:<ul>
-<li>E:/00_Code/incubator-airflow-master/airflow/hooks/<a class="el" href="mysql__hook_8py_source.html">mysql_hook.py</a></li>
+<li>E:/airflow/hooks/<a class="el" href="mysql__hook_8py_source.html">mysql_hook.py</a></li>
 </ul>
 </div><!-- contents -->
 <!-- start footer part -->

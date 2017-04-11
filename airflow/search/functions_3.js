@@ -1,7 +1,6 @@
 var searchData=
 [
   ['cached_5fapp',['cached_app',['../namespaceairflow_1_1www_1_1app.html#aa4e940c8ba8668d49491cb24ce4b9054',1,'airflow::www::app']]],
-  ['call',['call',['../classairflow_1_1hooks_1_1zendesk__hook_1_1_zendesk_hook.html#a6d87dfd9f1fdf18db9f665a59d93843a',1,'airflow::hooks::zendesk_hook::ZendeskHook']]],
   ['chain',['chain',['../namespaceairflow_1_1utils_1_1helpers.html#a5fa25806eeace82ccd6f656366f0418d',1,'airflow::utils::helpers']]],
   ['change_5fstate',['change_state',['../classairflow_1_1executors_1_1base__executor_1_1_base_executor.html#a7d1d9e513ea89e59e39bb55513a4ff20',1,'airflow::executors::base_executor::BaseExecutor']]],
   ['chart',['chart',['../classairflow_1_1www_1_1views_1_1_airflow.html#acbb8fce12185584d19a3d754cb5e6771',1,'airflow::www::views::Airflow']]],
@@ -10,7 +9,7 @@ var searchData=
   ['check_5ffor_5fkey',['check_for_key',['../classairflow_1_1hooks_1_1_s3__hook_1_1_s3_hook.html#a5bc7ce11fc49e8ceb683ef7a8e7ac8a6',1,'airflow::hooks::S3_hook::S3Hook']]],
   ['check_5ffor_5fnamed_5fpartition',['check_for_named_partition',['../classairflow_1_1hooks_1_1hive__hooks_1_1_hive_metastore_hook.html#ab99b9a3c30251f5d1bb853ccbc8e3213',1,'airflow::hooks::hive_hooks::HiveMetastoreHook']]],
   ['check_5ffor_5fpartition',['check_for_partition',['../classairflow_1_1hooks_1_1hive__hooks_1_1_hive_metastore_hook.html#a28cc7f3c7a4d45a153362f55e8500eca',1,'airflow::hooks::hive_hooks::HiveMetastoreHook']]],
-  ['check_5ffor_5fpath',['check_for_path',['../classairflow_1_1hooks_1_1webhdfs__hook_1_1_web_h_d_f_s_hook.html#af96acb17fd07af7187dfd0666e407bdd',1,'airflow.hooks.webhdfs_hook.WebHDFSHook.check_for_path()'],['../classtests_1_1core_1_1_fake_web_h_d_f_s_hook.html#a54a7e489dcf33f59cc4cb3ee22b1d281',1,'tests.core.FakeWebHDFSHook.check_for_path()']]],
+  ['check_5ffor_5fpath',['check_for_path',['../classairflow_1_1hooks_1_1webhdfs__hook_1_1_web_h_d_f_s_hook.html#af96acb17fd07af7187dfd0666e407bdd',1,'airflow::hooks::webhdfs_hook::WebHDFSHook']]],
   ['check_5ffor_5fprefix',['check_for_prefix',['../classairflow_1_1hooks_1_1_s3__hook_1_1_s3_hook.html#a8b562af1903123099dd855bbee22dbae',1,'airflow::hooks::S3_hook::S3Hook']]],
   ['check_5ffor_5fwildcard_5fkey',['check_for_wildcard_key',['../classairflow_1_1hooks_1_1_s3__hook_1_1_s3_hook.html#a64bcc003fbfd4b3cc663ca449ae2068c',1,'airflow::hooks::S3_hook::S3Hook']]],
   ['check_5foutput',['check_output',['../classairflow_1_1contrib_1_1hooks_1_1ssh__hook_1_1_s_s_h_hook.html#ad39047ff8f178bea4467d1ee8d503188',1,'airflow::contrib::hooks::ssh_hook::SSHHook']]],
@@ -19,8 +18,6 @@ var searchData=
   ['clean_5fdirty',['clean_dirty',['../classairflow_1_1models_1_1_dag_stat.html#af3b51bf7f8fcd824ab0564f556cc6421',1,'airflow::models::DagStat']]],
   ['cleantweets',['cleantweets',['../namespaceexample__twitter__dag.html#a00fe08b2bcef724b727d0908f70fc230',1,'example_twitter_dag']]],
   ['clear',['clear',['../classairflow_1_1models_1_1_base_operator.html#aa1e3e3a26bd3d3b0524607c83a4d284e',1,'airflow.models.BaseOperator.clear()'],['../classairflow_1_1models_1_1_d_a_g.html#a18d2ab9b51683bfabd343e9563d55f54',1,'airflow.models.DAG.clear()'],['../classairflow_1_1www_1_1views_1_1_airflow.html#a8c3c2fca238a5690c59c88971a2255c0',1,'airflow.www.views.Airflow.clear()'],['../namespaceairflow_1_1bin_1_1cli.html#ae598b4a53ab69f426caca93b40f6df48',1,'airflow.bin.cli.clear()']]],
-  ['clear_5fdag_5fruns',['clear_dag_runs',['../namespacescheduler__ops__metrics.html#aa610a137cabc08d6b7bf448540aed83e',1,'scheduler_ops_metrics']]],
-  ['clear_5fdag_5ftask_5finstances',['clear_dag_task_instances',['../namespacescheduler__ops__metrics.html#abe39b8326578c74b6b128c0315415c53',1,'scheduler_ops_metrics']]],
   ['clear_5fnonexistent_5fimport_5ferrors',['clear_nonexistent_import_errors',['../classairflow_1_1jobs_1_1_scheduler_job.html#a883d377a6ca7bea240ae5213d882d402',1,'airflow::jobs::SchedulerJob']]],
   ['clear_5ftask_5finstances',['clear_task_instances',['../namespaceairflow_1_1models.html#a93bc4f655115d71f0ab8f9ab3b8edbb9',1,'airflow::models']]],
   ['clear_5fxcom_5fdata',['clear_xcom_data',['../classairflow_1_1models_1_1_task_instance.html#a2c618e68392c55b1ca0d38312d890f73',1,'airflow::models::TaskInstance']]],
@@ -44,7 +41,6 @@ var searchData=
   ['configure_5form',['configure_orm',['../namespaceairflow_1_1settings.html#a648c0423f5f373633ffbec2a4bbb5cc1',1,'airflow::settings']]],
   ['configure_5fvars',['configure_vars',['../namespaceairflow_1_1settings.html#a11462be19b199757579ca30e1ed4298a',1,'airflow::settings']]],
   ['connect',['connect',['../namespaceairflow_1_1utils_1_1db.html#a44bf044b4f7cd829868ae055b7f72616',1,'airflow::utils::db']]],
-  ['connect_5fmock',['connect_mock',['../classtests_1_1operators_1_1hive__operator_1_1_hive_server2_test.html#af164983c21133851e2b6d4e5f91bd2bd',1,'tests::operators::hive_operator::HiveServer2Test']]],
   ['connections',['connections',['../namespaceairflow_1_1bin_1_1cli.html#a1e65ec98b272ad980e3e0fabc3de45be',1,'airflow::bin::cli']]],
   ['construct_5fapi_5fcall_5fparams',['construct_api_call_params',['../classairflow_1_1operators_1_1slack__operator_1_1_slack_a_p_i_operator.html#abb7166f750057e3a45be7fd46068e01e',1,'airflow.operators.slack_operator.SlackAPIOperator.construct_api_call_params()'],['../classairflow_1_1operators_1_1slack__operator_1_1_slack_a_p_i_post_operator.html#a52f7eb7c9dee859265539d5984cde5f5',1,'airflow.operators.slack_operator.SlackAPIPostOperator.construct_api_call_params()']]],
   ['construct_5fingest_5fquery',['construct_ingest_query',['../classairflow_1_1hooks_1_1druid__hook_1_1_druid_hook.html#a745bc3083850b367efe19c5046196330',1,'airflow::hooks::druid_hook::DruidHook']]],

@@ -2,8 +2,6 @@ var searchData=
 [
   ['ecsoperator',['ECSOperator',['../classairflow_1_1contrib_1_1operators_1_1ecs__operator_1_1_e_c_s_operator.html',1,'airflow::contrib::operators::ecs_operator']]],
   ['emailoperator',['EmailOperator',['../classairflow_1_1operators_1_1email__operator_1_1_email_operator.html',1,'airflow::operators::email_operator']]],
-  ['emailsmtptest',['EmailSmtpTest',['../classtests_1_1core_1_1_email_smtp_test.html',1,'tests::core']]],
-  ['emailtest',['EmailTest',['../classtests_1_1core_1_1_email_test.html',1,'tests::core']]],
   ['emraddstepsoperator',['EmrAddStepsOperator',['../classairflow_1_1contrib_1_1operators_1_1emr__add__steps__operator_1_1_emr_add_steps_operator.html',1,'airflow::contrib::operators::emr_add_steps_operator']]],
   ['emrbasesensor',['EmrBaseSensor',['../classairflow_1_1contrib_1_1sensors_1_1emr__base__sensor_1_1_emr_base_sensor.html',1,'airflow::contrib::sensors::emr_base_sensor']]],
   ['emrcreatejobflowoperator',['EmrCreateJobFlowOperator',['../classairflow_1_1contrib_1_1operators_1_1emr__create__job__flow__operator_1_1_emr_create_job_flow_operator.html',1,'airflow::contrib::operators::emr_create_job_flow_operator']]],

@@ -18,7 +18,6 @@ var searchData=
   ['5e7d17757c7a_5fadd_5fpid_5ffield_5fto_5ftaskinstance',['5e7d17757c7a_add_pid_field_to_taskinstance',['../namespaceairflow_1_1migrations_1_1versions_1_15e7d17757c7a__add__pid__field__to__taskinstance.html',1,'airflow::migrations::versions']]],
   ['64de9cddf6c9_5fadd_5ftask_5ffails_5fjournal_5ftable',['64de9cddf6c9_add_task_fails_journal_table',['../namespaceairflow_1_1migrations_1_1versions_1_164de9cddf6c9__add__task__fails__journal__table.html',1,'airflow::migrations::versions']]],
   ['8504051e801b_5fxcom_5fdag_5ftask_5findices',['8504051e801b_xcom_dag_task_indices',['../namespaceairflow_1_1migrations_1_1versions_1_18504051e801b__xcom__dag__task__indices.html',1,'airflow::migrations::versions']]],
-  ['a_5fsystem_5fexit',['a_system_exit',['../namespacea__system__exit.html',1,'']]],
   ['airflow',['airflow',['../namespaceairflow.html',1,'']]],
   ['api',['api',['../namespaceairflow_1_1api.html',1,'airflow.api'],['../namespaceairflow_1_1www_1_1api.html',1,'airflow.www.api']]],
   ['api_5fclient',['api_client',['../namespaceairflow_1_1api_1_1client_1_1api__client.html',1,'airflow::api::client']]],
@@ -62,7 +61,6 @@ var searchData=
   ['dag_5funpaused_5fdep',['dag_unpaused_dep',['../namespaceairflow_1_1ti__deps_1_1deps_1_1dag__unpaused__dep.html',1,'airflow::ti_deps::deps']]],
   ['dagrun_5fexists_5fdep',['dagrun_exists_dep',['../namespaceairflow_1_1ti__deps_1_1deps_1_1dagrun__exists__dep.html',1,'airflow::ti_deps::deps']]],
   ['dagrun_5foperator',['dagrun_operator',['../namespaceairflow_1_1operators_1_1dagrun__operator.html',1,'airflow::operators']]],
-  ['dask_5fexecutor',['dask_executor',['../namespaceairflow_1_1executors_1_1dask__executor.html',1,'airflow::executors']]],
   ['datadog_5fhook',['datadog_hook',['../namespaceairflow_1_1contrib_1_1hooks_1_1datadog__hook.html',1,'airflow::contrib::hooks']]],
   ['datadog_5fsensor',['datadog_sensor',['../namespaceairflow_1_1contrib_1_1sensors_1_1datadog__sensor.html',1,'airflow::contrib::sensors']]],
   ['dataflow_5foperator',['dataflow_operator',['../namespaceairflow_1_1contrib_1_1operators_1_1dataflow__operator.html',1,'airflow::contrib::operators']]],
@@ -120,7 +118,6 @@ var searchData=
   ['fs_5fhook',['fs_hook',['../namespaceairflow_1_1contrib_1_1hooks_1_1fs__hook.html',1,'airflow::contrib::hooks']]],
   ['fs_5foperator',['fs_operator',['../namespaceairflow_1_1contrib_1_1operators_1_1fs__operator.html',1,'airflow::contrib::operators']]],
   ['ftp_5fhook',['ftp_hook',['../namespaceairflow_1_1contrib_1_1hooks_1_1ftp__hook.html',1,'airflow::contrib::hooks']]],
-  ['ftp_5fsensor',['ftp_sensor',['../namespaceairflow_1_1contrib_1_1sensors_1_1ftp__sensor.html',1,'airflow::contrib::sensors']]],
   ['gcp_5fapi_5fbase_5fhook',['gcp_api_base_hook',['../namespaceairflow_1_1contrib_1_1hooks_1_1gcp__api__base__hook.html',1,'airflow::contrib::hooks']]],
   ['gcp_5fdataflow_5fhook',['gcp_dataflow_hook',['../namespaceairflow_1_1contrib_1_1hooks_1_1gcp__dataflow__hook.html',1,'airflow::contrib::hooks']]],
   ['gcp_5fdataproc_5fhook',['gcp_dataproc_hook',['../namespaceairflow_1_1contrib_1_1hooks_1_1gcp__dataproc__hook.html',1,'airflow::contrib::hooks']]],
@@ -239,6 +236,5 @@ var searchData=
   ['vertica_5fto_5fhive',['vertica_to_hive',['../namespaceairflow_1_1contrib_1_1operators_1_1vertica__to__hive.html',1,'airflow::contrib::operators']]],
   ['views',['views',['../namespaceairflow_1_1www_1_1views.html',1,'airflow::www']]],
   ['webhdfs_5fhook',['webhdfs_hook',['../namespaceairflow_1_1hooks_1_1webhdfs__hook.html',1,'airflow::hooks']]],
-  ['www',['www',['../namespaceairflow_1_1www.html',1,'airflow']]],
-  ['zendesk_5fhook',['zendesk_hook',['../namespaceairflow_1_1hooks_1_1zendesk__hook.html',1,'airflow::hooks']]]
+  ['www',['www',['../namespaceairflow_1_1www.html',1,'airflow']]]
 ];

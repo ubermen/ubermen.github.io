@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=9"/>
 <meta name="generator" content="Doxygen 1.8.13"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>airflow_analysis: airflow.hooks.mssql_hook.MsSqlHook Class Reference</title>
+<title>airflow_1.8.0: airflow.hooks.mssql_hook.MsSqlHook Class Reference</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -21,7 +21,7 @@
  <tbody>
  <tr style="height: 56px;">
   <td id="projectalign" style="padding-left: 0.5em;">
-   <div id="projectname">airflow_analysis
+   <div id="projectname">airflow_1.8.0
    </div>
   </td>
  </tr>
@@ -64,7 +64,6 @@ $(function() {
 <div class="header">
   <div class="summary">
 <a href="#pub-methods">Public Member Functions</a> &#124;
-<a href="#pub-attribs">Public Attributes</a> &#124;
 <a href="#pub-static-attribs">Static Public Attributes</a> &#124;
 <a href="classairflow_1_1hooks_1_1mssql__hook_1_1_ms_sql_hook-members.html">List of all members</a>  </div>
   <div class="headertitle">
@@ -92,8 +91,6 @@ Collaboration diagram for airflow.hooks.mssql_hook.MsSqlHook:</div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:a67861b9529205b82bca5fb566b063bae"><td class="memItemLeft" align="right" valign="top">def&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classairflow_1_1hooks_1_1mssql__hook_1_1_ms_sql_hook.html#a67861b9529205b82bca5fb566b063bae">__init__</a> (self, args, kwargs)</td></tr>
-<tr class="separator:a67861b9529205b82bca5fb566b063bae"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ae45f84e3a6f5622ba1321be426c836ea"><td class="memItemLeft" align="right" valign="top">def&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classairflow_1_1hooks_1_1mssql__hook_1_1_ms_sql_hook.html#ae45f84e3a6f5622ba1321be426c836ea">get_conn</a> (self)</td></tr>
 <tr class="separator:ae45f84e3a6f5622ba1321be426c836ea"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:abbf244b3f24509bb6cc3788fd2f18f5e"><td class="memItemLeft" align="right" valign="top">def&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classairflow_1_1hooks_1_1mssql__hook_1_1_ms_sql_hook.html#abbf244b3f24509bb6cc3788fd2f18f5e">set_autocommit</a> (self, conn, autocommit)</td></tr>
@@ -143,11 +140,6 @@ Public Member Functions</h2></td></tr>
 <tr class="memitem:a873eb8b812ad5d40a0b5996107588281 inherit pub_methods_classairflow_1_1hooks_1_1base__hook_1_1_base_hook"><td class="memItemLeft" align="right" valign="top">def&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classairflow_1_1hooks_1_1base__hook_1_1_base_hook.html#a873eb8b812ad5d40a0b5996107588281">run</a> (self, sql)</td></tr>
 <tr class="separator:a873eb8b812ad5d40a0b5996107588281 inherit pub_methods_classairflow_1_1hooks_1_1base__hook_1_1_base_hook"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-attribs"></a>
-Public Attributes</h2></td></tr>
-<tr class="memitem:a920a5efa512feed544b3d09392265904"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classairflow_1_1hooks_1_1mssql__hook_1_1_ms_sql_hook.html#a920a5efa512feed544b3d09392265904">schema</a></td></tr>
-<tr class="separator:a920a5efa512feed544b3d09392265904"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-static-attribs"></a>
 Static Public Attributes</h2></td></tr>
 <tr class="memitem:ad39dcd4d0c9420d2ce46af696ff4653f"><td class="memItemLeft" align="right" valign="top">string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classairflow_1_1hooks_1_1mssql__hook_1_1_ms_sql_hook.html#ad39dcd4d0c9420d2ce46af696ff4653f">conn_name_attr</a> = 'mssql_conn_id'</td></tr>
@@ -170,44 +162,7 @@ Static Public Attributes</h2></td></tr>
 <div class="textblock"><pre class="fragment">Interact with Microsoft SQL Server.
 </pre> 
 <p class="definition">Definition at line <a class="el" href="mssql__hook_8py_source.html#l00020">20</a> of file <a class="el" href="mssql__hook_8py_source.html">mssql_hook.py</a>.</p>
-</div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
-<a id="a67861b9529205b82bca5fb566b063bae"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a67861b9529205b82bca5fb566b063bae">&#9670;&nbsp;</a></span>__init__()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">def airflow.hooks.mssql_hook.MsSqlHook.__init__ </td>
-          <td>(</td>
-          <td class="paramtype">&#160;</td>
-          <td class="paramname"><em>self</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">&#160;</td>
-          <td class="paramname"><em>args</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">&#160;</td>
-          <td class="paramname"><em>kwargs</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p class="definition">Definition at line <a class="el" href="mssql__hook_8py_source.html#l00029">29</a> of file <a class="el" href="mssql__hook_8py_source.html">mssql_hook.py</a>.</p>
-
-</div>
-</div>
-<h2 class="groupheader">Member Function Documentation</h2>
+</div><h2 class="groupheader">Member Function Documentation</h2>
 <a id="ae45f84e3a6f5622ba1321be426c836ea"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#ae45f84e3a6f5622ba1321be426c836ea">&#9670;&nbsp;</a></span>get_conn()</h2>
 
@@ -225,7 +180,7 @@ Static Public Attributes</h2></td></tr>
 </div><div class="memdoc">
 <pre class="fragment">Returns a mssql connection object
 </pre> 
-<p class="definition">Definition at line <a class="el" href="mssql__hook_8py_source.html#l00033">33</a> of file <a class="el" href="mssql__hook_8py_source.html">mssql_hook.py</a>.</p>
+<p class="definition">Definition at line <a class="el" href="mssql__hook_8py_source.html#l00029">29</a> of file <a class="el" href="mssql__hook_8py_source.html">mssql_hook.py</a>.</p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
@@ -233,14 +188,6 @@ Here is the call graph for this function:</div>
 <map name="classairflow_1_1hooks_1_1mssql__hook_1_1_ms_sql_hook_ae45f84e3a6f5622ba1321be426c836ea_cgraph" id="classairflow_1_1hooks_1_1mssql__hook_1_1_ms_sql_hook_ae45f84e3a6f5622ba1321be426c836ea_cgraph">
 <area shape="rect" id="node2" href="classairflow_1_1hooks_1_1base__hook_1_1_base_hook.html#a20273edecfc1966c898809529e9e5249" title="airflow.hooks.base\l_hook.BaseHook.get_connection" alt="" coords="239,5,452,47"/>
 <area shape="rect" id="node3" href="classairflow_1_1hooks_1_1base__hook_1_1_base_hook.html#a29767c5109b1b1ca614e5857145dd97c" title="airflow.hooks.base\l_hook.BaseHook.get_connections" alt="" coords="500,5,720,47"/>
-</map>
-</div>
-<div class="dynheader">
-Here is the caller graph for this function:</div>
-<div class="dyncontent">
-<div class="center"><img src="classairflow_1_1hooks_1_1mssql__hook_1_1_ms_sql_hook_ae45f84e3a6f5622ba1321be426c836ea_icgraph.png" border="0" usemap="#classairflow_1_1hooks_1_1mssql__hook_1_1_ms_sql_hook_ae45f84e3a6f5622ba1321be426c836ea_icgraph" alt=""/></div>
-<map name="classairflow_1_1hooks_1_1mssql__hook_1_1_ms_sql_hook_ae45f84e3a6f5622ba1321be426c836ea_icgraph" id="classairflow_1_1hooks_1_1mssql__hook_1_1_ms_sql_hook_ae45f84e3a6f5622ba1321be426c836ea_icgraph">
-<area shape="rect" id="node2" href="classairflow_1_1hooks_1_1zendesk__hook_1_1_zendesk_hook.html#a6d87dfd9f1fdf18db9f665a59d93843a" title="airflow.hooks.zendesk\l_hook.ZendeskHook.call" alt="" coords="239,5,403,47"/>
 </map>
 </div>
 
@@ -278,7 +225,7 @@ Here is the caller graph for this function:</div>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="mssql__hook_8py_source.html#l00046">46</a> of file <a class="el" href="mssql__hook_8py_source.html">mssql_hook.py</a>.</p>
+<p class="definition">Definition at line <a class="el" href="mssql__hook_8py_source.html#l00042">42</a> of file <a class="el" href="mssql__hook_8py_source.html">mssql_hook.py</a>.</p>
 
 </div>
 </div>
@@ -331,22 +278,6 @@ Here is the caller graph for this function:</div>
 
 </div>
 </div>
-<a id="a920a5efa512feed544b3d09392265904"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a920a5efa512feed544b3d09392265904">&#9670;&nbsp;</a></span>schema</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">airflow.hooks.mssql_hook.MsSqlHook.schema</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p class="definition">Definition at line <a class="el" href="mssql__hook_8py_source.html#l00031">31</a> of file <a class="el" href="mssql__hook_8py_source.html">mssql_hook.py</a>.</p>
-
-</div>
-</div>
 <a id="a5de74ac9625615c262f61be328779ebb"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#a5de74ac9625615c262f61be328779ebb">&#9670;&nbsp;</a></span>supports_autocommit</h2>
 
@@ -372,7 +303,7 @@ Here is the caller graph for this function:</div>
 </div>
 </div>
 <hr/>The documentation for this class was generated from the following file:<ul>
-<li>E:/00_Code/incubator-airflow-master/airflow/hooks/<a class="el" href="mssql__hook_8py_source.html">mssql_hook.py</a></li>
+<li>E:/airflow/hooks/<a class="el" href="mssql__hook_8py_source.html">mssql_hook.py</a></li>
 </ul>
 </div><!-- contents -->
 <!-- start footer part -->

@@ -6,7 +6,6 @@ var searchData=
   ['gheuser',['GHEUser',['../classairflow_1_1contrib_1_1auth_1_1backends_1_1github__enterprise__auth_1_1_g_h_e_user.html',1,'airflow::contrib::auth::backends::github_enterprise_auth']]],
   ['googleauthbackend',['GoogleAuthBackend',['../classairflow_1_1contrib_1_1auth_1_1backends_1_1google__auth_1_1_google_auth_backend.html',1,'airflow::contrib::auth::backends::google_auth']]],
   ['googlecloudbasehook',['GoogleCloudBaseHook',['../classairflow_1_1contrib_1_1hooks_1_1gcp__api__base__hook_1_1_google_cloud_base_hook.html',1,'airflow::contrib::hooks::gcp_api_base_hook']]],
-  ['googlecloudbuckethelper',['GoogleCloudBucketHelper',['../classairflow_1_1contrib_1_1operators_1_1dataflow__operator_1_1_google_cloud_bucket_helper.html',1,'airflow::contrib::operators::dataflow_operator']]],
   ['googlecloudstoragedownloadoperator',['GoogleCloudStorageDownloadOperator',['../classairflow_1_1contrib_1_1operators_1_1gcs__download__operator_1_1_google_cloud_storage_download_operator.html',1,'airflow::contrib::operators::gcs_download_operator']]],
   ['googlecloudstoragehook',['GoogleCloudStorageHook',['../classairflow_1_1contrib_1_1hooks_1_1gcs__hook_1_1_google_cloud_storage_hook.html',1,'airflow::contrib::hooks::gcs_hook']]],
   ['googlecloudstorageobjectsensor',['GoogleCloudStorageObjectSensor',['../classairflow_1_1contrib_1_1sensors_1_1gcs__sensor_1_1_google_cloud_storage_object_sensor.html',1,'airflow::contrib::sensors::gcs_sensor']]],

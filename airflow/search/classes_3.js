@@ -6,18 +6,11 @@ var searchData=
   ['chart',['Chart',['../classairflow_1_1models_1_1_chart.html',1,'airflow::models']]],
   ['chartmodelview',['ChartModelView',['../classairflow_1_1www_1_1views_1_1_chart_model_view.html',1,'airflow::www::views']]],
   ['checkoperator',['CheckOperator',['../classairflow_1_1operators_1_1check__operator_1_1_check_operator.html',1,'airflow::operators::check_operator']]],
-  ['cleancommand',['CleanCommand',['../classsetup_1_1_clean_command.html',1,'setup']]],
   ['client',['Client',['../classairflow_1_1api_1_1client_1_1json__client_1_1_client.html',1,'airflow.api.client.json_client.Client'],['../classairflow_1_1api_1_1client_1_1local__client_1_1_client.html',1,'airflow.api.client.local_client.Client'],['../classairflow_1_1api_1_1client_1_1api__client_1_1_client.html',1,'airflow.api.client.api_client.Client']]],
   ['clifactory',['CLIFactory',['../classairflow_1_1bin_1_1cli_1_1_c_l_i_factory.html',1,'airflow::bin::cli']]],
-  ['clitests',['CliTests',['../classtests_1_1core_1_1_cli_tests.html',1,'tests::core']]],
   ['cloudanthook',['CloudantHook',['../classairflow_1_1contrib_1_1hooks_1_1cloudant__hook_1_1_cloudant_hook.html',1,'airflow::contrib::hooks::cloudant_hook']]],
-  ['compression',['Compression',['../classtests_1_1utils_1_1compression_1_1_compression.html',1,'tests::utils::compression']]],
   ['configurationview',['ConfigurationView',['../classairflow_1_1www_1_1views_1_1_configuration_view.html',1,'airflow::www::views']]],
-  ['conftest',['ConfTest',['../classtests_1_1configuration_1_1_conf_test.html',1,'tests::configuration']]],
   ['connection',['Connection',['../classairflow_1_1models_1_1_connection.html',1,'airflow::models']]],
   ['connectionmodelview',['ConnectionModelView',['../classairflow_1_1www_1_1views_1_1_connection_model_view.html',1,'airflow::www::views']]],
-  ['connectiontest',['ConnectionTest',['../classtests_1_1core_1_1_connection_test.html',1,'tests::core']]],
-  ['coretest',['CoreTest',['../classtests_1_1core_1_1_core_test.html',1,'tests::core']]],
-  ['cpuresource',['CpuResource',['../classairflow_1_1utils_1_1operator__resources_1_1_cpu_resource.html',1,'airflow::utils::operator_resources']]],
-  ['csrftests',['CSRFTests',['../classtests_1_1core_1_1_c_s_r_f_tests.html',1,'tests::core']]]
+  ['cpuresource',['CpuResource',['../classairflow_1_1utils_1_1operator__resources_1_1_cpu_resource.html',1,'airflow::utils::operator_resources']]]
 ];

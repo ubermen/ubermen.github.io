@@ -11,7 +11,6 @@ var searchData=
   ['mssqltohivetransfer',['MsSqlToHiveTransfer',['../classairflow_1_1operators_1_1mssql__to__hive_1_1_ms_sql_to_hive_transfer.html',1,'airflow::operators::mssql_to_hive']]],
   ['mysqlhook',['MySqlHook',['../classairflow_1_1hooks_1_1mysql__hook_1_1_my_sql_hook.html',1,'airflow::hooks::mysql_hook']]],
   ['mysqloperator',['MySqlOperator',['../classairflow_1_1operators_1_1mysql__operator_1_1_my_sql_operator.html',1,'airflow::operators::mysql_operator']]],
-  ['mysqltest',['MySqlTest',['../classtests_1_1operators_1_1operators_1_1_my_sql_test.html',1,'tests::operators::operators']]],
   ['mysqltogooglecloudstorageoperator',['MySqlToGoogleCloudStorageOperator',['../classairflow_1_1contrib_1_1operators_1_1mysql__to__gcs_1_1_my_sql_to_google_cloud_storage_operator.html',1,'airflow::contrib::operators::mysql_to_gcs']]],
   ['mysqltohivetransfer',['MySqlToHiveTransfer',['../classairflow_1_1operators_1_1mysql__to__hive_1_1_my_sql_to_hive_transfer.html',1,'airflow::operators::mysql_to_hive']]]
 ];

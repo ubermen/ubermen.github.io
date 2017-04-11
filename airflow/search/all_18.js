@@ -1,6 +1,5 @@
 var searchData=
 [
-  ['qds',['qds',['../namespacesetup.html#abc1b7160a9c8cb5f300b968cc321134d',1,'setup']]],
   ['qty',['qty',['../classairflow_1_1utils_1_1operator__resources_1_1_resource.html#a15e9a364e7dfd669c15744b2babfde8b',1,'airflow::utils::operator_resources::Resource']]],
   ['qubole_5fhook_2epy',['qubole_hook.py',['../qubole__hook_8py.html',1,'']]],
   ['qubole_5foperator_2epy',['qubole_operator.py',['../qubole__operator_8py.html',1,'']]],
