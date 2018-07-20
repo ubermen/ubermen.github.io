@@ -1,0 +1,5 @@
+<map id="airflow.contrib.hooks.spark_sql_hook.SparkSqlHook.run_query" name="airflow.contrib.hooks.spark_sql_hook.SparkSqlHook.run_query">
+<area shape="rect" id="node2" href="$classairflow_1_1contrib_1_1hooks_1_1spark__sql__hook_1_1_spark_sql_hook.html#aed08d52ec9ad46e446edf7609b376586" title="airflow.contrib.hooks.spark\l_sql_hook.SparkSqlHook.\l_prepare_command" alt="" coords="283,5,459,61"/>
+<area shape="rect" id="node3" href="$classairflow_1_1utils_1_1log_1_1logging__mixin_1_1_logging_mixin.html#a4748867be8237041588c62ed4b75bffa" title="airflow.utils.log.logging\l_mixin.LoggingMixin.log" alt="" coords="290,110,451,151"/>
+<area shape="rect" id="node4" href="$namespaceairflow_1_1utils_1_1log_1_1logging__mixin.html#a88e6bd13ca39ca59bfc486b5ab5879f5" title="airflow.utils.log.logging\l_mixin.set_context" alt="" coords="507,110,659,151"/>
+</map>

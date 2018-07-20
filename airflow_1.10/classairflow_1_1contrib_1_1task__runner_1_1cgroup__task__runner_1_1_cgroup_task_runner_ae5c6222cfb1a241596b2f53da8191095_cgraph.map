@@ -1,0 +1,8 @@
+<map id="airflow.contrib.task_runner.cgroup_task_runner.CgroupTaskRunner.terminate" name="airflow.contrib.task_runner.cgroup_task_runner.CgroupTaskRunner.terminate">
+<area shape="rect" id="node2" href="$namespaceairflow_1_1utils_1_1helpers.html#a078c9046889813812dd44a8a740659ee" title="airflow.utils.helpers.reap\l_process_group" alt="" coords="273,5,434,47"/>
+<area shape="rect" id="node3" href="$classairflow_1_1utils_1_1log_1_1logging__mixin_1_1_logging_mixin.html#a4748867be8237041588c62ed4b75bffa" title="airflow.utils.log.logging\l_mixin.LoggingMixin.log" alt="" coords="273,95,434,136"/>
+<area shape="rect" id="node5" href="$classairflow_1_1www_1_1views_1_1_airflow.html#a53678e1dbd109edaddfc144d4a33366f" title="airflow.www.views.Airflow.log" alt="" coords="260,161,447,187"/>
+<area shape="rect" id="node7" href="$classairflow_1_1www__rbac_1_1views_1_1_airflow.html#a87a8fc45c4ed864598cea136a3d3043e" title="airflow.www_rbac.views.Airflow.log" alt="" coords="244,211,463,238"/>
+<area shape="rect" id="node4" href="$namespaceairflow_1_1utils_1_1log_1_1logging__mixin.html#a88e6bd13ca39ca59bfc486b5ab5879f5" title="airflow.utils.log.logging\l_mixin.set_context" alt="" coords="534,95,686,136"/>
+<area shape="rect" id="node6" href="$classairflow_1_1www__rbac_1_1views_1_1_airflow_base_view.html#af555c24dc2cd743a6e0887f9d3d4e995" title="airflow.www_rbac.views.Airflow\lBaseView.render" alt="" coords="511,181,709,223"/>
+</map>

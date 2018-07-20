@@ -1,0 +1,4 @@
+<map id="airflow.www.views.Airflow.chart" name="airflow.www.views.Airflow.chart">
+<area shape="rect" id="node2" href="$namespaceairflow_1_1utils_1_1db.html#ae01107a0a15c282a35ac95e17c02f496" title="airflow.utils.db.create\l_session" alt="" coords="279,5,423,47"/>
+<area shape="rect" id="node3" href="$classairflow_1_1www__rbac_1_1views_1_1_airflow_base_view.html#af555c24dc2cd743a6e0887f9d3d4e995" title="airflow.www_rbac.views.Airflow\lBaseView.render" alt="" coords="252,71,451,112"/>
+</map>

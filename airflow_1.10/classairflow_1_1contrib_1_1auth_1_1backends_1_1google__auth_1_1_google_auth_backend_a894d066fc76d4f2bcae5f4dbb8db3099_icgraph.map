@@ -1,0 +1,4 @@
+<map id="airflow.contrib.auth.backends.google_auth.GoogleAuthBackend.domain_check" name="airflow.contrib.auth.backends.google_auth.GoogleAuthBackend.domain_check">
+<area shape="rect" id="node2" href="$classairflow_1_1contrib_1_1auth_1_1backends_1_1google__auth_1_1_google_auth_backend.html#acd2f42ed7fcb641ee2af9134ee655904" title="airflow.contrib.auth.backends.google\l_auth.GoogleAuthBackend.oauth_callback" alt="" coords="319,5,587,47"/>
+<area shape="rect" id="node3" href="$classairflow_1_1contrib_1_1auth_1_1backends_1_1google__auth_1_1_google_auth_backend.html#afc92736ed310ed94f45850df37520843" title="airflow.contrib.auth.backends.google\l_auth.GoogleAuthBackend.init_app" alt="" coords="635,5,867,47"/>
+</map>

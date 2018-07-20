@@ -1,0 +1,5 @@
+<map id="airflow.contrib.operators.dataproc_operator.DataprocWorkflowTemplateInstantiateOperator" name="airflow.contrib.operators.dataproc_operator.DataprocWorkflowTemplateInstantiateOperator">
+<area shape="rect" id="node2" href="$classairflow_1_1contrib_1_1operators_1_1dataproc__operator_1_1_dataproc_workflow_template_base_operator.html" title="airflow.contrib.operators.dataproc\l_operator.DataprocWorkflowTemplateBase\lOperator" alt="" coords="43,276,311,332"/>
+<area shape="rect" id="node3" href="$classairflow_1_1models_1_1_base_operator.html" title="airflow.models.BaseOperator" alt="" coords="83,200,271,227"/>
+<area shape="rect" id="node4" href="$classairflow_1_1utils_1_1log_1_1logging__mixin_1_1_logging_mixin.html" title="airflow.utils.log.logging\l_mixin.LoggingMixin" alt="" coords="5,81,157,123"/>
+</map>

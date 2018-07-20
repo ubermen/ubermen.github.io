@@ -1,0 +1,9 @@
+<map id="airflow.contrib.utils.sendgrid.send_email" name="airflow.contrib.utils.sendgrid.send_email">
+<area shape="rect" id="node2" href="$classairflow_1_1jobs_1_1_scheduler_job.html#a06108f08fc209d3de463d1fff7432e8f" title="airflow.jobs.SchedulerJob.manage_slas" alt="" coords="268,39,517,66"/>
+<area shape="rect" id="node4" href="$classairflow_1_1models_1_1_task_instance.html#abfbcdfafa7e55b2741b8217a0745766e" title="airflow.models.TaskInstance.email\l_alert" alt="" coords="283,92,503,133"/>
+<area shape="rect" id="node8" href="$classairflow_1_1operators_1_1email__operator_1_1_email_operator.html#a884c329d5190b0f4071315d613480880" title="airflow.operators.email\l_operator.EmailOperator.execute" alt="" coords="286,157,499,199"/>
+<area shape="rect" id="node3" href="$classairflow_1_1jobs_1_1_scheduler_job.html#aad68aee40afa14b2678bd2069c4d39bc" title="airflow.jobs.SchedulerJob.create\l_dag_run" alt="" coords="575,29,783,71"/>
+<area shape="rect" id="node5" href="$classairflow_1_1models_1_1_task_instance.html#acb6da04f0e7ca836b84922ddf9a1a4f3" title="airflow.models.TaskInstance.handle\l_failure" alt="" coords="565,95,792,136"/>
+<area shape="rect" id="node6" href="$classairflow_1_1models_1_1_task_instance.html#a2220d6108fe56151a9752a1385c340e0" title="airflow.models.TaskInstance.get\l_dagrun" alt="" coords="840,95,1047,136"/>
+<area shape="rect" id="node7" href="$classairflow_1_1models_1_1_task_instance.html#a8b434f7272a1887a946a2268ccfe0beb" title="airflow.models.TaskInstance.previous_ti" alt="" coords="1095,102,1345,129"/>
+</map>

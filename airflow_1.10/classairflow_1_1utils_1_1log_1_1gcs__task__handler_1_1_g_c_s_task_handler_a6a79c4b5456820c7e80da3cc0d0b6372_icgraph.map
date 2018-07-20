@@ -1,0 +1,4 @@
+<map id="airflow.utils.log.gcs_task_handler.GCSTaskHandler.gcs_read" name="airflow.utils.log.gcs_task_handler.GCSTaskHandler.gcs_read">
+<area shape="rect" id="node2" href="$classairflow_1_1utils_1_1log_1_1gcs__task__handler_1_1_g_c_s_task_handler.html#a55189611aae3a010533f81643f505d0c" title="airflow.utils.log.gcs\l_task_handler.GCSTaskHandler.close" alt="" coords="632,5,875,47"/>
+<area shape="rect" id="node3" href="$classairflow_1_1utils_1_1log_1_1gcs__task__handler_1_1_g_c_s_task_handler.html#a1af95e7d02cd04a79e974ce0e29ed59c" title="airflow.utils.log.gcs\l_task_handler.GCSTaskHandler.gcs_write" alt="" coords="317,35,584,76"/>
+</map>

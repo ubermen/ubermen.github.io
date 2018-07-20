@@ -1,0 +1,4 @@
+<map id="airflow.www_rbac.views.DagRunModelView.action_set_failed" name="airflow.www_rbac.views.DagRunModelView.action_set_failed">
+<area shape="rect" id="node2" href="$classairflow_1_1www_1_1views_1_1_dag_run_model_view.html#aa9675acb5d4003a2563369ccab33091a" title="airflow.www.views.DagRun\lModelView.set_dagrun_state" alt="" coords="274,5,463,47"/>
+<area shape="rect" id="node3" href="$classairflow_1_1www__rbac_1_1views_1_1_dag_run_model_view.html#aa75d1047e598d0fbd15d000d35b14c7f" title="airflow.www_rbac.views.Dag\lRunModelView.set_dagrun_state" alt="" coords="263,71,475,112"/>
+</map>

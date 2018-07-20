@@ -1,0 +1,4 @@
+<map id="airflow.contrib.operators.mongo_to_s3.MongoToS3Operator.execute" name="airflow.contrib.operators.mongo_to_s3.MongoToS3Operator.execute">
+<area shape="rect" id="node2" href="$classairflow_1_1contrib_1_1operators_1_1mongo__to__s3_1_1_mongo_to_s3_operator.html#af4af0e7e6bb452b89b4d5b3f6edce007" title="airflow.contrib.operators.mongo\l_to_s3.MongoToS3Operator.\l_stringify" alt="" coords="308,5,511,61"/>
+<area shape="rect" id="node3" href="$classairflow_1_1contrib_1_1operators_1_1mongo__to__s3_1_1_mongo_to_s3_operator.html#a90743b5ac9da6f018fa84d6f1e5804af" title="airflow.contrib.operators.mongo\l_to_s3.MongoToS3Operator.transform" alt="" coords="288,86,531,127"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="airflow.models.BaseOperator.get_flat_relatives" name="airflow.models.BaseOperator.get_flat_relatives">
+<area shape="rect" id="node2" href="$classairflow_1_1models_1_1_base_operator.html#a75b803e3584fb93129067fc28f3bfa4c" title="airflow.models.BaseOperator.clear" alt="" coords="291,13,511,39"/>
+<area shape="rect" id="node4" href="$classairflow_1_1operators_1_1latest__only__operator_1_1_latest_only_operator.html#a428aa7278858d40552e4d078a8841300" title="airflow.operators.latest\l_only_operator.LatestOnlyOperator.execute" alt="" coords="264,64,539,105"/>
+<area shape="rect" id="node5" href="$classairflow_1_1operators_1_1python__operator_1_1_short_circuit_operator.html#a5f99c603d0788799e66e384b68bccde5" title="airflow.operators.python\l_operator.ShortCircuitOperator.execute" alt="" coords="277,129,525,171"/>
+<area shape="rect" id="node6" href="$classairflow_1_1sensors_1_1base__sensor__operator_1_1_base_sensor_operator.html#ad92402a017bca09850bb6e79c6ddceba" title="airflow.sensors.base\l_sensor_operator.BaseSensor\lOperator.execute" alt="" coords="303,195,500,251"/>
+<area shape="rect" id="node3" href="$classairflow_1_1models_1_1_base_operator.html#a338c86e22653870b9981eb5ff55d4c5b" title="airflow.models.BaseOperator.downstream\l_task_ids" alt="" coords="587,5,849,47"/>
+<area shape="rect" id="node7" href="$classairflow_1_1contrib_1_1sensors_1_1jira__sensor_1_1_jira_sensor.html#a9ee306cc117eead253f9705e586f0587" title="airflow.contrib.sensors.jira\l_sensor.JiraSensor.poke" alt="" coords="632,203,804,244"/>
+</map>

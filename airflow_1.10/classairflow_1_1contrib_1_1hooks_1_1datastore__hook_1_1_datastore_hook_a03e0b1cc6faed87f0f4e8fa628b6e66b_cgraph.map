@@ -1,0 +1,5 @@
+<map id="airflow.contrib.hooks.datastore_hook.DatastoreHook.export_to_storage_bucket" name="airflow.contrib.hooks.datastore_hook.DatastoreHook.export_to_storage_bucket">
+<area shape="rect" id="node2" href="$classairflow_1_1contrib_1_1hooks_1_1gcp__api__base__hook_1_1_google_cloud_base_hook.html#ab526dfe52623f00893662c9135327aff" title="airflow.contrib.hooks.gcp\l_api_base_hook.GoogleCloudBase\lHook.project_id" alt="" coords="499,5,723,61"/>
+<area shape="rect" id="node4" href="$classairflow_1_1contrib_1_1hooks_1_1datastore__hook_1_1_datastore_hook.html#ab53f7025ac574356c1c3554ef8880b86" title="airflow.contrib.hooks.datastore\l_hook.DatastoreHook.import\l_from_storage_bucket" alt="" coords="252,37,451,93"/>
+<area shape="rect" id="node3" href="$classairflow_1_1contrib_1_1hooks_1_1gcp__api__base__hook_1_1_google_cloud_base_hook.html#ae3bb0634aa68c0f4773980e32936f7d6" title="airflow.contrib.hooks.gcp\l_api_base_hook.GoogleCloudBase\lHook._get_field" alt="" coords="771,5,995,61"/>
+</map>

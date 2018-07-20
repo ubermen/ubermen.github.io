@@ -1,0 +1,8 @@
+<map id="airflow.www.views.ModelViewOnly" name="airflow.www.views.ModelViewOnly">
+<area shape="rect" id="node5" href="$classairflow_1_1www_1_1views_1_1_dag_run_model_view.html" title="airflow.www.views.DagRun\lModelView" alt="" coords="639,5,813,47"/>
+<area shape="rect" id="node6" href="$classairflow_1_1www_1_1views_1_1_job_model_view.html" title="airflow.www.views.JobModelView" alt="" coords="621,71,831,98"/>
+<area shape="rect" id="node7" href="$classairflow_1_1www_1_1views_1_1_log_model_view.html" title="airflow.www.views.LogModelView" alt="" coords="620,122,832,149"/>
+<area shape="rect" id="node8" href="$classairflow_1_1www_1_1views_1_1_sla_miss_model_view.html" title="airflow.www.views.SlaMiss\lModelView" alt="" coords="639,173,813,215"/>
+<area shape="rect" id="node9" href="$classairflow_1_1www_1_1views_1_1_task_instance_model_view.html" title="airflow.www.views.TaskInstance\lModelView" alt="" coords="623,239,829,280"/>
+<area shape="rect" id="node3" href="$classairflow_1_1www_1_1views_1_1_airflow_model_view.html" title="airflow.www.views.Airflow\lModelView" alt="" coords="139,144,305,185"/>
+</map>

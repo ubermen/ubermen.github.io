@@ -1,0 +1,4 @@
+<map id="airflow.operators.subdag_operator.SubDagOperator.execute" name="airflow.operators.subdag_operator.SubDagOperator.execute">
+<area shape="rect" id="node2" href="$classairflow_1_1models_1_1_base_operator.html#ad91f8b6b05bad96620089008ec2882c4" title="airflow.models.BaseOperator.run" alt="" coords="280,13,491,39"/>
+<area shape="rect" id="node3" href="$namespaceairflow_1_1utils_1_1dates.html#adc45f61410175ba3533033c86f966b63" title="airflow.utils.dates.date\l_range" alt="" coords="539,5,689,47"/>
+</map>

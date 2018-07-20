@@ -1,0 +1,4 @@
+<map id="airflow.hooks.postgres_hook.PostgresHook.copy_expert" name="airflow.hooks.postgres_hook.PostgresHook.copy_expert">
+<area shape="rect" id="node2" href="$classairflow_1_1hooks_1_1postgres__hook_1_1_postgres_hook.html#a62e9c386b1a3cffb36a98f2c8a881e1b" title="airflow.hooks.postgres\l_hook.PostgresHook.bulk_load" alt="" coords="232,5,435,47"/>
+<area shape="rect" id="node3" href="$classairflow_1_1hooks_1_1postgres__hook_1_1_postgres_hook.html#ae1c1ccd782e4ebfc72d8e771609fe743" title="airflow.hooks.postgres\l_hook.PostgresHook.bulk_dump" alt="" coords="228,71,439,112"/>
+</map>

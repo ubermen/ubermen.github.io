@@ -1,0 +1,7 @@
+<map id="airflow.models.User" name="airflow.models.User">
+<area shape="rect" id="node3" href="$classairflow_1_1contrib_1_1auth_1_1backends_1_1github__enterprise__auth_1_1_g_h_e_user.html" title="airflow.contrib.auth.backends.github\l_enterprise_auth.GHEUser" alt="" coords="298,5,527,47"/>
+<area shape="rect" id="node4" href="$classairflow_1_1contrib_1_1auth_1_1backends_1_1google__auth_1_1_google_user.html" title="airflow.contrib.auth.backends.google\l_auth.GoogleUser" alt="" coords="297,71,529,112"/>
+<area shape="rect" id="node5" href="$classairflow_1_1contrib_1_1auth_1_1backends_1_1kerberos__auth_1_1_kerberos_user.html" title="airflow.contrib.auth.backends.kerberos\l_auth.KerberosUser" alt="" coords="291,136,535,177"/>
+<area shape="rect" id="node6" href="$classairflow_1_1contrib_1_1auth_1_1backends_1_1ldap__auth_1_1_ldap_user.html" title="airflow.contrib.auth.backends.ldap\l_auth.LdapUser" alt="" coords="303,201,522,243"/>
+<area shape="rect" id="node7" href="$classairflow_1_1contrib_1_1auth_1_1backends_1_1password__auth_1_1_password_user.html" title="airflow.contrib.auth.backends.password\l_auth.PasswordUser" alt="" coords="288,267,537,308"/>
+</map>

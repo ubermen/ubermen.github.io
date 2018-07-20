@@ -1,0 +1,4 @@
+<map id="airflow.operators.hive_operator.HiveOperator.get_hook" name="airflow.operators.hive_operator.HiveOperator.get_hook">
+<area shape="rect" id="node2" href="$classairflow_1_1operators_1_1hive__operator_1_1_hive_operator.html#a23b7a584136e11488639893d4a227312" title="airflow.operators.hive\l_operator.HiveOperator.execute" alt="" coords="264,5,468,47"/>
+<area shape="rect" id="node3" href="$classairflow_1_1operators_1_1hive__operator_1_1_hive_operator.html#a44b3f25e39350ce021eeb020cfd0b1c7" title="airflow.operators.hive\l_operator.HiveOperator.dry_run" alt="" coords="265,71,467,112"/>
+</map>

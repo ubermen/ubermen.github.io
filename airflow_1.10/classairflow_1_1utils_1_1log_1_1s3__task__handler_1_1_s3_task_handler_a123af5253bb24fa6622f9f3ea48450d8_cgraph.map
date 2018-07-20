@@ -1,0 +1,10 @@
+<map id="airflow.utils.log.s3_task_handler.S3TaskHandler.s3_write" name="airflow.utils.log.s3_task_handler.S3TaskHandler.s3_write">
+<area shape="rect" id="node2" href="$classairflow_1_1utils_1_1log_1_1s3__task__handler_1_1_s3_task_handler.html#a2778dfdeb01cf215705647f78d727609" title="airflow.utils.log.s3\l_task_handler.S3TaskHandler.s3\l_log_exists" alt="" coords="316,33,529,89"/>
+<area shape="rect" id="node3" href="$classairflow_1_1utils_1_1log_1_1gcs__task__handler_1_1_g_c_s_task_handler.html#a8c349fbc17bd4898019b245bae18f9b7" title="airflow.utils.log.gcs\l_task_handler.GCSTaskHandler.hook" alt="" coords="593,41,832,82"/>
+<area shape="rect" id="node5" href="$classairflow_1_1utils_1_1log_1_1s3__task__handler_1_1_s3_task_handler.html#ab761be0fb6596affaa3eb9f603e5899b" title="airflow.utils.log.s3\l_task_handler.S3TaskHandler.hook" alt="" coords="599,106,826,147"/>
+<area shape="rect" id="node7" href="$classairflow_1_1utils_1_1log_1_1s3__task__handler_1_1_s3_task_handler.html#a56dcf4ce26f814ac27289f9c07d5ab1a" title="airflow.utils.log.s3\l_task_handler.S3TaskHandler.s3_read" alt="" coords="300,165,545,206"/>
+<area shape="rect" id="node8" href="$classairflow_1_1utils_1_1log_1_1logging__mixin_1_1_logging_mixin.html#a4748867be8237041588c62ed4b75bffa" title="airflow.utils.log.logging\l_mixin.LoggingMixin.log" alt="" coords="632,209,793,250"/>
+<area shape="rect" id="node4" href="$classairflow_1_1utils_1_1log_1_1gcs__task__handler_1_1_g_c_s_task_handler.html#a4a043a77992cdea5ad3da771f97c4bcc" title="airflow.utils.log.gcs\l_task_handler.GCSTaskHandler.\l_build_hook" alt="" coords="880,33,1091,89"/>
+<area shape="rect" id="node6" href="$classairflow_1_1utils_1_1log_1_1s3__task__handler_1_1_s3_task_handler.html#a8c5fee587c4b009e9addf0e014f76ef0" title="airflow.utils.log.s3\l_task_handler.S3TaskHandler.\l_build_hook" alt="" coords="886,113,1085,169"/>
+<area shape="rect" id="node9" href="$namespaceairflow_1_1utils_1_1log_1_1logging__mixin.html#a88e6bd13ca39ca59bfc486b5ab5879f5" title="airflow.utils.log.logging\l_mixin.set_context" alt="" coords="909,209,1061,250"/>
+</map>

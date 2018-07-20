@@ -1,0 +1,5 @@
+<map id="airflow.contrib.operators.winrm_operator.WinRMOperator.execute" name="airflow.contrib.operators.winrm_operator.WinRMOperator.execute">
+<area shape="rect" id="node2" href="$classairflow_1_1utils_1_1log_1_1logging__mixin_1_1_logging_mixin.html#a4748867be8237041588c62ed4b75bffa" title="airflow.utils.log.logging\l_mixin.LoggingMixin.log" alt="" coords="276,29,437,71"/>
+<area shape="rect" id="node4" href="$namespaceairflow_1_1configuration.html#aa2d22bc52f5c82b5de8d6787c79ec8ae" title="airflow.configuration.run\l_command" alt="" coords="278,95,435,136"/>
+<area shape="rect" id="node3" href="$namespaceairflow_1_1utils_1_1log_1_1logging__mixin.html#a88e6bd13ca39ca59bfc486b5ab5879f5" title="airflow.utils.log.logging\l_mixin.set_context" alt="" coords="485,29,637,71"/>
+</map>

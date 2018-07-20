@@ -1,0 +1,5 @@
+<map id="airflow.contrib.hooks.bigquery_hook.BigQueryBaseCursor.cancel_query" name="airflow.contrib.hooks.bigquery_hook.BigQueryBaseCursor.cancel_query">
+<area shape="rect" id="node2" href="$classairflow_1_1contrib_1_1hooks_1_1bigquery__hook_1_1_big_query_base_cursor.html#a5653baf0063e8e423c64d4b9226265ba" title="airflow.contrib.hooks.bigquery\l_hook.BigQueryBaseCursor.poll\l_job_complete" alt="" coords="317,5,524,61"/>
+<area shape="rect" id="node3" href="$classairflow_1_1utils_1_1log_1_1logging__mixin_1_1_logging_mixin.html#a4748867be8237041588c62ed4b75bffa" title="airflow.utils.log.logging\l_mixin.LoggingMixin.log" alt="" coords="572,46,733,87"/>
+<area shape="rect" id="node4" href="$namespaceairflow_1_1utils_1_1log_1_1logging__mixin.html#a88e6bd13ca39ca59bfc486b5ab5879f5" title="airflow.utils.log.logging\l_mixin.set_context" alt="" coords="781,46,933,87"/>
+</map>

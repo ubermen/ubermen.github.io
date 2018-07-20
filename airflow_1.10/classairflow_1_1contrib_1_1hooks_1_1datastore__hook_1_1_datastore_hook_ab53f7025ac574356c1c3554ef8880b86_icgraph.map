@@ -1,0 +1,4 @@
+<map id="airflow.contrib.hooks.datastore_hook.DatastoreHook.import_from_storage_bucket" name="airflow.contrib.hooks.datastore_hook.DatastoreHook.import_from_storage_bucket">
+<area shape="rect" id="node2" href="$classairflow_1_1contrib_1_1hooks_1_1datastore__hook_1_1_datastore_hook.html#a03e0b1cc6faed87f0f4e8fa628b6e66b" title="airflow.contrib.hooks.datastore\l_hook.DatastoreHook.export\l_to_storage_bucket" alt="" coords="252,5,451,61"/>
+<area shape="rect" id="node3" href="$classairflow_1_1contrib_1_1hooks_1_1datastore__hook_1_1_datastore_hook.html#ac268f8300cfb02c3beb0a2babf75d910" title="airflow.contrib.hooks.datastore\l_hook.DatastoreHook.poll_operation\l_until_done" alt="" coords="499,5,729,61"/>
+</map>

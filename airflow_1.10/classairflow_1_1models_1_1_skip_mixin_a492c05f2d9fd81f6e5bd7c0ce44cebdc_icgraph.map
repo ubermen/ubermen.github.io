@@ -1,0 +1,7 @@
+<map id="airflow.models.SkipMixin.skip" name="airflow.models.SkipMixin.skip">
+<area shape="rect" id="node2" href="$classairflow_1_1operators_1_1latest__only__operator_1_1_latest_only_operator.html#a428aa7278858d40552e4d078a8841300" title="airflow.operators.latest\l_only_operator.LatestOnlyOperator.execute" alt="" coords="247,5,521,47"/>
+<area shape="rect" id="node3" href="$classairflow_1_1operators_1_1python__operator_1_1_branch_python_operator.html#ab9827f694700bd1b4af4ee43a1ec8461" title="airflow.operators.python\l_operator.BranchPythonOperator.execute" alt="" coords="253,71,515,112"/>
+<area shape="rect" id="node4" href="$classairflow_1_1operators_1_1python__operator_1_1_short_circuit_operator.html#a5f99c603d0788799e66e384b68bccde5" title="airflow.operators.python\l_operator.ShortCircuitOperator.execute" alt="" coords="260,136,508,177"/>
+<area shape="rect" id="node5" href="$classairflow_1_1sensors_1_1base__sensor__operator_1_1_base_sensor_operator.html#ad92402a017bca09850bb6e79c6ddceba" title="airflow.sensors.base\l_sensor_operator.BaseSensor\lOperator.execute" alt="" coords="285,202,483,258"/>
+<area shape="rect" id="node6" href="$classairflow_1_1contrib_1_1sensors_1_1jira__sensor_1_1_jira_sensor.html#a9ee306cc117eead253f9705e586f0587" title="airflow.contrib.sensors.jira\l_sensor.JiraSensor.poke" alt="" coords="569,209,741,251"/>
+</map>

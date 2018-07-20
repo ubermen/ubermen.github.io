@@ -1,0 +1,6 @@
+<map id="airflow.contrib.hooks.mongo_hook.MongoHook.get_collection" name="airflow.contrib.hooks.mongo_hook.MongoHook.get_collection">
+<area shape="rect" id="node2" href="$classairflow_1_1contrib_1_1hooks_1_1mongo__hook_1_1_mongo_hook.html#a9523e298fd7cd04affe115dbda386fd3" title="airflow.contrib.hooks.mongo\l_hook.MongoHook.aggregate" alt="" coords="275,5,466,47"/>
+<area shape="rect" id="node3" href="$classairflow_1_1contrib_1_1hooks_1_1mongo__hook_1_1_mongo_hook.html#a1bf4554cfd47552150672c388403d017" title="airflow.contrib.hooks.mongo\l_hook.MongoHook.find" alt="" coords="279,71,462,112"/>
+<area shape="rect" id="node4" href="$classairflow_1_1contrib_1_1hooks_1_1mongo__hook_1_1_mongo_hook.html#a696acf737dfda5113a08c309fe077b37" title="airflow.contrib.hooks.mongo\l_hook.MongoHook.insert_one" alt="" coords="273,136,468,177"/>
+<area shape="rect" id="node5" href="$classairflow_1_1contrib_1_1hooks_1_1mongo__hook_1_1_mongo_hook.html#a98f0e680d2fdb766de1c271ba2673c33" title="airflow.contrib.hooks.mongo\l_hook.MongoHook.insert_many" alt="" coords="268,201,473,243"/>
+</map>

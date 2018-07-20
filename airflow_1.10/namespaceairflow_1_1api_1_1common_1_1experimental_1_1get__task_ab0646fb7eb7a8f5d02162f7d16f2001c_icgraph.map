@@ -1,0 +1,7 @@
+<map id="airflow.api.common.experimental.get_task.get_task" name="airflow.api.common.experimental.get_task.get_task">
+<area shape="rect" id="node2" href="$classairflow_1_1models_1_1_base_operator.html#a92c897d6f6ab9a324b7ba4dda67c70f8" title="airflow.models.BaseOperator.upstream_list" alt="" coords="319,5,590,32"/>
+<area shape="rect" id="node4" href="$classairflow_1_1models_1_1_base_operator.html#a2e787a423c0c3ee659e7b889eeb08af2" title="airflow.models.BaseOperator.downstream_list" alt="" coords="311,56,598,83"/>
+<area shape="rect" id="node5" href="$namespaceairflow_1_1www_1_1api_1_1experimental_1_1endpoints.html#a9a5d9d4c49c74708f0146a54a2d05d9a" title="airflow.www.api.experimental.endpoints.task_info" alt="" coords="303,107,607,133"/>
+<area shape="rect" id="node6" href="$namespaceairflow_1_1www__rbac_1_1api_1_1experimental_1_1endpoints.html#aaa78e8d1e71bc91385f1e4694fd8da36" title="airflow.www_rbac.api.experimental.endpoints.task_info" alt="" coords="287,157,623,184"/>
+<area shape="rect" id="node3" href="$classairflow_1_1models_1_1_base_operator.html#a1cea1a1a56c4269ba98e54e28441b1f4" title="airflow.models.BaseOperator.get\l_direct_relatives" alt="" coords="671,23,881,65"/>
+</map>

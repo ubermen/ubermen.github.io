@@ -1,0 +1,5 @@
+<map id="airflow.contrib.hooks.bigquery_hook.BigQueryHook.get_conn" name="airflow.contrib.hooks.bigquery_hook.BigQueryHook.get_conn">
+<area shape="rect" id="node2" href="$classairflow_1_1contrib_1_1hooks_1_1bigquery__hook_1_1_big_query_hook.html#a33f0a0d70fbf144198f502d83629a05a" title="airflow.contrib.hooks.bigquery\l_hook.BigQueryHook.get_service" alt="" coords="261,13,475,54"/>
+<area shape="rect" id="node4" href="$classairflow_1_1contrib_1_1hooks_1_1gcp__api__base__hook_1_1_google_cloud_base_hook.html#ae3bb0634aa68c0f4773980e32936f7d6" title="airflow.contrib.hooks.gcp\l_api_base_hook.GoogleCloudBase\lHook._get_field" alt="" coords="256,79,480,135"/>
+<area shape="rect" id="node3" href="$classairflow_1_1contrib_1_1hooks_1_1gcp__api__base__hook_1_1_google_cloud_base_hook.html#af63e091b68e83a21f1f4a3184130306e" title="airflow.contrib.hooks.gcp\l_api_base_hook.GoogleCloudBase\lHook._authorize" alt="" coords="528,5,752,61"/>
+</map>

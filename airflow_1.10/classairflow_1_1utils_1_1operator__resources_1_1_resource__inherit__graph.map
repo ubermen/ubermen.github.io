@@ -1,0 +1,6 @@
+<map id="airflow.utils.operator_resources.Resource" name="airflow.utils.operator_resources.Resource">
+<area shape="rect" id="node3" href="$classairflow_1_1utils_1_1operator__resources_1_1_cpu_resource.html" title="airflow.utils.operator\l_resources.CpuResource" alt="" coords="306,5,474,47"/>
+<area shape="rect" id="node4" href="$classairflow_1_1utils_1_1operator__resources_1_1_disk_resource.html" title="airflow.utils.operator\l_resources.DiskResource" alt="" coords="305,71,475,112"/>
+<area shape="rect" id="node5" href="$classairflow_1_1utils_1_1operator__resources_1_1_gpu_resource.html" title="airflow.utils.operator\l_resources.GpuResource" alt="" coords="305,136,475,177"/>
+<area shape="rect" id="node6" href="$classairflow_1_1utils_1_1operator__resources_1_1_ram_resource.html" title="airflow.utils.operator\l_resources.RamResource" alt="" coords="304,201,476,243"/>
+</map>

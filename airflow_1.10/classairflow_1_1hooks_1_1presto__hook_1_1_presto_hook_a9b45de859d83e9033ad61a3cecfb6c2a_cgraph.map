@@ -1,0 +1,4 @@
+<map id="airflow.hooks.presto_hook.PrestoHook.get_first" name="airflow.hooks.presto_hook.PrestoHook.get_first">
+<area shape="rect" id="node2" href="$classairflow_1_1hooks_1_1presto__hook_1_1_presto_hook.html#a48a3c9c1e506e16c8378b04ea70eafb3" title="airflow.hooks.presto\l_hook.PrestoHook._strip_sql" alt="" coords="232,5,421,47"/>
+<area shape="rect" id="node3" href="$classairflow_1_1hooks_1_1presto__hook_1_1_presto_hook.html#a716d1eccfa36ed5b6889c1e59470196f" title="airflow.hooks.presto\l_hook.PrestoHook._get\l_pretty_exception_message" alt="" coords="234,71,419,127"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="airflow.www_rbac.app.cached_appbuilder" name="airflow.www_rbac.app.cached_appbuilder">
+<area shape="rect" id="node2" href="$namespaceairflow_1_1www__rbac_1_1app.html#aed09061097f56bfa79d04858eb856b10" title="airflow.www_rbac.app.cached_app" alt="" coords="245,107,465,134"/>
+<area shape="rect" id="node3" href="$namespaceairflow_1_1www__rbac_1_1app.html#ad654c8eb9576102730cd1241978f19a9" title="airflow.www_rbac.app.create_app" alt="" coords="513,107,728,134"/>
+<area shape="rect" id="node4" href="$namespaceairflow_1_1logging__config.html#a552ab7d8fbf1d6b0ccd45f3c8d5be7b4" title="airflow.logging_config.configure\l_logging" alt="" coords="776,67,976,108"/>
+<area shape="rect" id="node7" href="$namespaceairflow_1_1www__rbac_1_1security.html#ac8fb18a45df0846a32398404b60e77c4" title="airflow.www_rbac.security.init\l_roles" alt="" coords="780,132,972,173"/>
+<area shape="rect" id="node5" href="$namespaceairflow_1_1utils_1_1module__loading.html#a25eb01509a716ea279e3f99652123115" title="airflow.utils.module\l_loading.prepare_classpath" alt="" coords="1044,5,1224,47"/>
+<area shape="rect" id="node6" href="$namespaceairflow_1_1utils_1_1module__loading.html#a0b6249c2efebd4cd2c3493e14a3b1c9b" title="airflow.utils.module\l_loading.import_string" alt="" coords="1059,71,1209,112"/>
+<area shape="rect" id="node8" href="$namespaceairflow_1_1www__rbac_1_1security.html#ac1e24affd5bb1e3d10d00bc494c0c79b" title="airflow.www_rbac.security.init_role" alt="" coords="1024,139,1244,166"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="airflow.ti_deps.deps.base_ti_dep.BaseTIDep.name" name="airflow.ti_deps.deps.base_ti_dep.BaseTIDep.name">
+<area shape="rect" id="node2" href="$classairflow_1_1lineage_1_1datasets_1_1_file.html#a55c53160e17182e7f3a7367f62df269a" title="airflow.lineage.datasets.\lFile.__init__" alt="" coords="238,5,399,47"/>
+<area shape="rect" id="node3" href="$classairflow_1_1lineage_1_1datasets_1_1_hadoop_file.html#a967cd06c186295db793ab970beca8db4" title="airflow.lineage.datasets.\lHadoopFile.__init__" alt="" coords="238,71,399,112"/>
+<area shape="rect" id="node4" href="$classairflow_1_1ti__deps_1_1deps_1_1base__ti__dep_1_1_base_t_i_dep.html#acd3dd63e463068a7373c3d62adb85456" title="airflow.ti_deps.deps.base\l_ti_dep.BaseTIDep.get_failure\l_reasons" alt="" coords="221,137,416,193"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="airflow.load_login" name="airflow.load_login">
+<area shape="rect" id="node2" href="$namespaceairflow_1_1www_1_1app.html#a42a9868e8a78f1dec44fe65a13bf08b1" title="airflow.www.app.create_app" alt="" coords="173,5,356,32"/>
+<area shape="rect" id="node3" href="$namespaceairflow_1_1bin_1_1cli.html#a3d63a64461dbcba0c465d272878b379a" title="airflow.bin.cli.webserver" alt="" coords="640,5,797,32"/>
+<area shape="rect" id="node4" href="$namespaceairflow_1_1www_1_1app.html#aebf8f684ce2fa4ab378d838c35081407" title="airflow.www.app.cached_app" alt="" coords="404,31,592,57"/>
+</map>

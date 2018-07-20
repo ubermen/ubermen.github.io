@@ -1,0 +1,8 @@
+<map id="airflow.www.views.DagRunModelView.set_dagrun_state" name="airflow.www.views.DagRunModelView.set_dagrun_state">
+<area shape="rect" id="node2" href="$classairflow_1_1www_1_1views_1_1_dag_run_model_view.html#a2f1895d559ff01b1e1031ad1562412e7" title="airflow.www.views.DagRun\lModelView.action_set_running" alt="" coords="248,5,447,47"/>
+<area shape="rect" id="node3" href="$classairflow_1_1www_1_1views_1_1_dag_run_model_view.html#a1e0b4d6ef395b3df6988029bfab82ad9" title="airflow.www.views.DagRun\lModelView.action_set_failed" alt="" coords="254,71,441,112"/>
+<area shape="rect" id="node4" href="$classairflow_1_1www_1_1views_1_1_dag_run_model_view.html#a2194f9fa1db61e8502b621271f684a84" title="airflow.www.views.DagRun\lModelView.action_set_success" alt="" coords="245,136,450,177"/>
+<area shape="rect" id="node5" href="$classairflow_1_1www__rbac_1_1views_1_1_dag_run_model_view.html#a1ee56c9307054eff345bbb988b36d915" title="airflow.www_rbac.views.Dag\lRunModelView.action_set\l_running" alt="" coords="256,202,439,258"/>
+<area shape="rect" id="node6" href="$classairflow_1_1www__rbac_1_1views_1_1_dag_run_model_view.html#a667d1ed0c8bda6565b5a18ad27fa5608" title="airflow.www_rbac.views.Dag\lRunModelView.action_set_failed" alt="" coords="243,283,452,324"/>
+<area shape="rect" id="node7" href="$classairflow_1_1www__rbac_1_1views_1_1_dag_run_model_view.html#aae5918f1e4d651099f59cb7645dca3bb" title="airflow.www_rbac.views.Dag\lRunModelView.action_set\l_success" alt="" coords="256,349,439,405"/>
+</map>

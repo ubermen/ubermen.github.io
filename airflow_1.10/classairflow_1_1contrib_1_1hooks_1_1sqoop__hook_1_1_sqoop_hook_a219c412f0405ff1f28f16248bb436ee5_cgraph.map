@@ -1,0 +1,5 @@
+<map id="airflow.contrib.hooks.sqoop_hook.SqoopHook.Popen" name="airflow.contrib.hooks.sqoop_hook.SqoopHook.Popen">
+<area shape="rect" id="node2" href="$classairflow_1_1contrib_1_1hooks_1_1sqoop__hook_1_1_sqoop_hook.html#a7a1b7ae48f49a63fcc42b5e300bc2bb4" title="airflow.contrib.hooks.sqoop\l_hook.SqoopHook.cmd_mask\l_password" alt="" coords="232,5,428,61"/>
+<area shape="rect" id="node3" href="$classairflow_1_1utils_1_1log_1_1logging__mixin_1_1_logging_mixin.html#a4748867be8237041588c62ed4b75bffa" title="airflow.utils.log.logging\l_mixin.LoggingMixin.log" alt="" coords="476,46,637,87"/>
+<area shape="rect" id="node4" href="$namespaceairflow_1_1utils_1_1log_1_1logging__mixin.html#a88e6bd13ca39ca59bfc486b5ab5879f5" title="airflow.utils.log.logging\l_mixin.set_context" alt="" coords="685,46,837,87"/>
+</map>

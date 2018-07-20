@@ -1,0 +1,4 @@
+<map id="airflow.contrib.operators.dataflow_operator.DataFlowJavaOperator" name="airflow.contrib.operators.dataflow_operator.DataFlowJavaOperator">
+<area shape="rect" id="node2" href="$classairflow_1_1models_1_1_base_operator.html" title="airflow.models.BaseOperator" alt="" coords="5,200,193,227"/>
+<area shape="rect" id="node3" href="$classairflow_1_1utils_1_1log_1_1logging__mixin_1_1_logging_mixin.html" title="airflow.utils.log.logging\l_mixin.LoggingMixin" alt="" coords="23,81,175,123"/>
+</map>

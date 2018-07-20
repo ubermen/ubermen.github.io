@@ -1,0 +1,6 @@
+<map id="airflow.models.Connection.extra" name="airflow.models.Connection.extra">
+<area shape="rect" id="node2" href="$classairflow_1_1models_1_1_connection.html#a3709efe3f46f6c5992992e91b1ebc510" title="airflow.models.Connection.get\l_extra" alt="" coords="260,5,455,47"/>
+<area shape="rect" id="node5" href="$classairflow_1_1models_1_1_connection.html#ab301fa74255353c10ed81b60e4c41b40" title="airflow.models.Connection.set\l_extra" alt="" coords="260,71,455,112"/>
+<area shape="rect" id="node3" href="$namespaceairflow_1_1models.html#ae62ee940ce0fb84dab02564dc0dbe159" title="airflow.models.get\l_fernet" alt="" coords="503,39,629,80"/>
+<area shape="rect" id="node4" href="$namespaceairflow_1_1models.html#a62cfdec7893a1f0a6d9803ac6f21bc01" title="airflow.models.clear\l_task_instances" alt="" coords="677,39,813,80"/>
+</map>

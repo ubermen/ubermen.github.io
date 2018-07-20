@@ -1,0 +1,6 @@
+<map id="airflow.contrib.hooks.bigquery_hook.BigQueryBaseCursor.get_schema" name="airflow.contrib.hooks.bigquery_hook.BigQueryBaseCursor.get_schema">
+<area shape="rect" id="node2" href="$classairflow_1_1contrib_1_1hooks_1_1bigquery__hook_1_1_big_query_base_cursor.html#a7f32af5bb2fb5c4422ec9ae571620800" title="airflow.contrib.hooks.bigquery\l_hook.BigQueryBaseCursor.get\l_tabledata" alt="" coords="312,22,517,78"/>
+<area shape="rect" id="node3" href="$classairflow_1_1contrib_1_1hooks_1_1bigquery__hook_1_1_big_query_base_cursor.html#a67297ff131f3e54677b6b3be287b99ed" title="airflow.contrib.hooks.bigquery\l_hook.BigQueryBaseCursor.run\l_table_delete" alt="" coords="565,22,771,78"/>
+<area shape="rect" id="node4" href="$classairflow_1_1utils_1_1log_1_1logging__mixin_1_1_logging_mixin.html#a4748867be8237041588c62ed4b75bffa" title="airflow.utils.log.logging\l_mixin.LoggingMixin.log" alt="" coords="819,29,980,71"/>
+<area shape="rect" id="node5" href="$namespaceairflow_1_1utils_1_1log_1_1logging__mixin.html#a88e6bd13ca39ca59bfc486b5ab5879f5" title="airflow.utils.log.logging\l_mixin.set_context" alt="" coords="1028,29,1180,71"/>
+</map>

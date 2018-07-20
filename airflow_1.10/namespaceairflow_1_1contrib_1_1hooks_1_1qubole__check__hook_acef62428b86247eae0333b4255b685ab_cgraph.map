@@ -1,0 +1,5 @@
+<map id="airflow.contrib.hooks.qubole_check_hook.parse_first_row" name="airflow.contrib.hooks.qubole_check_hook.parse_first_row">
+<area shape="rect" id="node2" href="$namespaceairflow_1_1contrib_1_1hooks_1_1qubole__check__hook.html#a722bc6accd403f9726b33740488fb579" title="airflow.contrib.hooks.qubole\l_check_hook.isint" alt="" coords="244,5,427,47"/>
+<area shape="rect" id="node3" href="$namespaceairflow_1_1contrib_1_1hooks_1_1qubole__check__hook.html#af32b83824619592db11e31f954a1423b" title="airflow.contrib.hooks.qubole\l_check_hook.isfloat" alt="" coords="244,71,427,112"/>
+<area shape="rect" id="node4" href="$namespaceairflow_1_1contrib_1_1hooks_1_1qubole__check__hook.html#a4487bc03e1ce3480c06c3134312ed767" title="airflow.contrib.hooks.qubole\l_check_hook.isbool" alt="" coords="244,136,427,177"/>
+</map>

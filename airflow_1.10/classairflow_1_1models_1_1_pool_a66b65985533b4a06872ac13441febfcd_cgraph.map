@@ -1,0 +1,4 @@
+<map id="airflow.models.Pool.open_slots" name="airflow.models.Pool.open_slots">
+<area shape="rect" id="node2" href="$classairflow_1_1models_1_1_pool.html#acb4ce10a24467fb9bbd2324700b2264a" title="airflow.models.Pool.used\l_slots" alt="" coords="227,5,393,47"/>
+<area shape="rect" id="node3" href="$classairflow_1_1models_1_1_pool.html#a6d2e22dc0fa77e8008717d1f0725fbf2" title="airflow.models.Pool.queued\l_slots" alt="" coords="220,71,400,112"/>
+</map>

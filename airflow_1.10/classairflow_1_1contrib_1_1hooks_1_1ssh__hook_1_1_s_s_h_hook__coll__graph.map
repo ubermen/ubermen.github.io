@@ -1,0 +1,4 @@
+<map id="airflow.contrib.hooks.ssh_hook.SSHHook" name="airflow.contrib.hooks.ssh_hook.SSHHook">
+<area shape="rect" id="node2" href="$classairflow_1_1hooks_1_1base__hook_1_1_base_hook.html" title="airflow.hooks.base\l_hook.BaseHook" alt="" coords="75,169,205,211"/>
+<area shape="rect" id="node3" href="$classairflow_1_1utils_1_1log_1_1logging__mixin_1_1_logging_mixin.html" title="airflow.utils.log.logging\l_mixin.LoggingMixin" alt="" coords="12,80,164,121"/>
+</map>

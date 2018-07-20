@@ -1,0 +1,7 @@
+<map id="airflow.hooks.webhdfs_hook.WebHDFSHook.get_conn" name="airflow.hooks.webhdfs_hook.WebHDFSHook.get_conn">
+<area shape="rect" id="node2" href="$classairflow_1_1hooks_1_1base__hook_1_1_base_hook.html#a29767c5109b1b1ca614e5857145dd97c" title="airflow.hooks.base\l_hook.BaseHook.get_connections" alt="" coords="264,85,484,126"/>
+<area shape="rect" id="node5" href="$classairflow_1_1utils_1_1log_1_1logging__mixin_1_1_logging_mixin.html#a4748867be8237041588c62ed4b75bffa" title="airflow.utils.log.logging\l_mixin.LoggingMixin.log" alt="" coords="293,174,455,215"/>
+<area shape="rect" id="node3" href="$classairflow_1_1hooks_1_1base__hook_1_1_base_hook.html#ad2acfe344417dabbf18ed4b202081af2" title="airflow.hooks.base\l_hook.BaseHook._get\l_connection_from_env" alt="" coords="533,5,683,61"/>
+<area shape="rect" id="node4" href="$classairflow_1_1hooks_1_1base__hook_1_1_base_hook.html#a48b7825e895c21437bca842d30309b4d" title="airflow.hooks.base\l_hook.BaseHook._get\l_connections_from_db" alt="" coords="532,85,684,141"/>
+<area shape="rect" id="node6" href="$namespaceairflow_1_1utils_1_1log_1_1logging__mixin.html#a88e6bd13ca39ca59bfc486b5ab5879f5" title="airflow.utils.log.logging\l_mixin.set_context" alt="" coords="532,174,684,215"/>
+</map>

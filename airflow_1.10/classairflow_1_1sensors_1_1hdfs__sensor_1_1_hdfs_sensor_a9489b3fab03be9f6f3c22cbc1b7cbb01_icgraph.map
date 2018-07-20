@@ -1,0 +1,7 @@
+<map id="airflow.sensors.hdfs_sensor.HdfsSensor.filter_for_filesize" name="airflow.sensors.hdfs_sensor.HdfsSensor.filter_for_filesize">
+<area shape="rect" id="node2" href="$classairflow_1_1contrib_1_1sensors_1_1hdfs__sensor_1_1_hdfs_sensor_regex.html#abcdb46b7f429b6461d42619f24946851" title="airflow.contrib.sensors.hdfs\l_sensor.HdfsSensorRegex.poke" alt="" coords="220,5,428,47"/>
+<area shape="rect" id="node5" href="$classairflow_1_1contrib_1_1sensors_1_1hdfs__sensor_1_1_hdfs_sensor_folder.html#a7cf118dad355bf226b6a2d4586130faa" title="airflow.contrib.sensors.hdfs\l_sensor.HdfsSensorFolder.poke" alt="" coords="221,71,427,112"/>
+<area shape="rect" id="node6" href="$classairflow_1_1sensors_1_1hdfs__sensor_1_1_hdfs_sensor.html#a446d36670aad91e9762f720ff394077b" title="airflow.sensors.hdfs\l_sensor.HdfsSensor.poke" alt="" coords="239,136,409,177"/>
+<area shape="rect" id="node3" href="$classairflow_1_1sensors_1_1base__sensor__operator_1_1_base_sensor_operator.html#ad92402a017bca09850bb6e79c6ddceba" title="airflow.sensors.base\l_sensor_operator.BaseSensor\lOperator.execute" alt="" coords="476,31,673,87"/>
+<area shape="rect" id="node4" href="$classairflow_1_1contrib_1_1sensors_1_1jira__sensor_1_1_jira_sensor.html#a9ee306cc117eead253f9705e586f0587" title="airflow.contrib.sensors.jira\l_sensor.JiraSensor.poke" alt="" coords="721,39,893,80"/>
+</map>

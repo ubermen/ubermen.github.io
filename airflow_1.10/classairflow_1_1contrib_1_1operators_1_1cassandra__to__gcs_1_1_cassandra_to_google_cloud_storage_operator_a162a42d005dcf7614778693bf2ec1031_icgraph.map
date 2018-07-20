@@ -1,0 +1,4 @@
+<map id="airflow.contrib.operators.cassandra_to_gcs.CassandraToGoogleCloudStorageOperator.generate_schema_dict" name="airflow.contrib.operators.cassandra_to_gcs.CassandraToGoogleCloudStorageOperator.generate_schema_dict">
+<area shape="rect" id="node2" href="$classairflow_1_1contrib_1_1operators_1_1cassandra__to__gcs_1_1_cassandra_to_google_cloud_storage_operator.html#ab2f8d959c6c5a814dc4389e222346fde" title="airflow.contrib.operators.cassandra\l_to_gcs.CassandraToGoogleCloudStorage\lOperator.execute" alt="" coords="320,5,587,61"/>
+<area shape="rect" id="node3" href="$classairflow_1_1contrib_1_1operators_1_1cassandra__to__gcs_1_1_cassandra_to_google_cloud_storage_operator.html#a3d3d44ebaa97f3e771d54d1f6caa4a96" title="airflow.contrib.operators.cassandra\l_to_gcs.CassandraToGoogleCloudStorage\lOperator.get_bq_fields" alt="" coords="320,85,587,141"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="airflow.contrib.operators.postgres_to_gcs_operator.PostgresToGoogleCloudStorageOperator.type_map" name="airflow.contrib.operators.postgres_to_gcs_operator.PostgresToGoogleCloudStorageOperator.type_map">
+<area shape="rect" id="node2" href="$classairflow_1_1contrib_1_1operators_1_1postgres__to__gcs__operator_1_1_postgres_to_google_cloud_storage_operator.html#a1205124854d38b09f841f7dfac844f49" title="airflow.contrib.operators.postgres\l_to_gcs_operator.PostgresToGoogleCloud\lStorageOperator.execute" alt="" coords="320,5,587,61"/>
+<area shape="rect" id="node3" href="$classairflow_1_1contrib_1_1operators_1_1vertica__to__hive_1_1_vertica_to_hive_transfer.html#aba0e56c027ccf59023da4268ddbd3e0f" title="airflow.contrib.operators.vertica\l_to_hive.VerticaToHiveTransfer.execute" alt="" coords="329,86,577,127"/>
+<area shape="rect" id="node4" href="$classairflow_1_1operators_1_1mssql__to__hive_1_1_ms_sql_to_hive_transfer.html#a3cefc4012f2505164fabebdce0def306" title="airflow.operators.mssql\l_to_hive.MsSqlToHiveTransfer.execute" alt="" coords="331,151,575,193"/>
+<area shape="rect" id="node5" href="$classairflow_1_1operators_1_1mysql__to__hive_1_1_my_sql_to_hive_transfer.html#a91612c52f9f45dc6203159e674e2fce0" title="airflow.operators.mysql\l_to_hive.MySqlToHiveTransfer.execute" alt="" coords="331,217,575,258"/>
+</map>

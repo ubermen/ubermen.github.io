@@ -1,0 +1,4 @@
+<map id="airflow.lineage.datasets.HadoopFile.__init__" name="airflow.lineage.datasets.HadoopFile.__init__">
+<area shape="rect" id="node2" href="$classairflow_1_1ti__deps_1_1deps_1_1base__ti__dep_1_1_base_t_i_dep.html#a080b1f7b62d875f2989caa32af1e8aea" title="airflow.ti_deps.deps.base\l_ti_dep.BaseTIDep.name" alt="" coords="221,5,389,47"/>
+<area shape="rect" id="node3" href="$classairflow_1_1utils_1_1operator__resources_1_1_resource.html#a18e21a2c3c28f8d3e6238ee58088fa12" title="airflow.utils.operator\l_resources.Resource.name" alt="" coords="215,71,396,112"/>
+</map>

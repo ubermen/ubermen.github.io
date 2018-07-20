@@ -1,0 +1,10 @@
+<map id="airflow.utils.log.s3_task_handler.S3TaskHandler.hook" name="airflow.utils.log.s3_task_handler.S3TaskHandler.hook">
+<area shape="rect" id="node2" href="$classairflow_1_1utils_1_1log_1_1s3__task__handler_1_1_s3_task_handler.html#a2778dfdeb01cf215705647f78d727609" title="airflow.utils.log.s3\l_task_handler.S3TaskHandler.s3\l_log_exists" alt="" coords="313,5,526,61"/>
+<area shape="rect" id="node4" href="$classairflow_1_1utils_1_1log_1_1s3__task__handler_1_1_s3_task_handler.html#a123af5253bb24fa6622f9f3ea48450d8" title="airflow.utils.log.s3\l_task_handler.S3TaskHandler.s3_write" alt="" coords="624,78,871,119"/>
+<area shape="rect" id="node5" href="$classairflow_1_1utils_1_1log_1_1s3__task__handler_1_1_s3_task_handler.html#a56dcf4ce26f814ac27289f9c07d5ab1a" title="airflow.utils.log.s3\l_task_handler.S3TaskHandler.s3_read" alt="" coords="297,137,542,178"/>
+<area shape="rect" id="node6" href="$classairflow_1_1utils_1_1log_1_1wasb__task__handler_1_1_wasb_task_handler.html#a4890e8e90cd278da4ad7086024d78635" title="airflow.utils.log.wasb\l_task_handler.WasbTaskHandler.wasb\l_log_exists" alt="" coords="296,203,543,259"/>
+<area shape="rect" id="node8" href="$classairflow_1_1utils_1_1log_1_1wasb__task__handler_1_1_wasb_task_handler.html#a1f6eed78fc043621385ffe358458908a" title="airflow.utils.log.wasb\l_task_handler.WasbTaskHandler.wasb_write" alt="" coords="607,275,888,317"/>
+<area shape="rect" id="node9" href="$classairflow_1_1utils_1_1log_1_1wasb__task__handler_1_1_wasb_task_handler.html#ac0ace612dc977344d9e59173f7f3b63a" title="airflow.utils.log.wasb\l_task_handler.WasbTaskHandler.wasb_read" alt="" coords="280,334,559,375"/>
+<area shape="rect" id="node3" href="$classairflow_1_1utils_1_1log_1_1s3__task__handler_1_1_s3_task_handler.html#a2e216b51ff7864109c01410057fc69fe" title="airflow.utils.log.s3\l_task_handler.S3TaskHandler.close" alt="" coords="945,78,1175,119"/>
+<area shape="rect" id="node7" href="$classairflow_1_1utils_1_1log_1_1wasb__task__handler_1_1_wasb_task_handler.html#a737faf8469fb8f29baf3f42ca555944d" title="airflow.utils.log.wasb\l_task_handler.WasbTaskHandler.close" alt="" coords="936,275,1184,317"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="airflow.hooks.hive_hooks.HiveServer2Hook.to_csv" name="airflow.hooks.hive_hooks.HiveServer2Hook.to_csv">
+<area shape="rect" id="node2" href="$classairflow_1_1hooks_1_1hive__hooks_1_1_hive_server2_hook.html#ab8f54b410ff303efe6fb8c680695fd60" title="airflow.hooks.hive\l_hooks.HiveServer2Hook.\l_get_results" alt="" coords="260,5,429,61"/>
+<area shape="rect" id="node3" href="$classairflow_1_1utils_1_1log_1_1logging__mixin_1_1_logging_mixin.html#a4748867be8237041588c62ed4b75bffa" title="airflow.utils.log.logging\l_mixin.LoggingMixin.log" alt="" coords="264,110,425,151"/>
+<area shape="rect" id="node4" href="$namespaceairflow_1_1utils_1_1log_1_1logging__mixin.html#a88e6bd13ca39ca59bfc486b5ab5879f5" title="airflow.utils.log.logging\l_mixin.set_context" alt="" coords="477,110,629,151"/>
+</map>

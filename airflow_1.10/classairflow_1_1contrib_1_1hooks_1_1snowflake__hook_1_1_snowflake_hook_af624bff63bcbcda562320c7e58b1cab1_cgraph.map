@@ -1,0 +1,7 @@
+<map id="airflow.contrib.hooks.snowflake_hook.SnowflakeHook.get_conn" name="airflow.contrib.hooks.snowflake_hook.SnowflakeHook.get_conn">
+<area shape="rect" id="node2" href="$classairflow_1_1contrib_1_1hooks_1_1snowflake__hook_1_1_snowflake_hook.html#acc2d4bf80f54409ce8263e3b4013013e" title="airflow.contrib.hooks.snowflake\l_hook.SnowflakeHook._get_conn_params" alt="" coords="260,5,524,47"/>
+<area shape="rect" id="node3" href="$classairflow_1_1hooks_1_1base__hook_1_1_base_hook.html#a20273edecfc1966c898809529e9e5249" title="airflow.hooks.base\l_hook.BaseHook.get_connection" alt="" coords="285,71,499,112"/>
+<area shape="rect" id="node4" href="$classairflow_1_1hooks_1_1base__hook_1_1_base_hook.html#a29767c5109b1b1ca614e5857145dd97c" title="airflow.hooks.base\l_hook.BaseHook.get_connections" alt="" coords="572,71,792,112"/>
+<area shape="rect" id="node5" href="$classairflow_1_1hooks_1_1base__hook_1_1_base_hook.html#ad2acfe344417dabbf18ed4b202081af2" title="airflow.hooks.base\l_hook.BaseHook._get\l_connection_from_env" alt="" coords="841,23,991,79"/>
+<area shape="rect" id="node6" href="$classairflow_1_1hooks_1_1base__hook_1_1_base_hook.html#a48b7825e895c21437bca842d30309b4d" title="airflow.hooks.base\l_hook.BaseHook._get\l_connections_from_db" alt="" coords="840,103,992,159"/>
+</map>

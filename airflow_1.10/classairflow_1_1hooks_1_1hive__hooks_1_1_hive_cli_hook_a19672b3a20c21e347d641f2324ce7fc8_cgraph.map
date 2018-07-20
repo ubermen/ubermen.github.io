@@ -1,0 +1,12 @@
+<map id="airflow.hooks.hive_hooks.HiveCliHook.test_hql" name="airflow.hooks.hive_hooks.HiveCliHook.test_hql">
+<area shape="rect" id="node2" href="$classairflow_1_1utils_1_1log_1_1logging__mixin_1_1_logging_mixin.html#a4748867be8237041588c62ed4b75bffa" title="airflow.utils.log.logging\l_mixin.LoggingMixin.log" alt="" coords="1037,29,1198,71"/>
+<area shape="rect" id="node4" href="$classairflow_1_1hooks_1_1hive__hooks_1_1_hive_cli_hook.html#a4b2955246f0073fa5ab0985af7d6ec04" title="airflow.hooks.hive\l_hooks.HiveCliHook.run_cli" alt="" coords="805,152,984,193"/>
+<area shape="rect" id="node8" href="$classairflow_1_1hooks_1_1hive__hooks_1_1_hive_cli_hook.html#aac60017214c191675070f57df337f29e" title="airflow.hooks.hive\l_hooks.HiveCliHook.load_df" alt="" coords="240,165,423,207"/>
+<area shape="rect" id="node3" href="$namespaceairflow_1_1utils_1_1log_1_1logging__mixin.html#a88e6bd13ca39ca59bfc486b5ab5879f5" title="airflow.utils.log.logging\l_mixin.set_context" alt="" coords="1251,29,1403,71"/>
+<area shape="rect" id="node5" href="$namespaceairflow_1_1utils_1_1file.html#a4c1d8d4e9579d8350a41675fe2f19ef7" title="airflow.utils.file.Temporary\lDirectory" alt="" coords="1032,256,1203,297"/>
+<area shape="rect" id="node6" href="$classairflow_1_1hooks_1_1hive__hooks_1_1_hive_cli_hook.html#aef0c10f4b92be86c623d4b21d27e410c" title="airflow.hooks.hive\l_hooks.HiveCliHook.\l_prepare_cli_cmd" alt="" coords="1047,175,1188,231"/>
+<area shape="rect" id="node7" href="$classairflow_1_1hooks_1_1hive__hooks_1_1_hive_cli_hook.html#a0b1d5933baef1c4c84d9560bc357ca9b" title="airflow.hooks.hive\l_hooks.HiveCliHook.\l_prepare_hiveconf" alt="" coords="1047,95,1188,151"/>
+<area shape="rect" id="node9" href="$classairflow_1_1contrib_1_1hooks_1_1azure__fileshare__hook_1_1_azure_file_share_hook.html#a6bf3d128393a008c6f5fb1e3bb299213" title="airflow.contrib.hooks.azure\l_fileshare_hook.AzureFileShareHook.load_file" alt="" coords="471,132,757,173"/>
+<area shape="rect" id="node10" href="$classairflow_1_1contrib_1_1hooks_1_1wasb__hook_1_1_wasb_hook.html#ae64655c587388882f4519efeec9fee66" title="airflow.contrib.hooks.wasb\l_hook.WasbHook.load_file" alt="" coords="526,197,702,239"/>
+<area shape="rect" id="node11" href="$classairflow_1_1hooks_1_1hive__hooks_1_1_hive_cli_hook.html#ad163c46bffb75a18f6c9bb7108f8d30a" title="airflow.hooks.hive\l_hooks.HiveCliHook.load_file" alt="" coords="520,67,708,108"/>
+</map>

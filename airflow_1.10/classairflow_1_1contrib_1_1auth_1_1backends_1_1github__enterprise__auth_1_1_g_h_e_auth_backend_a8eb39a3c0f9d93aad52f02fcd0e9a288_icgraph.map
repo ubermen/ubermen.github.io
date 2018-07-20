@@ -1,0 +1,4 @@
+<map id="airflow.contrib.auth.backends.github_enterprise_auth.GHEAuthBackend.oauth_callback" name="airflow.contrib.auth.backends.github_enterprise_auth.GHEAuthBackend.oauth_callback">
+<area shape="rect" id="node2" href="$classairflow_1_1contrib_1_1auth_1_1backends_1_1github__enterprise__auth_1_1_g_h_e_auth_backend.html#a8f70868d6505d87e7bb3665a865d229f" title="airflow.contrib.auth.backends.github\l_enterprise_auth.GHEAuthBackend.init_app" alt="" coords="372,5,649,47"/>
+<area shape="rect" id="node3" href="$classairflow_1_1contrib_1_1auth_1_1backends_1_1google__auth_1_1_google_auth_backend.html#afc92736ed310ed94f45850df37520843" title="airflow.contrib.auth.backends.google\l_auth.GoogleAuthBackend.init_app" alt="" coords="395,71,627,112"/>
+</map>

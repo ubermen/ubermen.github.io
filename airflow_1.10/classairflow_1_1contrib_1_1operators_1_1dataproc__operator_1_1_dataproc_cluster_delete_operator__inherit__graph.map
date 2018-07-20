@@ -1,0 +1,4 @@
+<map id="airflow.contrib.operators.dataproc_operator.DataprocClusterDeleteOperator" name="airflow.contrib.operators.dataproc_operator.DataprocClusterDeleteOperator">
+<area shape="rect" id="node2" href="$classairflow_1_1models_1_1_base_operator.html" title="airflow.models.BaseOperator" alt="" coords="41,169,229,196"/>
+<area shape="rect" id="node3" href="$classairflow_1_1utils_1_1log_1_1logging__mixin_1_1_logging_mixin.html" title="airflow.utils.log.logging\l_mixin.LoggingMixin" alt="" coords="59,80,211,121"/>
+</map>

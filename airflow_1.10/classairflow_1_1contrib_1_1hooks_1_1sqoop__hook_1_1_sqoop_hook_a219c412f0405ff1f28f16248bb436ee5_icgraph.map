@@ -1,0 +1,5 @@
+<map id="airflow.contrib.hooks.sqoop_hook.SqoopHook.Popen" name="airflow.contrib.hooks.sqoop_hook.SqoopHook.Popen">
+<area shape="rect" id="node2" href="$classairflow_1_1contrib_1_1hooks_1_1sqoop__hook_1_1_sqoop_hook.html#a9fe89dcc0fdd052eb7b1f196bc634168" title="airflow.contrib.hooks.sqoop\l_hook.SqoopHook.import_table" alt="" coords="737,5,940,47"/>
+<area shape="rect" id="node3" href="$classairflow_1_1contrib_1_1hooks_1_1sqoop__hook_1_1_sqoop_hook.html#a33ea83d8269beeb3d4c56e569d71e738" title="airflow.contrib.hooks.sqoop\l_hook.SqoopHook.import_query" alt="" coords="483,35,689,76"/>
+<area shape="rect" id="node4" href="$classairflow_1_1contrib_1_1hooks_1_1sqoop__hook_1_1_sqoop_hook.html#a82cc087c27c4317a306b3707e658b435" title="airflow.contrib.hooks.sqoop\l_hook.SqoopHook.export_table" alt="" coords="232,85,435,127"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="airflow.bin.cli.setup_locations" name="airflow.bin.cli.setup_locations">
+<area shape="rect" id="node2" href="$namespaceairflow_1_1bin_1_1cli.html#a3d63a64461dbcba0c465d272878b379a" title="airflow.bin.cli.webserver" alt="" coords="185,5,343,32"/>
+<area shape="rect" id="node3" href="$namespaceairflow_1_1bin_1_1cli.html#a0d85d21c1af744e39bc83117dbd33b46" title="airflow.bin.cli.scheduler" alt="" coords="186,56,342,83"/>
+<area shape="rect" id="node4" href="$namespaceairflow_1_1bin_1_1cli.html#afa246a63011b975f3cf57993c2d77a07" title="airflow.bin.cli.worker" alt="" coords="195,107,333,133"/>
+<area shape="rect" id="node5" href="$namespaceairflow_1_1bin_1_1cli.html#a0183d155c072fef1e8dbe3675dc9c5d3" title="airflow.bin.cli.flower" alt="" coords="197,157,331,184"/>
+<area shape="rect" id="node6" href="$namespaceairflow_1_1bin_1_1cli.html#a5d7161eca766d9cd9b01b3722c7ac2ca" title="airflow.bin.cli.kerberos" alt="" coords="189,208,339,235"/>
+</map>

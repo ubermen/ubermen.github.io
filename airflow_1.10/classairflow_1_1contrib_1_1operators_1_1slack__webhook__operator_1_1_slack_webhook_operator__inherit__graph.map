@@ -1,0 +1,5 @@
+<map id="airflow.contrib.operators.slack_webhook_operator.SlackWebhookOperator" name="airflow.contrib.operators.slack_webhook_operator.SlackWebhookOperator">
+<area shape="rect" id="node2" href="$classairflow_1_1operators_1_1http__operator_1_1_simple_http_operator.html" title="airflow.operators.http\l_operator.SimpleHttpOperator" alt="" coords="46,244,241,285"/>
+<area shape="rect" id="node3" href="$classairflow_1_1models_1_1_base_operator.html" title="airflow.models.BaseOperator" alt="" coords="49,169,237,196"/>
+<area shape="rect" id="node4" href="$classairflow_1_1utils_1_1log_1_1logging__mixin_1_1_logging_mixin.html" title="airflow.utils.log.logging\l_mixin.LoggingMixin" alt="" coords="67,80,219,121"/>
+</map>

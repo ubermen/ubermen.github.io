@@ -1,0 +1,6 @@
+<map id="airflow.www_rbac.views.TaskInstanceModelView.set_task_instance_state" name="airflow.www_rbac.views.TaskInstanceModelView.set_task_instance_state">
+<area shape="rect" id="node2" href="$classairflow_1_1www__rbac_1_1views_1_1_task_instance_model_view.html#a20bef60f02c70ef99ef4dc8451fa8654" title="airflow.www_rbac.views.Task\lInstanceModelView.action\l_set_running" alt="" coords="241,5,429,61"/>
+<area shape="rect" id="node3" href="$classairflow_1_1www__rbac_1_1views_1_1_task_instance_model_view.html#aec31c059d886e827b5b6482666c5d332" title="airflow.www_rbac.views.Task\lInstanceModelView.action\l_set_failed" alt="" coords="241,85,429,141"/>
+<area shape="rect" id="node4" href="$classairflow_1_1www__rbac_1_1views_1_1_task_instance_model_view.html#a9c7c8930a7bfdd8c7098a6e7a7889088" title="airflow.www_rbac.views.Task\lInstanceModelView.action\l_set_success" alt="" coords="241,165,429,221"/>
+<area shape="rect" id="node5" href="$classairflow_1_1www__rbac_1_1views_1_1_task_instance_model_view.html#a7ea967b5344ca534f11f0fa40d66b92b" title="airflow.www_rbac.views.Task\lInstanceModelView.action\l_set_retry" alt="" coords="241,245,429,301"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="airflow.www_rbac.views.get_date_time_num_runs_dag_runs_form_data" name="airflow.www_rbac.views.get_date_time_num_runs_dag_runs_form_data">
+<area shape="rect" id="node2" href="$classairflow_1_1www__rbac_1_1views_1_1_airflow.html#ae445b9d2e62b0ffbe6d6babb434abd36" title="airflow.www_rbac.views.Airflow.graph" alt="" coords="232,5,467,32"/>
+<area shape="rect" id="node3" href="$classairflow_1_1www__rbac_1_1views_1_1_airflow.html#af5823602306b07c4fd4fb3e529a644f9" title="airflow.www_rbac.views.Airflow.gantt" alt="" coords="234,56,465,83"/>
+</map>

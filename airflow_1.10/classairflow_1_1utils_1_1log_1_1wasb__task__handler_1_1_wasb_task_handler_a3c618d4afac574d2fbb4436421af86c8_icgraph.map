@@ -1,0 +1,6 @@
+<map id="airflow.utils.log.wasb_task_handler.WasbTaskHandler.hook" name="airflow.utils.log.wasb_task_handler.WasbTaskHandler.hook">
+<area shape="rect" id="node2" href="$classairflow_1_1utils_1_1log_1_1wasb__task__handler_1_1_wasb_task_handler.html#a4890e8e90cd278da4ad7086024d78635" title="airflow.utils.log.wasb\l_task_handler.WasbTaskHandler.wasb\l_log_exists" alt="" coords="315,5,561,61"/>
+<area shape="rect" id="node4" href="$classairflow_1_1utils_1_1log_1_1wasb__task__handler_1_1_wasb_task_handler.html#a1f6eed78fc043621385ffe358458908a" title="airflow.utils.log.wasb\l_task_handler.WasbTaskHandler.wasb_write" alt="" coords="625,78,907,119"/>
+<area shape="rect" id="node5" href="$classairflow_1_1utils_1_1log_1_1wasb__task__handler_1_1_wasb_task_handler.html#ac0ace612dc977344d9e59173f7f3b63a" title="airflow.utils.log.wasb\l_task_handler.WasbTaskHandler.wasb_read" alt="" coords="299,137,577,178"/>
+<area shape="rect" id="node3" href="$classairflow_1_1utils_1_1log_1_1wasb__task__handler_1_1_wasb_task_handler.html#a737faf8469fb8f29baf3f42ca555944d" title="airflow.utils.log.wasb\l_task_handler.WasbTaskHandler.close" alt="" coords="955,78,1203,119"/>
+</map>

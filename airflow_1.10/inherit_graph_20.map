@@ -1,0 +1,4 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node2" href="$classairflow_1_1contrib_1_1operators_1_1bigquery__check__operator_1_1_big_query_value_check_operator.html" title="airflow.contrib.operators.bigquery\l_check_operator.BigQueryValueCheckOperator" alt="" coords="196,5,492,47"/>
+<area shape="rect" id="node3" href="$classairflow_1_1operators_1_1presto__check__operator_1_1_presto_value_check_operator.html" title="airflow.operators.presto\l_check_operator.PrestoValueCheck\lOperator" alt="" coords="229,71,459,127"/>
+</map>

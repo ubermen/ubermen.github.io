@@ -1,0 +1,5 @@
+<map id="airflow.contrib.hooks.bigquery_hook.BigQueryCursor.next" name="airflow.contrib.hooks.bigquery_hook.BigQueryCursor.next">
+<area shape="rect" id="node2" href="$classairflow_1_1contrib_1_1hooks_1_1bigquery__hook_1_1_big_query_cursor.html#a2f662e70c7960673b2d591222a244494" title="airflow.contrib.hooks.bigquery\l_hook.BigQueryCursor.fetchone" alt="" coords="247,39,453,80"/>
+<area shape="rect" id="node3" href="$classairflow_1_1contrib_1_1hooks_1_1bigquery__hook_1_1_big_query_cursor.html#a4727960766551464b8687cd2b8e8b4a4" title="airflow.contrib.hooks.bigquery\l_hook.BigQueryCursor.fetchmany" alt="" coords="501,5,719,47"/>
+<area shape="rect" id="node4" href="$classairflow_1_1contrib_1_1hooks_1_1bigquery__hook_1_1_big_query_cursor.html#a67c05d187d4c7ccf93c09562f39f18aa" title="airflow.contrib.hooks.bigquery\l_hook.BigQueryCursor.fetchall" alt="" coords="511,71,709,112"/>
+</map>

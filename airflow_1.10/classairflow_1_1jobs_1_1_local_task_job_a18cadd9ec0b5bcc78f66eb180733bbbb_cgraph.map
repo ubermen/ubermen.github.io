@@ -1,0 +1,5 @@
+<map id="airflow.jobs.LocalTaskJob.heartbeat_callback" name="airflow.jobs.LocalTaskJob.heartbeat_callback">
+<area shape="rect" id="node2" href="$namespaceairflow_1_1utils_1_1net.html#a0b854ab6e53b25261f86d8b3ed449308" title="airflow.utils.net.get\l_hostname" alt="" coords="295,5,426,47"/>
+<area shape="rect" id="node3" href="$classairflow_1_1utils_1_1log_1_1logging__mixin_1_1_logging_mixin.html#a4748867be8237041588c62ed4b75bffa" title="airflow.utils.log.logging\l_mixin.LoggingMixin.log" alt="" coords="280,95,441,136"/>
+<area shape="rect" id="node4" href="$namespaceairflow_1_1utils_1_1log_1_1logging__mixin.html#a88e6bd13ca39ca59bfc486b5ab5879f5" title="airflow.utils.log.logging\l_mixin.set_context" alt="" coords="489,95,641,136"/>
+</map>

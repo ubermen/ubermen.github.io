@@ -1,0 +1,5 @@
+<map id="airflow.hooks.S3_hook.S3Hook.get_key" name="airflow.hooks.S3_hook.S3Hook.get_key">
+<area shape="rect" id="node2" href="$classairflow_1_1hooks_1_1_s3__hook_1_1_s3_hook.html#af0c770d3eeccfbb08cb1a15c8841e5e2" title="airflow.hooks.S3_hook.S3\lHook.parse_s3_url" alt="" coords="253,5,425,47"/>
+<area shape="rect" id="node3" href="$classairflow_1_1contrib_1_1hooks_1_1aws__hook_1_1_aws_hook.html#a2cfcb7e8c6ee80c30cb4d528bd4bef69" title="airflow.contrib.hooks.aws\l_hook.AwsHook.get_resource_type" alt="" coords="225,71,452,112"/>
+<area shape="rect" id="node4" href="$classairflow_1_1contrib_1_1hooks_1_1aws__hook_1_1_aws_hook.html#a7a6471917826c9277a7c2cf39bd6ca2e" title="airflow.contrib.hooks.aws\l_hook.AwsHook._get_credentials" alt="" coords="500,71,715,112"/>
+</map>

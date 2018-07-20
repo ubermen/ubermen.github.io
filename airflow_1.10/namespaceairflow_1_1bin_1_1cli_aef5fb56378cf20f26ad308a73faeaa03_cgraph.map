@@ -1,0 +1,4 @@
+<map id="airflow.bin.cli.restart_workers" name="airflow.bin.cli.restart_workers">
+<area shape="rect" id="node2" href="$namespaceairflow_1_1bin_1_1cli.html#ab5697959138077dc41427a8d8bbc4913" title="airflow.bin.cli.get\l_num_workers_running" alt="" coords="211,5,365,47"/>
+<area shape="rect" id="node3" href="$namespaceairflow_1_1bin_1_1cli.html#a738ccd4ebb476933496252ba772ee056" title="airflow.bin.cli.get\l_num_ready_workers_running" alt="" coords="191,71,385,112"/>
+</map>

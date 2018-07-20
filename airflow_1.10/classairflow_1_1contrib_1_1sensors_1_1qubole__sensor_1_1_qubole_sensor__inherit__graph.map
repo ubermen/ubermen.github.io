@@ -1,0 +1,8 @@
+<map id="airflow.contrib.sensors.qubole_sensor.QuboleSensor" name="airflow.contrib.sensors.qubole_sensor.QuboleSensor">
+<area shape="rect" id="node7" href="$classairflow_1_1contrib_1_1sensors_1_1qubole__sensor_1_1_qubole_file_sensor.html" title="airflow.contrib.sensors.qubole\l_sensor.QuboleFileSensor" alt="" coords="1038,5,1231,47"/>
+<area shape="rect" id="node8" href="$classairflow_1_1contrib_1_1sensors_1_1qubole__sensor_1_1_qubole_partition_sensor.html" title="airflow.contrib.sensors.qubole\l_sensor.QubolePartitionSensor" alt="" coords="1033,71,1236,112"/>
+<area shape="rect" id="node2" href="$classairflow_1_1sensors_1_1base__sensor__operator_1_1_base_sensor_operator.html" title="airflow.sensors.base\l_sensor_operator.BaseSensor\lOperator" alt="" coords="547,31,744,87"/>
+<area shape="rect" id="node3" href="$classairflow_1_1models_1_1_base_operator.html" title="airflow.models.BaseOperator" alt="" coords="311,21,499,47"/>
+<area shape="rect" id="node4" href="$classairflow_1_1utils_1_1log_1_1logging__mixin_1_1_logging_mixin.html" title="airflow.utils.log.logging\l_mixin.LoggingMixin" alt="" coords="111,39,263,80"/>
+<area shape="rect" id="node6" href="$classairflow_1_1models_1_1_skip_mixin.html" title="airflow.models.SkipMixin" alt="" coords="322,71,487,98"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="airflow.exceptions.AirflowBadRequest" name="airflow.exceptions.AirflowBadRequest">
+<area shape="rect" id="node4" href="$classairflow_1_1exceptions_1_1_dag_file_exists.html" title="airflow.exceptions.DagFile\lExists" alt="" coords="5,259,179,300"/>
+<area shape="rect" id="node5" href="$classairflow_1_1exceptions_1_1_dag_run_already_exists.html" title="airflow.exceptions.DagRun\lAlreadyExists" alt="" coords="203,259,378,300"/>
+<area shape="rect" id="node2" href="$classairflow_1_1exceptions_1_1_airflow_exception.html" title="airflow.exceptions.Airflow\lException" alt="" coords="107,80,274,121"/>
+</map>

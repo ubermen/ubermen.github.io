@@ -1,0 +1,13 @@
+<map id="airflow.models.TaskInstance.handle_failure" name="airflow.models.TaskInstance.handle_failure">
+<area shape="rect" id="node2" href="$classairflow_1_1utils_1_1log_1_1logging__mixin_1_1_logging_mixin.html#a4748867be8237041588c62ed4b75bffa" title="airflow.utils.log.logging\l_mixin.LoggingMixin.log" alt="" coords="595,132,757,173"/>
+<area shape="rect" id="node4" href="$classairflow_1_1models_1_1_task_instance.html#afd84915ea5e4c7aa4953253cd6445913" title="airflow.models.TaskInstance.set\l_duration" alt="" coords="287,5,493,47"/>
+<area shape="rect" id="node8" href="$classairflow_1_1models_1_1_task_instance.html#a461ea1824e476281e789eb7e83c6fdcb" title="airflow.models.TaskInstance.is\l_eligible_to_retry" alt="" coords="291,123,489,164"/>
+<area shape="rect" id="node9" href="$classairflow_1_1models_1_1_task_instance.html#abfbcdfafa7e55b2741b8217a0745766e" title="airflow.models.TaskInstance.email\l_alert" alt="" coords="280,240,500,281"/>
+<area shape="rect" id="node12" href="$classairflow_1_1models_1_1_task_instance.html#a0d7978b2634b96a361fe93a8b21cfd67" title="airflow.models.TaskInstance.error" alt="" coords="283,189,497,215"/>
+<area shape="rect" id="node3" href="$namespaceairflow_1_1utils_1_1log_1_1logging__mixin.html#a88e6bd13ca39ca59bfc486b5ab5879f5" title="airflow.utils.log.logging\l_mixin.set_context" alt="" coords="900,132,1052,173"/>
+<area shape="rect" id="node5" href="$classairflow_1_1models_1_1_task_instance.html#a6212d8539e159eabe1da05eb0a5913e7" title="airflow.models.TaskInstance.xcom_push" alt="" coords="548,13,804,39"/>
+<area shape="rect" id="node6" href="$classairflow_1_1models_1_1_task_instance.html#a4ab306a1933763c8f6155fd595746ca6" title="airflow.models.TaskInstance.xcom_pull" alt="" coords="852,13,1100,39"/>
+<area shape="rect" id="node7" href="$namespaceairflow_1_1utils_1_1helpers.html#a3a4b613c38c9215e4b5401624f31f571" title="airflow.utils.helpers.is\l_container" alt="" coords="1148,5,1295,47"/>
+<area shape="rect" id="node10" href="$namespaceairflow_1_1contrib_1_1utils_1_1sendgrid.html#a41f34fed29ae0d7df8dd7dbbfbdae289" title="airflow.contrib.utils.sendgrid.send\l_email" alt="" coords="569,240,783,281"/>
+<area shape="rect" id="node11" href="$namespaceairflow_1_1utils_1_1email.html#a91a6d59073e1eee209f29d0502f52800" title="airflow.utils.email.get\l_email_address_list" alt="" coords="905,240,1047,281"/>
+</map>

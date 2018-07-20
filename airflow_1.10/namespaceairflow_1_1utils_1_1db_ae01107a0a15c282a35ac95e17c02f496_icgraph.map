@@ -1,0 +1,9 @@
+<map id="airflow.utils.db.create_session" name="airflow.utils.db.create_session">
+<area shape="rect" id="node2" href="$classairflow_1_1jobs_1_1_base_job.html#a00b97f5aeafee8147b438528968daa78" title="airflow.jobs.BaseJob.run" alt="" coords="269,5,431,32"/>
+<area shape="rect" id="node3" href="$namespaceairflow_1_1www_1_1utils.html#aca1c9c81ef361e3982390ee5bcf01400" title="airflow.www.utils.action\l_logging" alt="" coords="272,57,428,98"/>
+<area shape="rect" id="node4" href="$namespaceairflow_1_1utils_1_1db.html#abf8ccb14e5a4e6b771edea39c49e6534" title="airflow.utils.db.provide\l_session" alt="" coords="276,122,424,163"/>
+<area shape="rect" id="node5" href="$namespaceairflow_1_1www__rbac_1_1api_1_1experimental_1_1endpoints.html#a458899ebe812dabb61a667b0d51431eb" title="airflow.www_rbac.api.experimental.endpoints.dag\l_paused" alt="" coords="197,187,503,229"/>
+<area shape="rect" id="node6" href="$classairflow_1_1www_1_1views_1_1_airflow.html#a5908a01d83a76e8dd2a5654252bc8b63" title="airflow.www.views.Airflow.chart_data" alt="" coords="235,253,465,280"/>
+<area shape="rect" id="node7" href="$classairflow_1_1www_1_1views_1_1_airflow.html#acbb8fce12185584d19a3d754cb5e6771" title="airflow.www.views.Airflow.chart" alt="" coords="251,304,449,331"/>
+<area shape="rect" id="node8" href="$classairflow_1_1www_1_1views_1_1_airflow.html#ac208b7be589fa4b8cd24b78b35bfd1d0" title="airflow.www.views.Airflow.variables" alt="" coords="240,355,460,381"/>
+</map>

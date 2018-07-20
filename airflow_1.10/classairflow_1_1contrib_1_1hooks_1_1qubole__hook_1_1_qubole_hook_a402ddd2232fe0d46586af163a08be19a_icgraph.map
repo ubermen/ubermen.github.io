@@ -1,0 +1,7 @@
+<map id="airflow.contrib.hooks.qubole_hook.QuboleHook.get_results" name="airflow.contrib.hooks.qubole_hook.QuboleHook.get_results">
+<area shape="rect" id="node2" href="$classairflow_1_1contrib_1_1hooks_1_1qubole__check__hook_1_1_qubole_check_hook.html#a1d0cf43e5a4073516334a1b5070a006f" title="airflow.contrib.hooks.qubole\l_check_hook.QuboleCheckHook.get\l_query_results" alt="" coords="253,5,487,61"/>
+<area shape="rect" id="node5" href="$classairflow_1_1hooks_1_1hive__hooks_1_1_hive_server2_hook.html#a59e762e445b960d42de5d4c6682ca61c" title="airflow.hooks.hive\l_hooks.HiveServer2Hook.get\l_records" alt="" coords="277,85,463,141"/>
+<area shape="rect" id="node6" href="$classairflow_1_1hooks_1_1hive__hooks_1_1_hive_server2_hook.html#a8c277fe0105adf9bd847fb99026d148a" title="airflow.hooks.hive\l_hooks.HiveServer2Hook.get\l_pandas_df" alt="" coords="277,165,463,221"/>
+<area shape="rect" id="node3" href="$classairflow_1_1contrib_1_1hooks_1_1qubole__check__hook_1_1_qubole_check_hook.html#afab526ade672cd78f39091e08e076337" title="airflow.contrib.hooks.qubole\l_check_hook.QuboleCheckHook.get_first" alt="" coords="535,13,796,54"/>
+<area shape="rect" id="node4" href="$classairflow_1_1operators_1_1druid__check__operator_1_1_druid_check_operator.html#a7056142fd42e121a215a152afcd76357" title="airflow.operators.druid\l_check_operator.DruidCheckOperator.execute" alt="" coords="844,13,1133,54"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="airflow.contrib.hooks.aws_dynamodb_hook.AwsDynamoDBHook" name="airflow.contrib.hooks.aws_dynamodb_hook.AwsDynamoDBHook">
+<area shape="rect" id="node2" href="$classairflow_1_1contrib_1_1hooks_1_1aws__hook_1_1_aws_hook.html" title="airflow.contrib.hooks.aws\l_hook.AwsHook" alt="" coords="47,259,213,300"/>
+<area shape="rect" id="node3" href="$classairflow_1_1hooks_1_1base__hook_1_1_base_hook.html" title="airflow.hooks.base\l_hook.BaseHook" alt="" coords="65,169,195,211"/>
+<area shape="rect" id="node4" href="$classairflow_1_1utils_1_1log_1_1logging__mixin_1_1_logging_mixin.html" title="airflow.utils.log.logging\l_mixin.LoggingMixin" alt="" coords="54,80,206,121"/>
+</map>

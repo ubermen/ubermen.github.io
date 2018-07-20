@@ -1,0 +1,7 @@
+<map id="airflow.models.XCom.set" name="airflow.models.XCom.set">
+<area shape="rect" id="node2" href="$classairflow_1_1models_1_1_x_com.html#a2e03dbd57764dee8944ec0f3f7da8c5b" title="airflow.models.XCom.delete" alt="" coords="223,5,404,32"/>
+<area shape="rect" id="node3" href="$classairflow_1_1models_1_1_x_com.html#a059ff08a55c9232053ed3bee62cf39c7" title="airflow.models.XCom.get_one" alt="" coords="217,56,409,83"/>
+<area shape="rect" id="node4" href="$classairflow_1_1models_1_1_x_com.html#a4aa1e09e5af9323f1f7988a1cdf13c13" title="airflow.models.XCom.get_many" alt="" coords="457,56,660,83"/>
+<area shape="rect" id="node5" href="$namespaceairflow_1_1utils_1_1helpers.html#ad6d1b4869aa950b56a6f7d3a69e27e18" title="airflow.utils.helpers.as\l_tuple" alt="" coords="708,49,859,90"/>
+<area shape="rect" id="node6" href="$namespaceairflow_1_1utils_1_1helpers.html#a3a4b613c38c9215e4b5401624f31f571" title="airflow.utils.helpers.is\l_container" alt="" coords="907,49,1053,90"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="airflow.models.TaskInstance.error" name="airflow.models.TaskInstance.error">
+<area shape="rect" id="node2" href="$classairflow_1_1models_1_1_task_instance.html#a2220d6108fe56151a9752a1385c340e0" title="airflow.models.TaskInstance.get\l_dagrun" alt="" coords="543,5,749,47"/>
+<area shape="rect" id="node4" href="$classairflow_1_1models_1_1_task_instance.html#acb6da04f0e7ca836b84922ddf9a1a4f3" title="airflow.models.TaskInstance.handle\l_failure" alt="" coords="268,35,495,76"/>
+<area shape="rect" id="node3" href="$classairflow_1_1models_1_1_task_instance.html#a8b434f7272a1887a946a2268ccfe0beb" title="airflow.models.TaskInstance.previous_ti" alt="" coords="797,13,1048,39"/>
+</map>

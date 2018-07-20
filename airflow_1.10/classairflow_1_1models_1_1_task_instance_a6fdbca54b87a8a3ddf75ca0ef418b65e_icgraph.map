@@ -1,0 +1,7 @@
+<map id="airflow.models.TaskInstance.__init__" name="airflow.models.TaskInstance.__init__">
+<area shape="rect" id="node2" href="$classairflow_1_1models_1_1_task_instance.html#a7c4220a59c6b1301fe86860a38df50db" title="airflow.models.TaskInstance.get\l_template_context" alt="" coords="243,35,449,76"/>
+<area shape="rect" id="node3" href="$classairflow_1_1models_1_1_task_instance.html#a2220d6108fe56151a9752a1385c340e0" title="airflow.models.TaskInstance.get\l_dagrun" alt="" coords="783,5,990,47"/>
+<area shape="rect" id="node5" href="$classairflow_1_1models_1_1_task_instance.html#a542d99977eff904a8ec3a0cf6ee789f4" title="airflow.models.TaskInstance.render\l_templates" alt="" coords="497,64,723,105"/>
+<area shape="rect" id="node4" href="$classairflow_1_1models_1_1_task_instance.html#a8b434f7272a1887a946a2268ccfe0beb" title="airflow.models.TaskInstance.previous_ti" alt="" coords="1051,13,1301,39"/>
+<area shape="rect" id="node6" href="$classairflow_1_1models_1_1_task_instance.html#a29ffcffdaafa3102acddcda8d8755176" title="airflow.models.TaskInstance.dry_run" alt="" coords="771,71,1003,98"/>
+</map>

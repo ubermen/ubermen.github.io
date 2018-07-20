@@ -1,0 +1,5 @@
+<map id="airflow.utils.db.resetdb" name="airflow.utils.db.resetdb">
+<area shape="rect" id="node2" href="$namespaceairflow_1_1utils_1_1db.html#a1ae5c3a1d5403adc07da234ea31b2dbf" title="airflow.utils.db.initdb" alt="" coords="204,31,343,57"/>
+<area shape="rect" id="node3" href="$namespaceairflow_1_1utils_1_1db.html#aeda9a5117717780e47140d95c5dfb9b5" title="airflow.utils.db.upgradedb" alt="" coords="396,5,564,32"/>
+<area shape="rect" id="node4" href="$namespaceairflow_1_1utils_1_1db.html#a39a224dea2c22aa1cafc690c47639377" title="airflow.utils.db.merge_conn" alt="" coords="391,56,569,83"/>
+</map>

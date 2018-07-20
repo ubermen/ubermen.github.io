@@ -1,0 +1,4 @@
+<map id="airflow.contrib.hooks.bigquery_hook.BigQueryBaseCursor.run_table_delete" name="airflow.contrib.hooks.bigquery_hook.BigQueryBaseCursor.run_table_delete">
+<area shape="rect" id="node2" href="$classairflow_1_1contrib_1_1hooks_1_1bigquery__hook_1_1_big_query_base_cursor.html#a7f32af5bb2fb5c4422ec9ae571620800" title="airflow.contrib.hooks.bigquery\l_hook.BigQueryBaseCursor.get\l_tabledata" alt="" coords="259,5,464,61"/>
+<area shape="rect" id="node3" href="$classairflow_1_1contrib_1_1hooks_1_1bigquery__hook_1_1_big_query_base_cursor.html#a4aa89006ba2f3546d902484898e446ee" title="airflow.contrib.hooks.bigquery\l_hook.BigQueryBaseCursor.get_schema" alt="" coords="512,13,771,54"/>
+</map>

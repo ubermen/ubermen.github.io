@@ -1,0 +1,5 @@
+<map id="airflow.contrib.hooks.segment_hook.SegmentHook.get_conn" name="airflow.contrib.hooks.segment_hook.SegmentHook.get_conn">
+<area shape="rect" id="node2" href="$classairflow_1_1utils_1_1log_1_1logging__mixin_1_1_logging_mixin.html#a4748867be8237041588c62ed4b75bffa" title="airflow.utils.log.logging\l_mixin.LoggingMixin.log" alt="" coords="496,29,657,71"/>
+<area shape="rect" id="node4" href="$classairflow_1_1contrib_1_1hooks_1_1segment__hook_1_1_segment_hook.html#aaeb154cc7fe99c0dbe1848d933bb870f" title="airflow.contrib.hooks.segment\l_hook.SegmentHook.on_error" alt="" coords="253,59,448,100"/>
+<area shape="rect" id="node3" href="$namespaceairflow_1_1utils_1_1log_1_1logging__mixin.html#a88e6bd13ca39ca59bfc486b5ab5879f5" title="airflow.utils.log.logging\l_mixin.set_context" alt="" coords="705,29,857,71"/>
+</map>

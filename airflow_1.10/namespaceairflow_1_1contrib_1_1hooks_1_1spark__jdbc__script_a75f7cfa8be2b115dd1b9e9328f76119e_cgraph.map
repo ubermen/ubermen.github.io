@@ -1,0 +1,4 @@
+<map id="airflow.contrib.hooks.spark_jdbc_script.spark_read_from_jdbc" name="airflow.contrib.hooks.spark_jdbc_script.spark_read_from_jdbc">
+<area shape="rect" id="node2" href="$namespaceairflow_1_1contrib_1_1hooks_1_1spark__jdbc__script.html#a49c1d82446c5e99c1740e07716013a38" title="airflow.contrib.hooks.spark\l_jdbc_script.set_common\l_options" alt="" coords="229,5,405,61"/>
+<area shape="rect" id="node3" href="$namespaceairflow_1_1contrib_1_1hooks_1_1spark__jdbc__script.html#afde3214072940f0d9486d880b5f14548" title="airflow.contrib.hooks.spark\l_jdbc_script.spark_write\l_to_jdbc" alt="" coords="453,5,629,61"/>
+</map>

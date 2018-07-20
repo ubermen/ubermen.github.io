@@ -1,0 +1,6 @@
+<map id="airflow.hooks.http_hook.HttpHook" name="airflow.hooks.http_hook.HttpHook">
+<area shape="rect" id="node5" href="$classairflow_1_1contrib_1_1hooks_1_1discord__webhook__hook_1_1_discord_webhook_hook.html" title="airflow.contrib.hooks.discord\l_webhook_hook.DiscordWebhookHook" alt="" coords="659,5,907,47"/>
+<area shape="rect" id="node6" href="$classairflow_1_1contrib_1_1hooks_1_1slack__webhook__hook_1_1_slack_webhook_hook.html" title="airflow.contrib.hooks.slack\l_webhook_hook.SlackWebhookHook" alt="" coords="664,71,901,112"/>
+<area shape="rect" id="node2" href="$classairflow_1_1hooks_1_1base__hook_1_1_base_hook.html" title="airflow.hooks.base\l_hook.BaseHook" alt="" coords="311,39,440,80"/>
+<area shape="rect" id="node3" href="$classairflow_1_1utils_1_1log_1_1logging__mixin_1_1_logging_mixin.html" title="airflow.utils.log.logging\l_mixin.LoggingMixin" alt="" coords="111,39,263,80"/>
+</map>

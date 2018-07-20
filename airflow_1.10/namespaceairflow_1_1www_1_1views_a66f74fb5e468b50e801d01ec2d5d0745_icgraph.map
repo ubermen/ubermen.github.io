@@ -1,0 +1,4 @@
+<map id="airflow.www.views.get_date_time_num_runs_dag_runs_form_data" name="airflow.www.views.get_date_time_num_runs_dag_runs_form_data">
+<area shape="rect" id="node2" href="$classairflow_1_1www_1_1views_1_1_airflow.html#a7ad5a5486b0ca5fe08317c71342e6bda" title="airflow.www.views.Airflow.graph" alt="" coords="232,5,435,32"/>
+<area shape="rect" id="node3" href="$classairflow_1_1www_1_1views_1_1_airflow.html#a7f22341f83c07d8232d199ebffa24fe0" title="airflow.www.views.Airflow.gantt" alt="" coords="234,56,433,83"/>
+</map>

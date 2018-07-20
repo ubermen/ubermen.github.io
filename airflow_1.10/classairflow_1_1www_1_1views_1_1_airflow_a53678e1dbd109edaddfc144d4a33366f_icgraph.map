@@ -1,0 +1,7 @@
+<map id="airflow.www.views.Airflow.log" name="airflow.www.views.Airflow.log">
+<area shape="rect" id="node2" href="$classairflow_1_1contrib_1_1operators_1_1mlengine__operator_1_1_m_l_engine_batch_prediction_operator.html#a65c6f96168d70b500f019118afab8f6e" title="airflow.contrib.operators.mlengine\l_operator.MLEngineBatchPredictionOperator.execute" alt="" coords="240,5,571,47"/>
+<area shape="rect" id="node3" href="$classairflow_1_1contrib_1_1operators_1_1mlengine__operator_1_1_m_l_engine_training_operator.html#a2084e3efc66c338b44ef6940b2e77320" title="airflow.contrib.operators.mlengine\l_operator.MLEngineTrainingOperator.execute" alt="" coords="264,71,547,112"/>
+<area shape="rect" id="node4" href="$classairflow_1_1contrib_1_1task__runner_1_1cgroup__task__runner_1_1_cgroup_task_runner.html#ad5ebac6200f5e5768472938a42ca39f7" title="airflow.contrib.task\l_runner.cgroup_task_runner.\lCgroupTaskRunner.start" alt="" coords="312,137,499,193"/>
+<area shape="rect" id="node5" href="$classairflow_1_1contrib_1_1task__runner_1_1cgroup__task__runner_1_1_cgroup_task_runner.html#aee73b1298d32aaffbbc98f69169b04b4" title="airflow.contrib.task\l_runner.cgroup_task_runner.\lCgroupTaskRunner.return_code" alt="" coords="303,217,507,273"/>
+<area shape="rect" id="node6" href="$classairflow_1_1contrib_1_1task__runner_1_1cgroup__task__runner_1_1_cgroup_task_runner.html#ae5c6222cfb1a241596b2f53da8191095" title="airflow.contrib.task\l_runner.cgroup_task_runner.\lCgroupTaskRunner.terminate" alt="" coords="310,297,501,353"/>
+</map>

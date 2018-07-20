@@ -1,0 +1,6 @@
+<map id="airflow.jobs.SchedulerJob.manage_slas" name="airflow.jobs.SchedulerJob.manage_slas">
+<area shape="rect" id="node2" href="$classairflow_1_1utils_1_1log_1_1logging__mixin_1_1_logging_mixin.html#a4748867be8237041588c62ed4b75bffa" title="airflow.utils.log.logging\l_mixin.LoggingMixin.log" alt="" coords="329,29,491,71"/>
+<area shape="rect" id="node4" href="$namespaceairflow_1_1contrib_1_1utils_1_1sendgrid.html#a41f34fed29ae0d7df8dd7dbbfbdae289" title="airflow.contrib.utils.sendgrid.send\l_email" alt="" coords="303,95,517,136"/>
+<area shape="rect" id="node3" href="$namespaceairflow_1_1utils_1_1log_1_1logging__mixin.html#a88e6bd13ca39ca59bfc486b5ab5879f5" title="airflow.utils.log.logging\l_mixin.set_context" alt="" coords="565,29,717,71"/>
+<area shape="rect" id="node5" href="$namespaceairflow_1_1utils_1_1email.html#a91a6d59073e1eee209f29d0502f52800" title="airflow.utils.email.get\l_email_address_list" alt="" coords="570,95,713,136"/>
+</map>

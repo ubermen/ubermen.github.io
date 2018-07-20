@@ -1,0 +1,6 @@
+<map id="airflow.www_rbac.security.init_roles" name="airflow.www_rbac.security.init_roles">
+<area shape="rect" id="node2" href="$namespaceairflow_1_1www__rbac_1_1app.html#ad654c8eb9576102730cd1241978f19a9" title="airflow.www_rbac.app.create_app" alt="" coords="245,13,460,39"/>
+<area shape="rect" id="node3" href="$namespaceairflow_1_1www__rbac_1_1app.html#aed09061097f56bfa79d04858eb856b10" title="airflow.www_rbac.app.cached_app" alt="" coords="508,13,728,39"/>
+<area shape="rect" id="node4" href="$namespaceairflow_1_1www__rbac_1_1app.html#abc84d508925816830f558fbe4e28be6c" title="airflow.www_rbac.app.cached\l_appbuilder" alt="" coords="776,5,968,47"/>
+<area shape="rect" id="node5" href="$namespaceairflow_1_1bin_1_1cli.html#a5f26c4e8fc4bad05b65be371ec96135d" title="airflow.bin.cli.create_user" alt="" coords="1016,13,1184,39"/>
+</map>

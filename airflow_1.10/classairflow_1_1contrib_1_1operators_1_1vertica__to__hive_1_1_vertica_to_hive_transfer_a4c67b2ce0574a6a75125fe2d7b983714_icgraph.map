@@ -1,0 +1,5 @@
+<map id="airflow.contrib.operators.vertica_to_hive.VerticaToHiveTransfer.type_map" name="airflow.contrib.operators.vertica_to_hive.VerticaToHiveTransfer.type_map">
+<area shape="rect" id="node2" href="$classairflow_1_1contrib_1_1operators_1_1vertica__to__hive_1_1_vertica_to_hive_transfer.html#aba0e56c027ccf59023da4268ddbd3e0f" title="airflow.contrib.operators.vertica\l_to_hive.VerticaToHiveTransfer.execute" alt="" coords="312,5,560,47"/>
+<area shape="rect" id="node3" href="$classairflow_1_1operators_1_1mssql__to__hive_1_1_ms_sql_to_hive_transfer.html#a3cefc4012f2505164fabebdce0def306" title="airflow.operators.mssql\l_to_hive.MsSqlToHiveTransfer.execute" alt="" coords="314,71,558,112"/>
+<area shape="rect" id="node4" href="$classairflow_1_1operators_1_1mysql__to__hive_1_1_my_sql_to_hive_transfer.html#a91612c52f9f45dc6203159e674e2fce0" title="airflow.operators.mysql\l_to_hive.MySqlToHiveTransfer.execute" alt="" coords="314,136,558,177"/>
+</map>

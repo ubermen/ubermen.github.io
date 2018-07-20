@@ -1,0 +1,4 @@
+<map id="airflow.jobs.SchedulerJob" name="airflow.jobs.SchedulerJob">
+<area shape="rect" id="node2" href="$classairflow_1_1jobs_1_1_base_job.html" title="airflow.jobs.BaseJob" alt="" coords="24,169,164,196"/>
+<area shape="rect" id="node4" href="$classairflow_1_1utils_1_1log_1_1logging__mixin_1_1_logging_mixin.html" title="airflow.utils.log.logging\l_mixin.LoggingMixin" alt="" coords="82,80,234,121"/>
+</map>

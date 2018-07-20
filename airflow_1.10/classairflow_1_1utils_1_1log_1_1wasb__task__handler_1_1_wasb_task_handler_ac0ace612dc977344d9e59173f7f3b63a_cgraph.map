@@ -1,0 +1,10 @@
+<map id="airflow.utils.log.wasb_task_handler.WasbTaskHandler.wasb_read" name="airflow.utils.log.wasb_task_handler.WasbTaskHandler.wasb_read">
+<area shape="rect" id="node2" href="$classairflow_1_1utils_1_1log_1_1gcs__task__handler_1_1_g_c_s_task_handler.html#a8c349fbc17bd4898019b245bae18f9b7" title="airflow.utils.log.gcs\l_task_handler.GCSTaskHandler.hook" alt="" coords="335,13,574,54"/>
+<area shape="rect" id="node4" href="$classairflow_1_1utils_1_1log_1_1s3__task__handler_1_1_s3_task_handler.html#ab761be0fb6596affaa3eb9f603e5899b" title="airflow.utils.log.s3\l_task_handler.S3TaskHandler.hook" alt="" coords="341,78,568,119"/>
+<area shape="rect" id="node6" href="$classairflow_1_1utils_1_1log_1_1wasb__task__handler_1_1_wasb_task_handler.html#a3c618d4afac574d2fbb4436421af86c8" title="airflow.utils.log.wasb\l_task_handler.WasbTaskHandler.hook" alt="" coords="332,143,577,185"/>
+<area shape="rect" id="node8" href="$classairflow_1_1utils_1_1log_1_1logging__mixin_1_1_logging_mixin.html#a4748867be8237041588c62ed4b75bffa" title="airflow.utils.log.logging\l_mixin.LoggingMixin.log" alt="" coords="374,239,535,281"/>
+<area shape="rect" id="node3" href="$classairflow_1_1utils_1_1log_1_1gcs__task__handler_1_1_g_c_s_task_handler.html#a4a043a77992cdea5ad3da771f97c4bcc" title="airflow.utils.log.gcs\l_task_handler.GCSTaskHandler.\l_build_hook" alt="" coords="629,5,839,61"/>
+<area shape="rect" id="node5" href="$classairflow_1_1utils_1_1log_1_1s3__task__handler_1_1_s3_task_handler.html#a8c5fee587c4b009e9addf0e014f76ef0" title="airflow.utils.log.s3\l_task_handler.S3TaskHandler.\l_build_hook" alt="" coords="635,85,833,141"/>
+<area shape="rect" id="node7" href="$classairflow_1_1utils_1_1log_1_1wasb__task__handler_1_1_wasb_task_handler.html#aaa190867a6c687ee15ae587793335928" title="airflow.utils.log.wasb\l_task_handler.WasbTaskHandler.\l_build_hook" alt="" coords="625,165,843,221"/>
+<area shape="rect" id="node9" href="$namespaceairflow_1_1utils_1_1log_1_1logging__mixin.html#a88e6bd13ca39ca59bfc486b5ab5879f5" title="airflow.utils.log.logging\l_mixin.set_context" alt="" coords="658,246,810,287"/>
+</map>

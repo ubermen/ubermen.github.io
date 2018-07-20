@@ -1,0 +1,4 @@
+<map id="airflow.www_rbac.views.Airflow.index" name="airflow.www_rbac.views.Airflow.index">
+<area shape="rect" id="node2" href="$classairflow_1_1www__rbac_1_1views_1_1_airflow_base_view.html#af555c24dc2cd743a6e0887f9d3d4e995" title="airflow.www_rbac.views.Airflow\lBaseView.render" alt="" coords="287,5,485,47"/>
+<area shape="rect" id="node3" href="$namespaceairflow_1_1www__rbac_1_1security.html#ad32e11a5702e6cb3c3de27152254f3f8" title="airflow.www_rbac.security.is\l_view_only" alt="" coords="293,71,479,112"/>
+</map>

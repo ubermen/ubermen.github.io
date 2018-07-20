@@ -1,0 +1,4 @@
+<map id="airflow.contrib.hooks.aws_firehose_hook.AwsFirehoseHook.put_records" name="airflow.contrib.hooks.aws_firehose_hook.AwsFirehoseHook.put_records">
+<area shape="rect" id="node2" href="$classairflow_1_1contrib_1_1hooks_1_1aws__dynamodb__hook_1_1_aws_dynamo_d_b_hook.html#af4ef6895245ad5a33d8bb0dc5b7a17a4" title="airflow.contrib.hooks.aws\l_dynamodb_hook.AwsDynamoDBHook.get_conn" alt="" coords="293,5,600,47"/>
+<area shape="rect" id="node3" href="$classairflow_1_1contrib_1_1hooks_1_1aws__firehose__hook_1_1_aws_firehose_hook.html#a9b66e578eb02151171d8bd910c9dab53" title="airflow.contrib.hooks.aws\l_firehose_hook.AwsFirehoseHook.get_conn" alt="" coords="309,71,584,112"/>
+</map>

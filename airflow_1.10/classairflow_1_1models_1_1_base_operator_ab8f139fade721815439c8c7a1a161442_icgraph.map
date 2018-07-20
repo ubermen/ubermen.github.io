@@ -1,0 +1,8 @@
+<map id="airflow.models.BaseOperator.xcom_pull" name="airflow.models.BaseOperator.xcom_pull">
+<area shape="rect" id="node2" href="$classairflow_1_1models_1_1_base_operator.html#a0006dd225e100a9621e1ce559853995f" title="airflow.models.BaseOperator.xcom_push" alt="" coords="304,86,563,113"/>
+<area shape="rect" id="node3" href="$classairflow_1_1contrib_1_1operators_1_1databricks__operator_1_1_databricks_submit_run_operator.html#acb56e208e67101ffbff21665ab311151" title="airflow.contrib.operators.databricks\l_operator.DatabricksSubmitRunOperator.execute" alt="" coords="611,5,917,47"/>
+<area shape="rect" id="node4" href="$classairflow_1_1contrib_1_1operators_1_1gcs__download__operator_1_1_google_cloud_storage_download_operator.html#af35696a3647654e34ee954a13dc92e32" title="airflow.contrib.operators.gcs\l_download_operator.GoogleCloudStorage\lDownloadOperator.execute" alt="" coords="634,71,894,127"/>
+<area shape="rect" id="node5" href="$classairflow_1_1models_1_1_base_operator.html#a9183ff6b9c6d0104ee3496707d9c625f" title="airflow.models.BaseOperator.set\l_upstream" alt="" coords="659,152,869,193"/>
+<area shape="rect" id="node6" href="$classairflow_1_1models_1_1_base_operator.html#a9eace632a04765292d9ac1ae3b125b7c" title="airflow.models.BaseOperator.\l__lshift__" alt="" coords="965,152,1157,193"/>
+<area shape="rect" id="node7" href="$classairflow_1_1models_1_1_base_operator.html#a31021670ad074bedbf454fe167b14157" title="airflow.models.BaseOperator.\l__rrshift__" alt="" coords="1205,152,1397,193"/>
+</map>

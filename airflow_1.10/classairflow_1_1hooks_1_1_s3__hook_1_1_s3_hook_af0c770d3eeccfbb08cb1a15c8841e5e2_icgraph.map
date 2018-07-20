@@ -1,0 +1,11 @@
+<map id="airflow.hooks.S3_hook.S3Hook.parse_s3_url" name="airflow.hooks.S3_hook.S3Hook.parse_s3_url">
+<area shape="rect" id="node2" href="$classairflow_1_1hooks_1_1_s3__hook_1_1_s3_hook.html#a5bc7ce11fc49e8ceb683ef7a8e7ac8a6" title="airflow.hooks.S3_hook.S3\lHook.check_for_key" alt="" coords="225,145,397,186"/>
+<area shape="rect" id="node3" href="$classairflow_1_1hooks_1_1_s3__hook_1_1_s3_hook.html#a676487af81f5acc41af3068af655d51e" title="airflow.hooks.S3_hook.S3\lHook.load_file" alt="" coords="885,115,1057,157"/>
+<area shape="rect" id="node4" href="$classairflow_1_1hooks_1_1_s3__hook_1_1_s3_hook.html#a6ff59d42e38cbd898dca4e9fa39098b1" title="airflow.hooks.S3_hook.S3\lHook.get_wildcard_key" alt="" coords="1105,115,1277,157"/>
+<area shape="rect" id="node6" href="$classairflow_1_1hooks_1_1_s3__hook_1_1_s3_hook.html#a33246f2816e6a2955408a95bbdf531b3" title="airflow.hooks.S3_hook.S3\lHook.select_key" alt="" coords="1568,115,1740,157"/>
+<area shape="rect" id="node8" href="$classairflow_1_1hooks_1_1_s3__hook_1_1_s3_hook.html#a7803e51202436330ad9cb4d61adbe905" title="airflow.hooks.S3_hook.S3\lHook.load_bytes" alt="" coords="445,195,617,237"/>
+<area shape="rect" id="node10" href="$classairflow_1_1hooks_1_1_s3__hook_1_1_s3_hook.html#a364a4d93bc2dce9eb55d09413e722447" title="airflow.hooks.S3_hook.S3\lHook.get_key" alt="" coords="885,181,1057,222"/>
+<area shape="rect" id="node5" href="$classairflow_1_1hooks_1_1_s3__hook_1_1_s3_hook.html#a64bcc003fbfd4b3cc663ca449ae2068c" title="airflow.hooks.S3_hook.S3\lHook.check_for_wildcard_key" alt="" coords="1325,115,1520,157"/>
+<area shape="rect" id="node7" href="$classairflow_1_1hooks_1_1_s3__hook_1_1_s3_hook.html#a4b886ec331bb5e6414508629b28e88e9" title="airflow.hooks.S3_hook.S3\lHook.read_key" alt="" coords="1788,146,1960,187"/>
+<area shape="rect" id="node9" href="$classairflow_1_1hooks_1_1_s3__hook_1_1_s3_hook.html#ad7188cb184b5821fff4e8c4181c97525" title="airflow.hooks.S3_hook.S3\lHook.load_string" alt="" coords="665,195,837,237"/>
+</map>

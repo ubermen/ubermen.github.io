@@ -1,0 +1,6 @@
+<map id="airflow.ti_deps.deps.base_ti_dep.BaseTIDep.get_failure_reasons" name="airflow.ti_deps.deps.base_ti_dep.BaseTIDep.get_failure_reasons">
+<area shape="rect" id="node2" href="$classairflow_1_1ti__deps_1_1deps_1_1base__ti__dep_1_1_base_t_i_dep.html#a453ef4de00e3922a0f5b6a3701303028" title="airflow.ti_deps.deps.base\l_ti_dep.BaseTIDep.get_dep\l_statuses" alt="" coords="248,35,429,91"/>
+<area shape="rect" id="node5" href="$classairflow_1_1ti__deps_1_1deps_1_1base__ti__dep_1_1_base_t_i_dep.html#a080b1f7b62d875f2989caa32af1e8aea" title="airflow.ti_deps.deps.base\l_ti_dep.BaseTIDep.name" alt="" coords="255,116,423,157"/>
+<area shape="rect" id="node3" href="$classairflow_1_1ti__deps_1_1deps_1_1base__ti__dep_1_1_base_t_i_dep.html#add4c048aa1a53886dde117d230f570a3" title="airflow.ti_deps.deps.base\l_ti_dep.BaseTIDep._passing_status" alt="" coords="477,5,708,47"/>
+<area shape="rect" id="node4" href="$classairflow_1_1ti__deps_1_1deps_1_1base__ti__dep_1_1_base_t_i_dep.html#ad07f5996c34252d829949c9026fb63dd" title="airflow.ti_deps.deps.base\l_ti_dep.BaseTIDep._get\l_dep_statuses" alt="" coords="509,71,677,127"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="airflow.lineage.datasets.HadoopFile" name="airflow.lineage.datasets.HadoopFile">
+<area shape="rect" id="node2" href="$classairflow_1_1lineage_1_1datasets_1_1_file.html" title="airflow.lineage.datasets.File" alt="" coords="5,169,188,196"/>
+<area shape="rect" id="node3" href="$classairflow_1_1lineage_1_1datasets_1_1_data_set.html" title="airflow.lineage.datasets.\lDataSet" alt="" coords="16,80,177,121"/>
+</map>

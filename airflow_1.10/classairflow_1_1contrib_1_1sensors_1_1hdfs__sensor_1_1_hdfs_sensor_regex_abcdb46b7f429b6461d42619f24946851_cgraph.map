@@ -1,0 +1,6 @@
+<map id="airflow.contrib.sensors.hdfs_sensor.HdfsSensorRegex.poke" name="airflow.contrib.sensors.hdfs_sensor.HdfsSensorRegex.poke">
+<area shape="rect" id="node2" href="$classairflow_1_1utils_1_1log_1_1logging__mixin_1_1_logging_mixin.html#a4748867be8237041588c62ed4b75bffa" title="airflow.utils.log.logging\l_mixin.LoggingMixin.log" alt="" coords="264,29,425,71"/>
+<area shape="rect" id="node4" href="$classairflow_1_1sensors_1_1hdfs__sensor_1_1_hdfs_sensor.html#a8b12e2d03d88a8f574082173acc67f25" title="airflow.sensors.hdfs\l_sensor.HdfsSensor.filter\l_for_ignored_ext" alt="" coords="261,95,428,151"/>
+<area shape="rect" id="node5" href="$classairflow_1_1sensors_1_1hdfs__sensor_1_1_hdfs_sensor.html#a9489b3fab03be9f6f3c22cbc1b7cbb01" title="airflow.sensors.hdfs\l_sensor.HdfsSensor.filter\l_for_filesize" alt="" coords="261,175,428,231"/>
+<area shape="rect" id="node3" href="$namespaceairflow_1_1utils_1_1log_1_1logging__mixin.html#a88e6bd13ca39ca59bfc486b5ab5879f5" title="airflow.utils.log.logging\l_mixin.set_context" alt="" coords="476,29,628,71"/>
+</map>

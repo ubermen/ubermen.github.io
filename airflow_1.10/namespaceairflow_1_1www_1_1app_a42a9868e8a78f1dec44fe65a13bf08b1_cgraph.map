@@ -1,0 +1,7 @@
+<map id="airflow.www.app.create_app" name="airflow.www.app.create_app">
+<area shape="rect" id="node2" href="$namespaceairflow.html#a16d026e5efe48a11e51867782867ae2e" title="airflow.load_login" alt="" coords="276,5,396,32"/>
+<area shape="rect" id="node3" href="$namespaceairflow_1_1logging__config.html#a552ab7d8fbf1d6b0ccd45f3c8d5be7b4" title="airflow.logging_config.configure\l_logging" alt="" coords="236,57,436,98"/>
+<area shape="rect" id="node6" href="$namespaceairflow_1_1utils_1_1net.html#a0b854ab6e53b25261f86d8b3ed449308" title="airflow.utils.net.get\l_hostname" alt="" coords="271,122,401,163"/>
+<area shape="rect" id="node4" href="$namespaceairflow_1_1utils_1_1module__loading.html#a25eb01509a716ea279e3f99652123115" title="airflow.utils.module\l_loading.prepare_classpath" alt="" coords="484,23,664,65"/>
+<area shape="rect" id="node5" href="$namespaceairflow_1_1utils_1_1module__loading.html#a0b6249c2efebd4cd2c3493e14a3b1c9b" title="airflow.utils.module\l_loading.import_string" alt="" coords="499,89,649,130"/>
+</map>

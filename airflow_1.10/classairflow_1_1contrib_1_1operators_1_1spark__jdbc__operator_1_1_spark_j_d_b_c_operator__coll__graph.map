@@ -1,0 +1,5 @@
+<map id="airflow.contrib.operators.spark_jdbc_operator.SparkJDBCOperator" name="airflow.contrib.operators.spark_jdbc_operator.SparkJDBCOperator">
+<area shape="rect" id="node2" href="$classairflow_1_1contrib_1_1operators_1_1spark__submit__operator_1_1_spark_submit_operator.html" title="airflow.contrib.operators.spark\l_submit_operator.SparkSubmitOperator" alt="" coords="52,276,303,317"/>
+<area shape="rect" id="node3" href="$classairflow_1_1models_1_1_base_operator.html" title="airflow.models.BaseOperator" alt="" coords="83,200,271,227"/>
+<area shape="rect" id="node4" href="$classairflow_1_1utils_1_1log_1_1logging__mixin_1_1_logging_mixin.html" title="airflow.utils.log.logging\l_mixin.LoggingMixin" alt="" coords="5,81,157,123"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="airflow.contrib.hooks.snowflake_hook.SnowflakeHook.set_autocommit" name="airflow.contrib.hooks.snowflake_hook.SnowflakeHook.set_autocommit">
+<area shape="rect" id="node2" href="$classairflow_1_1hooks_1_1dbapi__hook_1_1_db_api_hook.html#acc941459afc4ae6812489450294034af" title="airflow.hooks.dbapi\l_hook.DbApiHook.run" alt="" coords="324,5,472,47"/>
+<area shape="rect" id="node3" href="$classairflow_1_1hooks_1_1dbapi__hook_1_1_db_api_hook.html#aa2c7d8e7dd5ed056fdd39cd9be056277" title="airflow.hooks.dbapi\l_hook.DbApiHook.insert_rows" alt="" coords="300,71,496,112"/>
+<area shape="rect" id="node4" href="$classairflow_1_1hooks_1_1dbapi__hook_1_1_db_api_hook.html#aae7eb649683426546dbf5471ad59546f" title="airflow.hooks.dbapi\l_hook.DbApiHook.get\l_cursor" alt="" coords="544,63,692,119"/>
+<area shape="rect" id="node5" href="$classairflow_1_1hooks_1_1presto__hook_1_1_presto_hook.html#a008b18d854db9fea52403e9c488f74d7" title="airflow.hooks.presto\l_hook.PrestoHook.get\l_pandas_df" alt="" coords="740,63,891,119"/>
+</map>

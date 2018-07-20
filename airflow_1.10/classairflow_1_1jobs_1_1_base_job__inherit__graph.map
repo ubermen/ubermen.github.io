@@ -1,0 +1,6 @@
+<map id="airflow.jobs.BaseJob" name="airflow.jobs.BaseJob">
+<area shape="rect" id="node5" href="$classairflow_1_1jobs_1_1_backfill_job.html" title="airflow.jobs.BackfillJob" alt="" coords="5,244,157,271"/>
+<area shape="rect" id="node6" href="$classairflow_1_1jobs_1_1_local_task_job.html" title="airflow.jobs.LocalTaskJob" alt="" coords="182,244,351,271"/>
+<area shape="rect" id="node7" href="$classairflow_1_1jobs_1_1_scheduler_job.html" title="airflow.jobs.SchedulerJob" alt="" coords="376,244,544,271"/>
+<area shape="rect" id="node3" href="$classairflow_1_1utils_1_1log_1_1logging__mixin_1_1_logging_mixin.html" title="airflow.utils.log.logging\l_mixin.LoggingMixin" alt="" coords="255,80,407,121"/>
+</map>

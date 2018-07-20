@@ -1,0 +1,4 @@
+<map id="airflow.api.common.experimental.get_task_instance.get_task_instance" name="airflow.api.common.experimental.get_task_instance.get_task_instance">
+<area shape="rect" id="node2" href="$namespaceairflow_1_1www_1_1api_1_1experimental_1_1endpoints.html#af23a651103c8c885b1eebf92bca35029" title="airflow.www.api.experimental.endpoints.task\l_instance_info" alt="" coords="303,5,580,47"/>
+<area shape="rect" id="node3" href="$namespaceairflow_1_1www__rbac_1_1api_1_1experimental_1_1endpoints.html#a699d9837ed9771c58776bc94fda9742c" title="airflow.www_rbac.api.experimental.endpoints.task\l_instance_info" alt="" coords="287,71,596,112"/>
+</map>

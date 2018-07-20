@@ -1,0 +1,5 @@
+<map id="airflow.contrib.hooks.snowflake_hook.SnowflakeHook" name="airflow.contrib.hooks.snowflake_hook.SnowflakeHook">
+<area shape="rect" id="node2" href="$classairflow_1_1hooks_1_1dbapi__hook_1_1_db_api_hook.html" title="airflow.hooks.dbapi\l_hook.DbApiHook" alt="" coords="40,259,172,300"/>
+<area shape="rect" id="node3" href="$classairflow_1_1hooks_1_1base__hook_1_1_base_hook.html" title="airflow.hooks.base\l_hook.BaseHook" alt="" coords="41,169,171,211"/>
+<area shape="rect" id="node4" href="$classairflow_1_1utils_1_1log_1_1logging__mixin_1_1_logging_mixin.html" title="airflow.utils.log.logging\l_mixin.LoggingMixin" alt="" coords="30,80,182,121"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="airflow.contrib.operators.jenkins_job_trigger_operator.jenkins_request_with_headers" name="airflow.contrib.operators.jenkins_job_trigger_operator.jenkins_request_with_headers">
+<area shape="rect" id="node2" href="$classairflow_1_1contrib_1_1operators_1_1jenkins__job__trigger__operator_1_1_jenkins_job_trigger_operator.html#aabbfd53890b4b87abbf58f7441d7df35" title="airflow.contrib.operators.jenkins\l_job_trigger_operator.JenkinsJobTrigger\lOperator.build_job" alt="" coords="257,5,508,61"/>
+<area shape="rect" id="node4" href="$classairflow_1_1contrib_1_1operators_1_1jenkins__job__trigger__operator_1_1_jenkins_job_trigger_operator.html#af27f64464c3582216119b290d36f2317" title="airflow.contrib.operators.jenkins\l_job_trigger_operator.JenkinsJobTrigger\lOperator.poll_job_in_queue" alt="" coords="257,85,508,141"/>
+<area shape="rect" id="node3" href="$classairflow_1_1contrib_1_1operators_1_1jenkins__job__trigger__operator_1_1_jenkins_job_trigger_operator.html#a50668deee69c0df7354d1136b9c378fa" title="airflow.contrib.operators.jenkins\l_job_trigger_operator.JenkinsJobTrigger\lOperator.execute" alt="" coords="556,45,807,101"/>
+</map>

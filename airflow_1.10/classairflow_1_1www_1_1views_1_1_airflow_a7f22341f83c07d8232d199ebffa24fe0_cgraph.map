@@ -1,0 +1,4 @@
+<map id="airflow.www.views.Airflow.gantt" name="airflow.www.views.Airflow.gantt">
+<area shape="rect" id="node2" href="$namespaceairflow_1_1www_1_1views.html#a66f74fb5e468b50e801d01ec2d5d0745" title="airflow.www.views.get\l_date_time_num_runs_dag\l_runs_form_data" alt="" coords="262,5,441,61"/>
+<area shape="rect" id="node3" href="$classairflow_1_1www__rbac_1_1views_1_1_airflow_base_view.html#af555c24dc2cd743a6e0887f9d3d4e995" title="airflow.www_rbac.views.Airflow\lBaseView.render" alt="" coords="252,86,451,127"/>
+</map>

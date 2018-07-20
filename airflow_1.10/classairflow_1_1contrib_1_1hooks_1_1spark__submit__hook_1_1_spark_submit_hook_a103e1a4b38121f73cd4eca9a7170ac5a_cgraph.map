@@ -1,0 +1,5 @@
+<map id="airflow.contrib.hooks.spark_submit_hook.SparkSubmitHook.on_kill" name="airflow.contrib.hooks.spark_submit_hook.SparkSubmitHook.on_kill">
+<area shape="rect" id="node2" href="$classairflow_1_1utils_1_1log_1_1logging__mixin_1_1_logging_mixin.html#a4748867be8237041588c62ed4b75bffa" title="airflow.utils.log.logging\l_mixin.LoggingMixin.log" alt="" coords="335,29,497,71"/>
+<area shape="rect" id="node4" href="$classairflow_1_1contrib_1_1hooks_1_1spark__submit__hook_1_1_spark_submit_hook.html#a76bb02c7466c4a9158fb969569536c8d" title="airflow.contrib.hooks.spark\l_submit_hook.SparkSubmitHook.\l_build_spark_driver_kill_command" alt="" coords="307,95,525,151"/>
+<area shape="rect" id="node3" href="$namespaceairflow_1_1utils_1_1log_1_1logging__mixin.html#a88e6bd13ca39ca59bfc486b5ab5879f5" title="airflow.utils.log.logging\l_mixin.set_context" alt="" coords="573,29,725,71"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="airflow.operators.hive_stats_operator.HiveStatsCollectionOperator.execute" name="airflow.operators.hive_stats_operator.HiveStatsCollectionOperator.execute">
+<area shape="rect" id="node2" href="$classairflow_1_1operators_1_1hive__stats__operator_1_1_hive_stats_collection_operator.html#ac94b663e550cf96b03f058a80897a8ac" title="airflow.operators.hive\l_stats_operator.HiveStatsCollection\lOperator.get_default_exprs" alt="" coords="281,5,509,61"/>
+<area shape="rect" id="node3" href="$classairflow_1_1utils_1_1log_1_1logging__mixin_1_1_logging_mixin.html#a4748867be8237041588c62ed4b75bffa" title="airflow.utils.log.logging\l_mixin.LoggingMixin.log" alt="" coords="315,110,476,151"/>
+<area shape="rect" id="node4" href="$namespaceairflow_1_1utils_1_1log_1_1logging__mixin.html#a88e6bd13ca39ca59bfc486b5ab5879f5" title="airflow.utils.log.logging\l_mixin.set_context" alt="" coords="557,110,709,151"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="airflow.models.TaskInstance.email_alert" name="airflow.models.TaskInstance.email_alert">
+<area shape="rect" id="node2" href="$namespaceairflow_1_1contrib_1_1utils_1_1sendgrid.html#a41f34fed29ae0d7df8dd7dbbfbdae289" title="airflow.contrib.utils.sendgrid.send\l_email" alt="" coords="273,5,488,47"/>
+<area shape="rect" id="node3" href="$namespaceairflow_1_1utils_1_1email.html#a91a6d59073e1eee209f29d0502f52800" title="airflow.utils.email.get\l_email_address_list" alt="" coords="536,5,679,47"/>
+</map>

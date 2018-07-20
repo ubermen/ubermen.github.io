@@ -1,0 +1,5 @@
+<map id="airflow.contrib.hooks.datadog_hook.DatadogHook.validate_response" name="airflow.contrib.hooks.datadog_hook.DatadogHook.validate_response">
+<area shape="rect" id="node2" href="$classairflow_1_1contrib_1_1hooks_1_1datadog__hook_1_1_datadog_hook.html#a1df2a4db797f6f2a2fb2dbfcceab49c0" title="airflow.contrib.hooks.datadog\l_hook.DatadogHook.send_metric" alt="" coords="511,5,725,47"/>
+<area shape="rect" id="node3" href="$classairflow_1_1contrib_1_1hooks_1_1datadog__hook_1_1_datadog_hook.html#a2e854305cb17aa50d968cb104f2f79a8" title="airflow.contrib.hooks.datadog\l_hook.DatadogHook.query_metric" alt="" coords="244,35,463,76"/>
+<area shape="rect" id="node4" href="$classairflow_1_1contrib_1_1hooks_1_1datadog__hook_1_1_datadog_hook.html#a49412d0b84cee6753bf1400b7646bbcb" title="airflow.contrib.hooks.datadog\l_hook.DatadogHook.post_event" alt="" coords="251,100,456,141"/>
+</map>

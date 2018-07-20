@@ -1,0 +1,4 @@
+<map id="airflow.models.DagBag" name="airflow.models.DagBag">
+<area shape="rect" id="node2" href="$classairflow_1_1dag_1_1base__dag_1_1_base_dag_bag.html" title="airflow.dag.base_dag.Base\lDagBag" alt="" coords="5,80,183,121"/>
+<area shape="rect" id="node4" href="$classairflow_1_1utils_1_1log_1_1logging__mixin_1_1_logging_mixin.html" title="airflow.utils.log.logging\l_mixin.LoggingMixin" alt="" coords="207,80,359,121"/>
+</map>

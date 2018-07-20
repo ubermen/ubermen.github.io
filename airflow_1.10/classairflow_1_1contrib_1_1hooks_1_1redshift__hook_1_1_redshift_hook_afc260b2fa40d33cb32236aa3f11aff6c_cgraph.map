@@ -1,0 +1,4 @@
+<map id="airflow.contrib.hooks.redshift_hook.RedshiftHook.get_conn" name="airflow.contrib.hooks.redshift_hook.RedshiftHook.get_conn">
+<area shape="rect" id="node2" href="$classairflow_1_1contrib_1_1hooks_1_1aws__hook_1_1_aws_hook.html#a9e0f04c8df26a3a5804c5694eea70677" title="airflow.contrib.hooks.aws\l_hook.AwsHook.get_client_type" alt="" coords="248,5,456,47"/>
+<area shape="rect" id="node3" href="$classairflow_1_1contrib_1_1hooks_1_1aws__hook_1_1_aws_hook.html#a7a6471917826c9277a7c2cf39bd6ca2e" title="airflow.contrib.hooks.aws\l_hook.AwsHook._get_credentials" alt="" coords="504,5,719,47"/>
+</map>

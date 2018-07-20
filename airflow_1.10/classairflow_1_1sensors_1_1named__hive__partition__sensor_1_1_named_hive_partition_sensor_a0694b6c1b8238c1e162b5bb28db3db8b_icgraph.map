@@ -1,0 +1,4 @@
+<map id="airflow.sensors.named_hive_partition_sensor.NamedHivePartitionSensor.parse_partition_name" name="airflow.sensors.named_hive_partition_sensor.NamedHivePartitionSensor.parse_partition_name">
+<area shape="rect" id="node2" href="$classairflow_1_1sensors_1_1named__hive__partition__sensor_1_1_named_hive_partition_sensor.html#a7bbaf786ed957cf736113fea4259493c" title="airflow.sensors.named\l_hive_partition_sensor.Named\lHivePartitionSensor.poke\l_partition" alt="" coords="248,5,443,76"/>
+<area shape="rect" id="node3" href="$classairflow_1_1sensors_1_1named__hive__partition__sensor_1_1_named_hive_partition_sensor.html#ade272c09864ca24e48211be37f038c2c" title="airflow.sensors.named\l_hive_partition_sensor.Named\lHivePartitionSensor.poke" alt="" coords="491,13,685,69"/>
+</map>

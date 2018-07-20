@@ -1,0 +1,27 @@
+<map id="airflow.models.TaskInstance.previous_ti" name="airflow.models.TaskInstance.previous_ti">
+<area shape="rect" id="node2" href="$classairflow_1_1models_1_1_task_instance.html#a2220d6108fe56151a9752a1385c340e0" title="airflow.models.TaskInstance.get\l_dagrun" alt="" coords="304,331,511,372"/>
+<area shape="rect" id="node5" href="$classairflow_1_1models_1_1_task_instance.html#a4c9b1a8fbff9b55773e721ec9d270ffc" title="airflow.models.TaskInstance.are\l_dependencies_met" alt="" coords="569,31,776,72"/>
+<area shape="rect" id="node3" href="$classairflow_1_1models_1_1_task_instance.html#a47518bce24691dcd9af310cada52ca51" title="airflow.models.TaskInstance.refresh\l_from_db" alt="" coords="559,266,787,307"/>
+<area shape="rect" id="node4" href="$namespaceairflow_1_1utils_1_1net.html#a0b854ab6e53b25261f86d8b3ed449308" title="airflow.utils.net.get\l_hostname" alt="" coords="607,331,738,372"/>
+<area shape="rect" id="node6" href="$classairflow_1_1utils_1_1log_1_1logging__mixin_1_1_logging_mixin.html#a4748867be8237041588c62ed4b75bffa" title="airflow.utils.log.logging\l_mixin.LoggingMixin.log" alt="" coords="1150,90,1311,131"/>
+<area shape="rect" id="node9" href="$classairflow_1_1models_1_1_task_instance.html#a7c4220a59c6b1301fe86860a38df50db" title="airflow.models.TaskInstance.get\l_template_context" alt="" coords="841,676,1048,718"/>
+<area shape="rect" id="node12" href="$classairflow_1_1models_1_1_task_instance.html#a0d7978b2634b96a361fe93a8b21cfd67" title="airflow.models.TaskInstance.error" alt="" coords="837,294,1052,321"/>
+<area shape="rect" id="node13" href="$classairflow_1_1models_1_1_task_instance.html#a2c618e68392c55b1ca0d38312d890f73" title="airflow.models.TaskInstance.clear\l_xcom_data" alt="" coords="564,148,781,190"/>
+<area shape="rect" id="node14" href="$classairflow_1_1models_1_1_task_instance.html#a542d99977eff904a8ec3a0cf6ee789f4" title="airflow.models.TaskInstance.render\l_templates" alt="" coords="560,695,785,736"/>
+<area shape="rect" id="node15" href="$classairflow_1_1models_1_1_task_instance.html#a6212d8539e159eabe1da05eb0a5913e7" title="airflow.models.TaskInstance.xcom_push" alt="" coords="1103,556,1359,582"/>
+<area shape="rect" id="node18" href="$classairflow_1_1models_1_1_task_instance.html#acb6da04f0e7ca836b84922ddf9a1a4f3" title="airflow.models.TaskInstance.handle\l_failure" alt="" coords="559,448,786,490"/>
+<area shape="rect" id="node19" href="$classairflow_1_1models_1_1_task_instance.html#afd84915ea5e4c7aa4953253cd6445913" title="airflow.models.TaskInstance.set\l_duration" alt="" coords="841,527,1048,568"/>
+<area shape="rect" id="node24" href="$classairflow_1_1models_1_1_task_instance.html#a2d22f9c942c1a8e1ebec0fa1b8145909" title="airflow.models.TaskInstance.run" alt="" coords="569,214,776,241"/>
+<area shape="rect" id="node8" href="$classairflow_1_1models_1_1_task_instance.html#adb9cd29f0139f0dcb0a6439a435a7b93" title="airflow.models.TaskInstance.get\l_failed_dep_statuses" alt="" coords="841,31,1048,72"/>
+<area shape="rect" id="node7" href="$namespaceairflow_1_1utils_1_1log_1_1logging__mixin.html#a88e6bd13ca39ca59bfc486b5ab5879f5" title="airflow.utils.log.logging\l_mixin.set_context" alt="" coords="1455,90,1607,131"/>
+<area shape="rect" id="node10" href="$classairflow_1_1models_1_1_task_instance.html#a3365162fed39daf06fcd3256baa67f54" title="airflow.models.TaskInstance.overwrite\l_params_with_dag_run_conf" alt="" coords="1111,624,1350,666"/>
+<area shape="rect" id="node11" href="$classairflow_1_1models_1_1_task_instance.html#a6fdbca54b87a8a3ddf75ca0ef418b65e" title="airflow.models.TaskInstance.\l__init__" alt="" coords="1136,690,1325,731"/>
+<area shape="rect" id="node16" href="$classairflow_1_1models_1_1_task_instance.html#a4ab306a1933763c8f6155fd595746ca6" title="airflow.models.TaskInstance.xcom_pull" alt="" coords="1407,556,1655,582"/>
+<area shape="rect" id="node17" href="$namespaceairflow_1_1utils_1_1helpers.html#a3a4b613c38c9215e4b5401624f31f571" title="airflow.utils.helpers.is\l_container" alt="" coords="1703,548,1849,590"/>
+<area shape="rect" id="node20" href="$classairflow_1_1models_1_1_task_instance.html#a461ea1824e476281e789eb7e83c6fdcb" title="airflow.models.TaskInstance.is\l_eligible_to_retry" alt="" coords="845,462,1044,503"/>
+<area shape="rect" id="node21" href="$classairflow_1_1models_1_1_task_instance.html#abfbcdfafa7e55b2741b8217a0745766e" title="airflow.models.TaskInstance.email\l_alert" alt="" coords="835,396,1055,438"/>
+<area shape="rect" id="node22" href="$namespaceairflow_1_1contrib_1_1utils_1_1sendgrid.html#a41f34fed29ae0d7df8dd7dbbfbdae289" title="airflow.contrib.utils.sendgrid.send\l_email" alt="" coords="1123,396,1338,438"/>
+<area shape="rect" id="node23" href="$namespaceairflow_1_1utils_1_1email.html#a91a6d59073e1eee209f29d0502f52800" title="airflow.utils.email.get\l_email_address_list" alt="" coords="1459,396,1602,438"/>
+<area shape="rect" id="node25" href="$classairflow_1_1models_1_1_task_instance.html#a9d30ae9065f80effce4ef2a68c2bb436" title="airflow.models.TaskInstance.\l_check_and_change_state_before\l_execution" alt="" coords="835,214,1054,270"/>
+<area shape="rect" id="node26" href="$classairflow_1_1models_1_1_task_instance.html#a2711988b57d21ac4724ab07c2b122501" title="airflow.models.TaskInstance.\l_run_raw_task" alt="" coords="850,148,1039,190"/>
+</map>

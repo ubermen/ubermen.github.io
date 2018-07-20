@@ -1,0 +1,4 @@
+<map id="airflow.models.TaskInstance.next_retry_datetime" name="airflow.models.TaskInstance.next_retry_datetime">
+<area shape="rect" id="node2" href="$classairflow_1_1models_1_1_task_instance.html#ad4a76a072e8d5d3901dfca9f25cc169b" title="airflow.models.TaskInstance.ready\l_for_retry" alt="" coords="268,5,489,47"/>
+<area shape="rect" id="node3" href="$classairflow_1_1models_1_1_task_instance.html#ad2ec3bb46ae2f41d9400ee107b9ff808" title="airflow.models.TaskInstance.is\l_premature" alt="" coords="537,5,736,47"/>
+</map>

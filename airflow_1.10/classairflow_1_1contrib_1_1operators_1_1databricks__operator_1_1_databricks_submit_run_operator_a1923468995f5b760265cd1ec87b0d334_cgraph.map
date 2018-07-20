@@ -1,0 +1,6 @@
+<map id="airflow.contrib.operators.databricks_operator.DatabricksSubmitRunOperator.on_kill" name="airflow.contrib.operators.databricks_operator.DatabricksSubmitRunOperator.on_kill">
+<area shape="rect" id="node2" href="$classairflow_1_1contrib_1_1operators_1_1awsbatch__operator_1_1_a_w_s_batch_operator.html#a5889af2f8046c023d6814122035b92a1" title="airflow.contrib.operators.awsbatch\l_operator.AWSBatchOperator.get_hook" alt="" coords="381,5,633,47"/>
+<area shape="rect" id="node3" href="$classairflow_1_1contrib_1_1operators_1_1databricks__operator_1_1_databricks_submit_run_operator.html#afab7c94e58cec7ecb3ddccaa8fa0cc92" title="airflow.contrib.operators.databricks\l_operator.DatabricksSubmitRunOperator.get_hook" alt="" coords="351,71,664,112"/>
+<area shape="rect" id="node4" href="$classairflow_1_1utils_1_1log_1_1logging__mixin_1_1_logging_mixin.html#a4748867be8237041588c62ed4b75bffa" title="airflow.utils.log.logging\l_mixin.LoggingMixin.log" alt="" coords="427,160,588,201"/>
+<area shape="rect" id="node5" href="$namespaceairflow_1_1utils_1_1log_1_1logging__mixin.html#a88e6bd13ca39ca59bfc486b5ab5879f5" title="airflow.utils.log.logging\l_mixin.set_context" alt="" coords="712,160,864,201"/>
+</map>

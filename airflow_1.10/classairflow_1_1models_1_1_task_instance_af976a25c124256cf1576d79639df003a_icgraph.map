@@ -1,0 +1,4 @@
+<map id="airflow.models.TaskInstance.command_as_list" name="airflow.models.TaskInstance.command_as_list">
+<area shape="rect" id="node2" href="$classairflow_1_1models_1_1_task_instance.html#ab07e2e3e865893db158dd93816045282" title="airflow.models.TaskInstance.command" alt="" coords="300,13,547,39"/>
+<area shape="rect" id="node3" href="$classairflow_1_1models_1_1_task_instance.html#a76f3a66685b195bea0c8a32b1fbda4ee" title="airflow.models.TaskInstance.next\l_try_number" alt="" coords="595,5,809,47"/>
+</map>

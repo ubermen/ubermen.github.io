@@ -1,0 +1,5 @@
+<map id="airflow.operators.hive_to_druid.HiveToDruidTransfer.execute" name="airflow.operators.hive_to_druid.HiveToDruidTransfer.execute">
+<area shape="rect" id="node2" href="$classairflow_1_1utils_1_1log_1_1logging__mixin_1_1_logging_mixin.html#a4748867be8237041588c62ed4b75bffa" title="airflow.utils.log.logging\l_mixin.LoggingMixin.log" alt="" coords="341,29,502,71"/>
+<area shape="rect" id="node4" href="$classairflow_1_1operators_1_1hive__to__druid_1_1_hive_to_druid_transfer.html#ad7ff02fb89fe2fcd650458f7e2329aa3" title="airflow.operators.hive\l_to_druid.HiveToDruidTransfer.construct\l_ingest_query" alt="" coords="296,95,547,151"/>
+<area shape="rect" id="node3" href="$namespaceairflow_1_1utils_1_1log_1_1logging__mixin.html#a88e6bd13ca39ca59bfc486b5ab5879f5" title="airflow.utils.log.logging\l_mixin.set_context" alt="" coords="595,29,747,71"/>
+</map>

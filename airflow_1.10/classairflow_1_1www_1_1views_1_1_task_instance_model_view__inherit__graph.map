@@ -1,0 +1,4 @@
+<map id="airflow.www.views.TaskInstanceModelView" name="airflow.www.views.TaskInstanceModelView">
+<area shape="rect" id="node2" href="$classairflow_1_1www_1_1views_1_1_model_view_only.html" title="airflow.www.views.ModelViewOnly" alt="" coords="57,169,275,196"/>
+<area shape="rect" id="node4" href="$classairflow_1_1www_1_1views_1_1_airflow_model_view.html" title="airflow.www.views.Airflow\lModelView" alt="" coords="172,80,339,121"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="airflow.contrib.operators.gcs_download_operator.GoogleCloudStorageDownloadOperator.execute" name="airflow.contrib.operators.gcs_download_operator.GoogleCloudStorageDownloadOperator.execute">
+<area shape="rect" id="node2" href="$classairflow_1_1utils_1_1log_1_1logging__mixin_1_1_logging_mixin.html#a4748867be8237041588c62ed4b75bffa" title="airflow.utils.log.logging\l_mixin.LoggingMixin.log" alt="" coords="362,29,523,71"/>
+<area shape="rect" id="node4" href="$classairflow_1_1models_1_1_base_operator.html#a0006dd225e100a9621e1ce559853995f" title="airflow.models.BaseOperator.xcom_push" alt="" coords="313,95,572,122"/>
+<area shape="rect" id="node3" href="$namespaceairflow_1_1utils_1_1log_1_1logging__mixin.html#a88e6bd13ca39ca59bfc486b5ab5879f5" title="airflow.utils.log.logging\l_mixin.set_context" alt="" coords="669,29,821,71"/>
+<area shape="rect" id="node5" href="$classairflow_1_1models_1_1_base_operator.html#ab8f139fade721815439c8c7a1a161442" title="airflow.models.BaseOperator.xcom_pull" alt="" coords="620,95,871,122"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="airflow.lineage.backend.atlas.AtlasBackend.send_lineage" name="airflow.lineage.backend.atlas.AtlasBackend.send_lineage">
+<area shape="rect" id="node2" href="$namespaceairflow_1_1utils_1_1timezone.html#a9e5b3e01fbd400ba09f086856360d075" title="airflow.utils.timezone.convert\l_to_utc" alt="" coords="245,5,433,47"/>
+<area shape="rect" id="node3" href="$namespaceairflow_1_1utils_1_1timezone.html#a1efc4fdc69e5b84001310a6b2b8af3f6" title="airflow.utils.timezone.is\l_localized" alt="" coords="481,5,639,47"/>
+</map>

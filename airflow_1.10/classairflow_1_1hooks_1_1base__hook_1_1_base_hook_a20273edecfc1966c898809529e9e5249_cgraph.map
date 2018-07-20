@@ -1,0 +1,5 @@
+<map id="airflow.hooks.base_hook.BaseHook.get_connection" name="airflow.hooks.base_hook.BaseHook.get_connection">
+<area shape="rect" id="node2" href="$classairflow_1_1hooks_1_1base__hook_1_1_base_hook.html#a29767c5109b1b1ca614e5857145dd97c" title="airflow.hooks.base\l_hook.BaseHook.get_connections" alt="" coords="267,53,487,94"/>
+<area shape="rect" id="node3" href="$classairflow_1_1hooks_1_1base__hook_1_1_base_hook.html#ad2acfe344417dabbf18ed4b202081af2" title="airflow.hooks.base\l_hook.BaseHook._get\l_connection_from_env" alt="" coords="535,5,686,61"/>
+<area shape="rect" id="node4" href="$classairflow_1_1hooks_1_1base__hook_1_1_base_hook.html#a48b7825e895c21437bca842d30309b4d" title="airflow.hooks.base\l_hook.BaseHook._get\l_connections_from_db" alt="" coords="535,85,687,141"/>
+</map>

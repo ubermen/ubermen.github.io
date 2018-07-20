@@ -1,0 +1,4 @@
+<map id="airflow.executors.local_executor.LocalWorker" name="airflow.executors.local_executor.LocalWorker">
+<area shape="rect" id="node5" href="$classairflow_1_1executors_1_1local__executor_1_1_queued_local_worker.html" title="airflow.executors.local\l_executor.QueuedLocalWorker" alt="" coords="81,259,283,300"/>
+<area shape="rect" id="node3" href="$classairflow_1_1utils_1_1log_1_1logging__mixin_1_1_logging_mixin.html" title="airflow.utils.log.logging\l_mixin.LoggingMixin" alt="" coords="199,80,351,121"/>
+</map>

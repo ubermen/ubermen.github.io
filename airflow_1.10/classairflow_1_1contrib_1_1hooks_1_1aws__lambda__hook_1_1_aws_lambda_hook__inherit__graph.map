@@ -1,0 +1,5 @@
+<map id="airflow.contrib.hooks.aws_lambda_hook.AwsLambdaHook" name="airflow.contrib.hooks.aws_lambda_hook.AwsLambdaHook">
+<area shape="rect" id="node2" href="$classairflow_1_1contrib_1_1hooks_1_1aws__hook_1_1_aws_hook.html" title="airflow.contrib.hooks.aws\l_hook.AwsHook" alt="" coords="27,259,194,300"/>
+<area shape="rect" id="node3" href="$classairflow_1_1hooks_1_1base__hook_1_1_base_hook.html" title="airflow.hooks.base\l_hook.BaseHook" alt="" coords="46,169,175,211"/>
+<area shape="rect" id="node4" href="$classairflow_1_1utils_1_1log_1_1logging__mixin_1_1_logging_mixin.html" title="airflow.utils.log.logging\l_mixin.LoggingMixin" alt="" coords="35,80,187,121"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="airflow.contrib.sensors.emr_base_sensor.EmrBaseSensor" name="airflow.contrib.sensors.emr_base_sensor.EmrBaseSensor">
+<area shape="rect" id="node7" href="$classairflow_1_1contrib_1_1sensors_1_1emr__job__flow__sensor_1_1_emr_job_flow_sensor.html" title="airflow.contrib.sensors.emr\l_job_flow_sensor.EmrJobFlowSensor" alt="" coords="1043,5,1280,47"/>
+<area shape="rect" id="node8" href="$classairflow_1_1contrib_1_1sensors_1_1emr__step__sensor_1_1_emr_step_sensor.html" title="airflow.contrib.sensors.emr\l_step_sensor.EmrStepSensor" alt="" coords="1063,71,1259,112"/>
+<area shape="rect" id="node2" href="$classairflow_1_1sensors_1_1base__sensor__operator_1_1_base_sensor_operator.html" title="airflow.sensors.base\l_sensor_operator.BaseSensor\lOperator" alt="" coords="547,31,744,87"/>
+<area shape="rect" id="node3" href="$classairflow_1_1models_1_1_base_operator.html" title="airflow.models.BaseOperator" alt="" coords="311,21,499,47"/>
+<area shape="rect" id="node4" href="$classairflow_1_1utils_1_1log_1_1logging__mixin_1_1_logging_mixin.html" title="airflow.utils.log.logging\l_mixin.LoggingMixin" alt="" coords="111,39,263,80"/>
+<area shape="rect" id="node6" href="$classairflow_1_1models_1_1_skip_mixin.html" title="airflow.models.SkipMixin" alt="" coords="322,71,487,98"/>
+</map>

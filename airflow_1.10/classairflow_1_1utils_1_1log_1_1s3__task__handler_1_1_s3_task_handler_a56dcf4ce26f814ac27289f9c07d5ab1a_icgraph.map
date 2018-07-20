@@ -1,0 +1,4 @@
+<map id="airflow.utils.log.s3_task_handler.S3TaskHandler.s3_read" name="airflow.utils.log.s3_task_handler.S3TaskHandler.s3_read">
+<area shape="rect" id="node2" href="$classairflow_1_1utils_1_1log_1_1s3__task__handler_1_1_s3_task_handler.html#a2e216b51ff7864109c01410057fc69fe" title="airflow.utils.log.s3\l_task_handler.S3TaskHandler.close" alt="" coords="593,5,824,47"/>
+<area shape="rect" id="node3" href="$classairflow_1_1utils_1_1log_1_1s3__task__handler_1_1_s3_task_handler.html#a123af5253bb24fa6622f9f3ea48450d8" title="airflow.utils.log.s3\l_task_handler.S3TaskHandler.s3_write" alt="" coords="299,35,545,76"/>
+</map>

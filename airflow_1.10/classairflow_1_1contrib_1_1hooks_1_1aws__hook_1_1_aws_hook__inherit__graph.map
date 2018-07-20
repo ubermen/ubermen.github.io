@@ -1,0 +1,10 @@
+<map id="airflow.contrib.hooks.aws_hook.AwsHook" name="airflow.contrib.hooks.aws_hook.AwsHook">
+<area shape="rect" id="node5" href="$classairflow_1_1contrib_1_1hooks_1_1aws__dynamodb__hook_1_1_aws_dynamo_d_b_hook.html" title="airflow.contrib.hooks.aws\l_dynamodb_hook.AwsDynamoDBHook" alt="" coords="703,5,952,47"/>
+<area shape="rect" id="node6" href="$classairflow_1_1contrib_1_1hooks_1_1aws__firehose__hook_1_1_aws_firehose_hook.html" title="airflow.contrib.hooks.aws\l_firehose_hook.AwsFirehoseHook" alt="" coords="718,71,937,112"/>
+<area shape="rect" id="node7" href="$classairflow_1_1contrib_1_1hooks_1_1aws__lambda__hook_1_1_aws_lambda_hook.html" title="airflow.contrib.hooks.aws\l_lambda_hook.AwsLambdaHook" alt="" coords="722,136,933,177"/>
+<area shape="rect" id="node8" href="$classairflow_1_1contrib_1_1hooks_1_1emr__hook_1_1_emr_hook.html" title="airflow.contrib.hooks.emr\l_hook.EmrHook" alt="" coords="744,201,911,243"/>
+<area shape="rect" id="node9" href="$classairflow_1_1contrib_1_1hooks_1_1redshift__hook_1_1_redshift_hook.html" title="airflow.contrib.hooks.redshift\l_hook.RedshiftHook" alt="" coords="734,267,921,308"/>
+<area shape="rect" id="node10" href="$classairflow_1_1hooks_1_1_s3__hook_1_1_s3_hook.html" title="airflow.hooks.S3_hook.S3Hook" alt="" coords="726,333,929,359"/>
+<area shape="rect" id="node2" href="$classairflow_1_1hooks_1_1base__hook_1_1_base_hook.html" title="airflow.hooks.base\l_hook.BaseHook" alt="" coords="311,169,440,211"/>
+<area shape="rect" id="node3" href="$classairflow_1_1utils_1_1log_1_1logging__mixin_1_1_logging_mixin.html" title="airflow.utils.log.logging\l_mixin.LoggingMixin" alt="" coords="111,169,263,211"/>
+</map>

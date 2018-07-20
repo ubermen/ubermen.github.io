@@ -1,0 +1,4 @@
+<map id="airflow.contrib.operators.postgres_to_gcs_operator.PostgresToGoogleCloudStorageOperator" name="airflow.contrib.operators.postgres_to_gcs_operator.PostgresToGoogleCloudStorageOperator">
+<area shape="rect" id="node2" href="$classairflow_1_1models_1_1_base_operator.html" title="airflow.models.BaseOperator" alt="" coords="45,169,233,196"/>
+<area shape="rect" id="node3" href="$classairflow_1_1utils_1_1log_1_1logging__mixin_1_1_logging_mixin.html" title="airflow.utils.log.logging\l_mixin.LoggingMixin" alt="" coords="63,80,215,121"/>
+</map>

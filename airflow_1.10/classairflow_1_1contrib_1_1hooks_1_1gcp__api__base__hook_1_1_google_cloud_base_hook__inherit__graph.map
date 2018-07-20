@@ -1,0 +1,11 @@
+<map id="airflow.contrib.hooks.gcp_api_base_hook.GoogleCloudBaseHook" name="airflow.contrib.hooks.gcp_api_base_hook.GoogleCloudBaseHook">
+<area shape="rect" id="node5" href="$classairflow_1_1contrib_1_1hooks_1_1bigquery__hook_1_1_big_query_hook.html" title="airflow.contrib.hooks.bigquery\l_hook.BigQueryHook" alt="" coords="799,5,993,47"/>
+<area shape="rect" id="node6" href="$classairflow_1_1contrib_1_1hooks_1_1datastore__hook_1_1_datastore_hook.html" title="airflow.contrib.hooks.datastore\l_hook.DatastoreHook" alt="" coords="797,71,995,112"/>
+<area shape="rect" id="node7" href="$classairflow_1_1contrib_1_1hooks_1_1gcp__dataflow__hook_1_1_data_flow_hook.html" title="airflow.contrib.hooks.gcp\l_dataflow_hook.DataFlowHook" alt="" coords="797,136,995,177"/>
+<area shape="rect" id="node8" href="$classairflow_1_1contrib_1_1hooks_1_1gcp__dataproc__hook_1_1_data_proc_hook.html" title="airflow.contrib.hooks.gcp\l_dataproc_hook.DataProcHook" alt="" coords="795,201,997,243"/>
+<area shape="rect" id="node9" href="$classairflow_1_1contrib_1_1hooks_1_1gcp__mlengine__hook_1_1_m_l_engine_hook.html" title="airflow.contrib.hooks.gcp\l_mlengine_hook.MLEngineHook" alt="" coords="792,267,1000,308"/>
+<area shape="rect" id="node10" href="$classairflow_1_1contrib_1_1hooks_1_1gcp__pubsub__hook_1_1_pub_sub_hook.html" title="airflow.contrib.hooks.gcp\l_pubsub_hook.PubSubHook" alt="" coords="803,332,989,373"/>
+<area shape="rect" id="node11" href="$classairflow_1_1contrib_1_1hooks_1_1gcs__hook_1_1_google_cloud_storage_hook.html" title="airflow.contrib.hooks.gcs\l_hook.GoogleCloudStorageHook" alt="" coords="791,397,1001,439"/>
+<area shape="rect" id="node2" href="$classairflow_1_1hooks_1_1base__hook_1_1_base_hook.html" title="airflow.hooks.base\l_hook.BaseHook" alt="" coords="311,231,440,272"/>
+<area shape="rect" id="node3" href="$classairflow_1_1utils_1_1log_1_1logging__mixin_1_1_logging_mixin.html" title="airflow.utils.log.logging\l_mixin.LoggingMixin" alt="" coords="111,201,263,243"/>
+</map>

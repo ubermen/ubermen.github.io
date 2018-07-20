@@ -1,0 +1,7 @@
+<map id="airflow.www.views.Airflow.duration" name="airflow.www.views.Airflow.duration">
+<area shape="rect" id="node2" href="$namespaceairflow_1_1utils_1_1timezone.html#a99587bdd9a86c92215cecc06806c4eff" title="airflow.utils.timezone.datetime" alt="" coords="270,5,467,32"/>
+<area shape="rect" id="node3" href="$namespaceairflow_1_1www_1_1views.html#ad9107d721d640602e6e6418025d09213" title="airflow.www.views.get\l_chart_height" alt="" coords="295,57,442,98"/>
+<area shape="rect" id="node4" href="$namespaceairflow_1_1utils_1_1dates.html#adf517657ef3c89733bd7ebbbd07ccea5" title="airflow.utils.dates.infer\l_time_unit" alt="" coords="293,122,444,163"/>
+<area shape="rect" id="node5" href="$namespaceairflow_1_1utils_1_1dates.html#aa9f2efc21c0f65747a7ce8862b5872b9" title="airflow.utils.dates.scale\l_time_units" alt="" coords="290,187,447,229"/>
+<area shape="rect" id="node6" href="$classairflow_1_1www__rbac_1_1views_1_1_airflow_base_view.html#af555c24dc2cd743a6e0887f9d3d4e995" title="airflow.www_rbac.views.Airflow\lBaseView.render" alt="" coords="269,253,468,294"/>
+</map>

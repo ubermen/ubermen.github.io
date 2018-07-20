@@ -1,0 +1,5 @@
+<map id="airflow.task.task_runner.bash_task_runner.BashTaskRunner.terminate" name="airflow.task.task_runner.bash_task_runner.BashTaskRunner.terminate">
+<area shape="rect" id="node2" href="$namespaceairflow_1_1utils_1_1helpers.html#a078c9046889813812dd44a8a740659ee" title="airflow.utils.helpers.reap\l_process_group" alt="" coords="312,5,473,47"/>
+<area shape="rect" id="node3" href="$classairflow_1_1utils_1_1log_1_1logging__mixin_1_1_logging_mixin.html#a4748867be8237041588c62ed4b75bffa" title="airflow.utils.log.logging\l_mixin.LoggingMixin.log" alt="" coords="312,95,473,136"/>
+<area shape="rect" id="node4" href="$namespaceairflow_1_1utils_1_1log_1_1logging__mixin.html#a88e6bd13ca39ca59bfc486b5ab5879f5" title="airflow.utils.log.logging\l_mixin.set_context" alt="" coords="521,95,673,136"/>
+</map>

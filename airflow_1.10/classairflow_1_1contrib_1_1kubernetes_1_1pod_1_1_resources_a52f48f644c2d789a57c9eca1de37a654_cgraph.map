@@ -1,0 +1,4 @@
+<map id="airflow.contrib.kubernetes.pod.Resources.is_empty_resource_request" name="airflow.contrib.kubernetes.pod.Resources.is_empty_resource_request">
+<area shape="rect" id="node2" href="$classairflow_1_1contrib_1_1kubernetes_1_1pod_1_1_resources.html#a7e36507f0b49bed64a4bce40542975c5" title="airflow.contrib.kubernetes.pod.\lResources.has_limits" alt="" coords="301,5,500,47"/>
+<area shape="rect" id="node3" href="$classairflow_1_1contrib_1_1kubernetes_1_1pod_1_1_resources.html#a45fc29866d809456a4ad7d7e119c369d" title="airflow.contrib.kubernetes.pod.\lResources.has_requests" alt="" coords="301,71,500,112"/>
+</map>
